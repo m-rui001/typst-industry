@@ -168,3 +168,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [型材挤出口模优化的几何表示方法](https://arxiv.org/abs/2609.27602v1) | [正文](papers/2609.27602/main.typ) | [短评](papers/2609.27602/summary.md) · [详评](papers/2609.27602/summary.typ) | — |
 | [孔穴几何对成核池沸腾气泡动力学的影响](https://arxiv.org/abs/2408.14907v1) | [正文](papers/2408.14907/main.typ) | [短评](papers/2408.14907/summary.md) · [详评](papers/2408.14907/summary.typ) | — |
 | [液滴撞击加热柱与莱顿弗罗斯特动力学](https://arxiv.org/abs/2209.07784v1) | [正文](papers/2209.07784/main.typ) | [短评](papers/2209.07784/summary.md) · [详评](papers/2209.07784/summary.typ) | — |
+| [竖直料仓倾斜出口的颗粒流量](https://arxiv.org/abs/2502.02306v1) | [正文](papers/2502.02306/main.typ) · [补充材料](papers/2502.02306/supplement.typ) | [短评](papers/2502.02306/summary.md) · [详评](papers/2502.02306/summary.typ) | — |
