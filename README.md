@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用光电流谱反推氮化铝镓光电二极管的局部电场](https://arxiv.org/abs/2611.19296v1) | [`main.typ`](papers/2611.19296/main.typ)（按 PDF 重建） | [详评](papers/2611.19296/summary.typ) · [短评](papers/2611.19296/summary.md) | [图形](papers/2611.19296/graphics) |
 | [用热成像追踪新戊二醇晶体的相变形核](https://arxiv.org/abs/2604.11425v1) | [`main.typ`](papers/2604.11425/main.typ)（按 PDF 重建） | [详评](papers/2604.11425/summary.typ) · [短评](papers/2604.11425/summary.md) | [图形](papers/2604.11425/graphics) |
 | [从多视角激光超声扫描重建工件表面波场](https://arxiv.org/abs/2611.00527v1) | [`main.typ`](papers/2611.00527/main.typ)（按 PDF 重建） | [详评](papers/2611.00527/summary.typ) · [短评](papers/2611.00527/summary.md) | [图形](papers/2611.00527/graphics) |
 | [用相对两面的测量补偿钛合金超声背散射](https://arxiv.org/abs/2605.22024v1) | [`main.typ`](papers/2605.22024/main.typ)（按 PDF 重建） | [详评](papers/2605.22024/summary.typ) · [短评](papers/2605.22024/summary.md) | [图形](papers/2605.22024/graphics) |
