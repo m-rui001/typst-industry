@@ -142,3 +142,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [用腔长调节室温微腔的激子—光子耦合](https://arxiv.org/abs/2512.12566v1) | [正文](papers/2512.12566/main.typ) | [短评](papers/2512.12566/summary.md) · [详评](papers/2512.12566/summary.typ) | — |
 | [X 波磁体的量子几何与输运](https://arxiv.org/abs/2512.05477v1) | [正文与附录](papers/2512.05477/main.typ) | [短评](papers/2512.05477/summary.md) · [详评](papers/2512.05477/summary.typ) | — |
 | [全网反馈下的技术扩散与网络局域化](https://arxiv.org/abs/2512.15371v1) | [正文与附录](papers/2512.15371/main.typ) | [短评](papers/2512.15371/summary.md) · [详评](papers/2512.15371/summary.typ) | — |
+| [增材制造形状记忆合金复合驱动器](https://arxiv.org/abs/2604.14432v1) | [正文](papers/2604.14432/main.typ) | [短评](papers/2604.14432/summary.md) · [详评](papers/2604.14432/summary.typ) | — |
