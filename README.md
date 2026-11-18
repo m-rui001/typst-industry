@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [氮流量如何改变超薄氮化铝钪的翻转窗口](https://arxiv.org/abs/2511.18160v1) | [`main.typ`](papers/2511.18160/main.typ)（按 PDF 重建） | [详评](papers/2511.18160/summary.typ) · [短评](papers/2511.18160/summary.md) | [原图](papers/2511.18160/graphics) |
 | [用时间序列模型预测供水管网关键点压力](https://arxiv.org/abs/2512.09717v1) | [`main.typ`](papers/2512.09717/main.typ)（按 PDF 重建） | [详评](papers/2512.09717/summary.typ) · [短评](papers/2512.09717/summary.md) | [原图](papers/2512.09717/graphics) |
 | [液相电镜下纳米受限液晶的相变](https://arxiv.org/abs/2512.23588v1) | [`main.typ`](papers/2512.23588/main.typ)（按 PDF 重建） | [详评](papers/2512.23588/summary.typ) · [短评](papers/2512.23588/summary.md) | [原图](papers/2512.23588/graphics) |
 | [蓝宝石上溅射制备氧化镓伪衬底](https://arxiv.org/abs/2512.09294v1) | [`main.typ`](papers/2512.09294/main.typ)（按 PDF 重建） | [详评](papers/2512.09294/summary.typ) · [短评](papers/2512.09294/summary.md) | [原图](papers/2512.09294/graphics) |
