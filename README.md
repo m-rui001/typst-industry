@@ -176,3 +176,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [微纳尺度热物性测量的热反射技术综述](https://arxiv.org/abs/2609.27618v1) | [正文](papers/2609.27618/main.typ) | [短评](papers/2609.27618/summary.md) · [详评](papers/2609.27618/summary.typ) | — |
 | [高性能建筑材料的断裂与高周疲劳相场模拟](https://arxiv.org/abs/2606.23468v1) | [正文](papers/2606.23468/main.typ) | [短评](papers/2606.23468/summary.md) · [详评](papers/2606.23468/summary.typ) | — |
 | [电极聚合物接枝改善电容去离子脱盐](https://arxiv.org/abs/2604.16267v1) | [正文](papers/2604.16267/main.typ) | [短评](papers/2604.16267/summary.md) · [详评](papers/2604.16267/summary.typ) | — |
+| [反渗透淡化中的流动、传质与膜结垢建模](https://arxiv.org/abs/2301.13160v1) | [正文](papers/2301.13160/main.typ) | [短评](papers/2301.13160/summary.md) · [详评](papers/2301.13160/summary.typ) | — |
