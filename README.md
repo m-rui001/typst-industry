@@ -117,3 +117,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [溶剂调控 CdPS₃ 飞秒激光烧蚀产物](https://arxiv.org/abs/2512.09073v1) | [正文](papers/2512.09073/main.typ) | [短评](papers/2512.09073/summary.md) · [详评](papers/2512.09073/summary.typ) | [相组成图](papers/2512.09073/phase.typ) |
 | [侧栅调节氧化物界面忆容](https://arxiv.org/abs/2512.11176v1) | [正文与补充材料](papers/2512.11176/main.typ) | [短评](papers/2512.11176/summary.md) · [详评](papers/2512.11176/summary.typ) | [零偏压电容差](papers/2512.11176/gap.typ) |
 | [电机轴承线接触润滑膜的放电](https://arxiv.org/abs/2512.14003v1) | [正文与算法附录](papers/2512.14003/main.typ) | [短评](papers/2512.14003/summary.md) · [详评](papers/2512.14003/summary.typ) | [放电区平均电流密度](papers/2512.14003/roughness.typ) |
+| [冷锻气囊压力筒的几何偏差与应力](https://arxiv.org/abs/2512.13302v1) | [正文](papers/2512.13302/main.typ) | [短评](papers/2512.13302/summary.md) · [详评](papers/2512.13302/summary.typ) | [Sobol 灵敏度](papers/2512.13302/sobol.typ) |
