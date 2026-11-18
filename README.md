@@ -225,3 +225,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [普鲁士蓝及其类似物的忆阻特性](https://arxiv.org/abs/2512.05607v1) | [正文](papers/2512.05607/main.typ)（按 PDF 重建） | [短评](papers/2512.05607/summary.md) · [详评](papers/2512.05607/summary.typ) | — |
 | [逆 Class-F 氮化镓压控振荡器](https://arxiv.org/abs/2512.05846v1) | [正文](papers/2512.05846/main.typ)（按 PDF 重建） | [短评](papers/2512.05846/summary.md) · [详评](papers/2512.05846/summary.typ) | — |
 | [相位与频率联合调制改善微波加热均匀性](https://arxiv.org/abs/2512.06482v1) | [正文](papers/2512.06482/main.typ)（按 PDF 重建） | [短评](papers/2512.06482/summary.md) · [详评](papers/2512.06482/summary.typ) | — |
+| [双光梳相关光谱追踪激光动态](https://arxiv.org/abs/2512.06320v1) | [正文](papers/2512.06320/main.typ)（按 PDF 重建） | [短评](papers/2512.06320/summary.md) · [详评](papers/2512.06320/summary.typ) | — |
