@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用光热图案调节形状记忆聚合物的振动](https://arxiv.org/abs/2611.21930v1) | [`main.typ`](papers/2611.21930/main.typ)（按 PDF 重建） | [详评](papers/2611.21930/summary.typ) · [短评](papers/2611.21930/summary.md) | [图形](papers/2611.21930/graphics) |
 | [聚合物填充介孔如何改变胶体的通量与选择性](https://arxiv.org/abs/2608.27995v1) | [`main.typ`](papers/2608.27995/main.typ)（按 PDF 重建） | [详评](papers/2608.27995/summary.typ) · [短评](papers/2608.27995/summary.md) | [图形](papers/2608.27995/graphics) |
 | [用局部焦耳热碳化三维打印聚合物](https://arxiv.org/abs/2610.15238v1) | [`main.typ`](papers/2610.15238/main.typ)（按 PDF 重建） | [详评](papers/2610.15238/summary.typ) · [短评](papers/2610.15238/summary.md) | [图形](papers/2610.15238/graphics) |
 | [用纠缠光子偏振统计估计激光加工温度](https://arxiv.org/abs/2606.17635v1) | [`main.typ`](papers/2606.17635/main.typ)（按 PDF 重建） | [详评](papers/2606.17635/summary.typ) · [短评](papers/2606.17635/summary.md) | [图形](papers/2606.17635/graphics) |
