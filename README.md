@@ -187,3 +187,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [水合二氧化硅纳米孔中的二氧化碳吸附](https://arxiv.org/abs/2502.07251v1) | [正文](papers/2502.07251/main.typ) | [短评](papers/2502.07251/summary.md) · [详评](papers/2502.07251/summary-long.md) | — |
 | [增材制造变截面 TPMS 晶格换热器的流道优化](https://arxiv.org/abs/2512.10207v1) | [正文](papers/2512.10207/main.typ) | [短评](papers/2512.10207/summary.md) · [详评](papers/2512.10207/summary-long.md) | — |
 | [Lennard–Jones 流体导热率的振动模型](https://arxiv.org/abs/2402.03020v1) | [正文](papers/2402.03020/main.typ) | [短评](papers/2402.03020/summary.md) · [详评](papers/2402.03020/summary-long.md) | — |
+| [激光粉末床熔融的跨材料工艺与性能预测](https://arxiv.org/abs/2503.16667v1) | [正文](papers/2503.16667/main.typ) | [短评](papers/2503.16667/summary.md) · [详评](papers/2503.16667/summary-long.md) | — |
