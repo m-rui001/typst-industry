@@ -1,0 +1,1 @@
+Eric Collet, “Shuttlecock velocity decay after smash and slice shots in badminton,” [arXiv:2601.01412v1](https://arxiv.org/abs/2601.01412v1). The page-coordinate Typst transcription and raster graphics use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Some source glyphs are retained as raster graphics.
