@@ -230,3 +230,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [自支撑薄膜的释放、转移与界面控制](https://arxiv.org/abs/2512.06637v1) | [正文](papers/2512.06637/main.typ)（按 PDF 重建） | [短评](papers/2512.06637/summary.md) · [详评](papers/2512.06637/summary.typ) | — |
 | [供水管网减压阀的关键点压力控制](https://arxiv.org/abs/2512.06735v1) | [正文](papers/2512.06735/main.typ)（按 PDF 重建） | [短评](papers/2512.06735/summary.md) · [详评](papers/2512.06735/summary.typ) | — |
 | [毫开尔文温区的单磁通量子电路](https://arxiv.org/abs/2512.06895v1) | [正文](papers/2512.06895/main.typ)（按 PDF 重建） | [短评](papers/2512.06895/summary.md) · [详评](papers/2512.06895/summary.typ) | — |
+| [环境射频能量采集的可重构整流器](https://arxiv.org/abs/2512.07593v1) | [正文](papers/2512.07593/main.typ)（按 PDF 重建） | [短评](papers/2512.07593/summary.md) · [详评](papers/2512.07593/summary.typ) | — |
