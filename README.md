@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [氧化镓异质结二极管的环境与热稳定性](https://arxiv.org/abs/2512.11264v1) | [`main.typ`](papers/2512.11264/main.typ)（按 PDF 重建） | [详评](papers/2512.11264/summary.typ) · [短评](papers/2512.11264/summary.md) | [原图](papers/2512.11264/graphics) |
 | [氧化铬／氧化镓异质结二极管的晶向与击穿场](https://arxiv.org/abs/2511.20885v1) | [`main.typ`](papers/2511.20885/main.typ)（按 PDF 重建） | [详评](papers/2511.20885/summary.typ) · [短评](papers/2511.20885/summary.md) | [原图](papers/2511.20885/graphics) |
 | [氮掺杂氧化镓绝缘缓冲层](https://arxiv.org/abs/2512.20989v1) | [`main.typ`](papers/2512.20989/main.typ)（按 PDF 重建） | [详评](papers/2512.20989/summary.typ) · [短评](papers/2512.20989/summary.md) | [原图](papers/2512.20989/graphics) |
 | [氮流量如何改变超薄氮化铝钪的翻转窗口](https://arxiv.org/abs/2511.18160v1) | [`main.typ`](papers/2511.18160/main.typ)（按 PDF 重建） | [详评](papers/2511.18160/summary.typ) · [短评](papers/2511.18160/summary.md) | [原图](papers/2511.18160/graphics) |
