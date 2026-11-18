@@ -1,0 +1,6 @@
+__pycache__/
+/papers/*/source/
+/papers/*/original/
+/papers/*/source.json
+/papers/**/*.tar.gz
+/papers/**/*.zip

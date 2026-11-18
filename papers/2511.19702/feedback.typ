@@ -1,0 +1,71 @@
+#import "@preview/cetz:0.4.2": canvas, draw
+
+#let feedback-diagram(width, show-steering: false) = canvas(length: width / 770, {
+  import draw: *
+  let primary = rgb("#1974a8")
+  let secondary = rgb("#ff7f0e")
+  let neutral = rgb("#818181")
+  let ink = 1.1pt + black
+  let arrow = line.with(stroke: ink, mark: (end: "stealth", fill: black))
+  let note(at, body, size: .023) = content(at, text(font: "Arial", size: width * size, body))
+  let box(x, y, w, h, color, body) = {
+    rect((x, y), (x + w, y + h), radius: 7, fill: color, stroke: none)
+    note((x + w / 2, y + h / 2), text(fill: white, body))
+  }
+  rect((0, 0), (770, 260), stroke: none)
+  arrow((755, 55), (755, 233), (698, 233))
+  line((739, 55), (755, 55), stroke: ink)
+  arrow((606, 233), (572, 233))
+  let steering-x = if show-steering { 117 } else { 32 }
+  let steering-tip = if show-steering { 69 } else { 79 }
+  arrow((513, 233), (steering-x, 233), (steering-x, steering-tip))
+  arrow((491, 233), (491, 185), (725, 185), (725, 141), (698, 141))
+  arrow((606, 141), (572, 141))
+  arrow((513, 141), (491, 141), (491, 80))
+  arrow((151, 53), (177, 53))
+  arrow((283, 53), (309, 53))
+  arrow((414, 53), (439, 53))
+  arrow((545, 53), (583, 53))
+  line(..range(71).map(i => (574 + i, 28 + 52 * calc.exp(-calc.pow((i - 34) / 13, 2)))), stroke: .7pt + rgb("#153342"))
+  if show-steering {
+    circle((34, 53), radius: 26, fill: rgb("#9065ba"), stroke: ink)
+    note((34, 53), text(fill: white, align(center)[Free \ LO]))
+    arrow((60, 53), (100, 53))
+    circle((117, 53), radius: 15, fill: white, stroke: ink)
+    line((104, 53), (130, 53), stroke: ink)
+    line((117, 40), (117, 66), stroke: ink)
+    line((132, 53), (151, 53), stroke: ink)
+    note((154, 70), [$nu_("LO")$])
+    note((81, 70), [$nu_("free")$])
+    note((147, 105), [$nu_("steer")$])
+    note((156, 172), [LO \ steering \ signal], size: .021)
+  } else {
+    circle((32, 53), radius: 24, fill: white, stroke: ink)
+    line(..range(81).map(i => (66 + i, 48 + 23 * calc.sin(i * 10deg))), stroke: .7pt + black)
+    note((32, 53), [LO])
+    note((68, 147), [LO \ steering \ signal], size: .021)
+    note((138, 71), [$nu_("LO")$])
+  }
+  box(177, 26, 106, 54, primary, align(center)[Frequency \ Modulator])
+  box(309, 26, 105, 54, secondary, align(center)[Power \ Modulator])
+  box(439, 26, 106, 54, neutral, align(center)[Frequency \ Shifter])
+  box(513, 219, 59, 29, primary, [PID 1])
+  box(606, 219, 92, 29, primary, [Lock-in 1])
+  box(513, 126, 59, 29, secondary, [PID 2])
+  box(606, 126, 92, 29, secondary, [Lock-in 2])
+  note((542, 208), [(fast)], size: .020)
+  note((652, 207), [($f_("FM")$)])
+  note((542, 115), [(slow)], size: .020)
+  note((652, 114), [($f_("PM")$)])
+  note((230, 14), [($f_("FM")$)])
+  note((362, 14), [($f_("PM")$)])
+  note((477, 115), [$xi$])
+  note((562, 70), [$nu_("int")$])
+  note((491, 14), [$nu_("int") = nu_("LO") + xi P(t)$])
+  note((693, 55), [Atomic \ frequency \ discriminator], size: .021)
+  let legend-x = if show-steering { 249 } else { 204 }
+  rect((legend-x, 162), (legend-x + 17, 179), radius: 3, fill: primary, stroke: none)
+  rect((legend-x, 135), (legend-x + 17, 152), radius: 3, fill: secondary, stroke: none)
+  content((legend-x + 25, 170), text(font: "Arial", size: width * .018)[Primary feedback loop], anchor: "west")
+  content((legend-x + 25, 143), text(font: "Arial", size: width * .018)[Secondary feedback loop], anchor: "west")
+})
