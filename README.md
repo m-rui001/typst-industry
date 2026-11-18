@@ -11,6 +11,10 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 ## 论文与 Typst 源码
 
+新增论文的中文详评使用 Typst（篇幅至多为原文的四分之一），短评使用 Markdown。
+
+研究稿正文的原图和参考文献可从表中对应的 arXiv v1 页面下载 TeX 源码包。把源码包解压到 `papers/<编号>/source/`，再从仓库根目录运行 `typst compile papers/<编号>/main.typ`。2512.13267 若只有 EPS 原图，可用 `epstopdf` 生成正文引用的 `*-eps-converted-to.pdf`。2601.00236 的图 10 和图 11 需将 `source/Fig10.pdf` 和 `source/Fig11.pdf` 的第一页栅格化，分别保存为 `original/fig10-flat.png` 和 `original/fig11-flat.png`。
+
 标注「按 PDF 重建」的正文保留原页尺寸、分页和图表位置。正文文字可以在 Typst 中编辑，按原页坐标排布。图形及少量无法可靠还原的字形随源码提供。运行 `typst compile --root papers papers/2511.13412/main.typ` 可从仓库根目录编译这类稿件。
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
@@ -76,3 +80,8 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [增材制造陶瓷光学平台](https://arxiv.org/abs/2611.13800) | [`main.typ`](papers/2611.13800/main.typ) | [`summary.typ`](papers/2611.13800/summary.typ) · [PDF](papers/2611.13800/summary.pdf) | — |
 | [磁性畴壁蠕动](https://arxiv.org/abs/2611.20908) | [`main.typ`](papers/2611.20908/main.typ) · [`supplement.typ`](papers/2611.20908/supplement.typ) | [`summary.typ`](papers/2611.20908/summary.typ) · [PDF](papers/2611.20908/summary.pdf) | [`bubble.typ`](papers/2611.20908/bubble.typ) · [`dmi-plot.typ`](papers/2611.20908/dmi-plot.typ) · [`layout.typ`](papers/2611.20908/layout.typ) |
 | [混合键合界面的热学与声学测量](https://arxiv.org/abs/2611.22694) | [`main.typ`](papers/2611.22694/main.typ)（按 PDF 重建） | [`summary.typ`](papers/2611.22694/summary.typ) · [PDF](papers/2611.22694/summary.pdf) | — |
+| [用管式超声从电池负极剥离石墨](https://arxiv.org/abs/2512.05726v1) | [正文](papers/2512.05726/main.typ) | [短评](papers/2512.05726/summary.md) · [详评 Typst](papers/2512.05726/summary.typ) | [激发与成像链路](papers/2512.05726/excitation-chain.typ) |
+| [用放电尾气处理染料水](https://arxiv.org/abs/2601.00236v1) | [正文](papers/2601.00236/main.typ) | [短评](papers/2601.00236/summary.md) · [详评 Typst](papers/2601.00236/summary.typ) | [放电与鼓泡流程](papers/2601.00236/reactor-flow.typ) |
+| [输氢管道的环焊缝哪里先裂](https://arxiv.org/abs/2601.00471v1) | [正文](papers/2601.00471/main.typ) | [短评](papers/2601.00471/summary.md) · [详评 Typst](papers/2601.00471/summary.typ) | [环焊缝边界条件](papers/2601.00471/weld-boundary.typ) |
+| [把聚合物链的流动记忆带进宏观计算](https://arxiv.org/abs/2512.13267v1) | [正文](papers/2512.13267/main.typ) | [短评](papers/2512.13267/summary.md) · [详评 Typst](papers/2512.13267/summary.typ) | [跨尺度耦合流程](papers/2512.13267/coupling-cycle.typ) |
+| [DyCo₅ 的磁化转向能不能做成温控开关](https://arxiv.org/abs/2512.14335v1) | [正文](papers/2512.14335/main.typ) | [短评](papers/2512.14335/summary.md) · [详评 Typst](papers/2512.14335/summary.typ) | [热开关状态图](papers/2512.14335/thermal-switch.typ) |
