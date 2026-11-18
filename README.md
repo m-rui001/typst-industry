@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用聚合物界面把多层二硫化钼晶体管调为常关](https://arxiv.org/abs/2603.00967v1) | [`main.typ`](papers/2603.00967/main.typ)（按 PDF 重建） | [详评](papers/2603.00967/summary.typ) · [短评](papers/2603.00967/summary.md) | [图形](papers/2603.00967/graphics) |
 | [用光电压极性辨别入射方向的氧化锌复合传感器](https://arxiv.org/abs/2603.26133v1) | [`main.typ`](papers/2603.26133/main.typ)（按 PDF 重建） | [详评](papers/2603.26133/summary.typ) · [短评](papers/2603.26133/summary.md) | [图形](papers/2603.26133/graphics) |
 | [用分柱微波腔在二次与线性位移读出间切换](https://arxiv.org/abs/2602.07305v1) | [`main.typ`](papers/2602.07305/main.typ)（按 PDF 重建） | [详评](papers/2602.07305/summary.typ) · [短评](papers/2602.07305/summary.md) | [图形](papers/2602.07305/graphics) |
 | [用强化学习设计亥姆霍兹吸声器](https://arxiv.org/abs/2611.15422v1) | [`main.typ`](papers/2611.15422/main.typ)（按 PDF 重建） | [详评](papers/2611.15422/summary.typ) · [短评](papers/2611.15422/summary.md) | [图形](papers/2611.15422/graphics) |
