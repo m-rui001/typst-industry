@@ -146,3 +146,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [质子交换膜燃料电池的供气控制](https://arxiv.org/abs/2604.11433v1) | [正文](papers/2604.11433/main.typ) | [短评](papers/2604.11433/summary.md) · [详评](papers/2604.11433/summary.typ) | — |
 | [激光道局部几何预测的多模态制造数据集](https://arxiv.org/abs/2607.07965v1) | [正文](papers/2607.07965/main.typ) | [短评](papers/2607.07965/summary.md) · [详评](papers/2607.07965/summary.typ) | — |
 | [氮化硅膜谐振器的非线性模态耦合](https://arxiv.org/abs/2603.08689v1) | [正文](papers/2603.08689/main.typ) · [补充材料](papers/2603.08689/supplement.typ) | [短评](papers/2603.08689/summary.md) · [详评](papers/2603.08689/summary.typ) | — |
+| [快固化树脂制造塑料闪烁体阵列](https://arxiv.org/abs/2604.23769v1) | [正文](papers/2604.23769/main.typ) | [短评](papers/2604.23769/summary.md) · [详评](papers/2604.23769/summary.typ) | — |
