@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [全介质超表面中局域载流子注入与残留磁场](https://arxiv.org/abs/2601.11003v1) | [`main.typ`](papers/2601.11003/main.typ)（按 PDF 重建） | [详评](papers/2601.11003/summary.typ) · [短评](papers/2601.11003/summary.md) | [图形](papers/2601.11003/graphics) |
 | [用相干完美吸收的三阶例外点提高磁场读出信噪比](https://arxiv.org/abs/2603.11604v1) | [`main.typ`](papers/2603.11604/main.typ)（按 PDF 重建） | [详评](papers/2603.11604/summary.typ) · [短评](papers/2603.11604/summary.md) | [图形](papers/2603.11604/graphics) |
 | [用聚合物界面把多层二硫化钼晶体管调为常关](https://arxiv.org/abs/2603.00967v1) | [`main.typ`](papers/2603.00967/main.typ)（按 PDF 重建） | [详评](papers/2603.00967/summary.typ) · [短评](papers/2603.00967/summary.md) | [图形](papers/2603.00967/graphics) |
 | [用光电压极性辨别入射方向的氧化锌复合传感器](https://arxiv.org/abs/2603.26133v1) | [`main.typ`](papers/2603.26133/main.typ)（按 PDF 重建） | [详评](papers/2603.26133/summary.typ) · [短评](papers/2603.26133/summary.md) | [图形](papers/2603.26133/graphics) |
