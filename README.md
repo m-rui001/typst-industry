@@ -127,3 +127,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [时变声学超表面的束缚波与辐射](https://arxiv.org/abs/2512.17692v1) | [正文与附录](papers/2512.17692/main.typ) | [短评](papers/2512.17692/summary.md) · [详评](papers/2512.17692/summary.typ) | [边带频率示意](papers/2512.17692/sidebands.typ) |
 | [钯掺杂拓宽 Fe₄N 薄膜生长窗口](https://arxiv.org/abs/2512.24208v1) | [正文](papers/2512.24208/main.typ) | [短评](papers/2512.24208/summary.md) · [详评](papers/2512.24208/summary.typ) | [饱和磁化强度](papers/2512.24208/magnetization.typ) |
 | [薄膜中 Néel 斯格明子对的螺旋运动](https://arxiv.org/abs/2512.21939v1) | [正文](papers/2512.21939/main.typ) | [短评](papers/2512.21939/summary.md) · [详评](papers/2512.21939/summary.typ) | [快慢频率对比](papers/2512.21939/frequencies.typ) |
+| [条纹畴临界区的自旋波放大](https://arxiv.org/abs/2512.07713v1) | [正文](papers/2512.07713/main.typ) | [短评](papers/2512.07713/summary.md) · [详评](papers/2512.07713/summary.typ) | [低场平台时长与增益](papers/2512.07713/plateau-gain.typ) |
