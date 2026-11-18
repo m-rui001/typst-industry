@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [从多视角激光超声扫描重建工件表面波场](https://arxiv.org/abs/2611.00527v1) | [`main.typ`](papers/2611.00527/main.typ)（按 PDF 重建） | [详评](papers/2611.00527/summary.typ) · [短评](papers/2611.00527/summary.md) | [图形](papers/2611.00527/graphics) |
 | [用相对两面的测量补偿钛合金超声背散射](https://arxiv.org/abs/2605.22024v1) | [`main.typ`](papers/2605.22024/main.typ)（按 PDF 重建） | [详评](papers/2605.22024/summary.typ) · [短评](papers/2605.22024/summary.md) | [图形](papers/2605.22024/graphics) |
 | [怎样从红外热图序列中自动选出缺陷较清晰的帧](https://arxiv.org/abs/2604.09728v1) | [`main.typ`](papers/2604.09728/main.typ)（按 PDF 重建） | [详评](papers/2604.09728/summary.typ) · [短评](papers/2604.09728/summary.md) | [图形](papers/2604.09728/graphics) |
 | [超声测量能辨识哪些材料微结构参数](https://arxiv.org/abs/2605.13057v1) | [`main.typ`](papers/2605.13057/main.typ)（按 PDF 重建） | [详评](papers/2605.13057/summary.typ) · [短评](papers/2605.13057/summary.md) | [图形](papers/2605.13057/graphics) |
