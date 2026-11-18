@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [衬底对氮化镓肖特基二极管反向漏电的影响](https://arxiv.org/abs/2601.05958v1) | [`main.typ`](papers/2601.05958/main.typ)（按 PDF 重建） | [详评](papers/2601.05958/summary.typ) · [短评](papers/2601.05958/summary.md) | [原图](papers/2601.05958/graphics) |
 | [聚氨酯闪烁体的中子与伽马鉴别](https://arxiv.org/abs/2601.17463v1) | [`main.typ`](papers/2601.17463/main.typ)（按 PDF 重建） | [详评](papers/2601.17463/summary.typ) · [短评](papers/2601.17463/summary.md) | [原图](papers/2601.17463/graphics) |
 | [氮掺杂氧化镓的可见光光电导增益](https://arxiv.org/abs/2601.15555v1) | [`main.typ`](papers/2601.15555/main.typ)（按 PDF 重建） | [详评](papers/2601.15555/summary.typ) · [短评](papers/2601.15555/summary.md) | [原图](papers/2601.15555/graphics) |
 | [可逆式水泵水轮机的非定常流动](https://arxiv.org/abs/2601.16584v1) | [`main.typ`](papers/2601.16584/main.typ)（按 PDF 重建） | [详评](papers/2601.16584/summary.typ) · [短评](papers/2601.16584/summary.md) | [原图](papers/2601.16584/graphics) |
