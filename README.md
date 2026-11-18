@@ -131,3 +131,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [三维鳍式铌酸锂声学谐振器](https://arxiv.org/abs/2601.18043v1) | [正文](papers/2601.18043/main.typ) | [短评](papers/2601.18043/summary.md) · [详评](papers/2601.18043/summary.typ) | [机电耦合对比](papers/2601.18043/coupling.typ) |
 | [非球形颗粒在竖管中的沉降与输运](https://arxiv.org/abs/2601.19804v1) | [正文](papers/2601.19804/main.typ) | [短评](papers/2601.19804/summary.md) · [详评](papers/2601.19804/summary.typ) | [管壁约束与曳力波动](papers/2601.19804/confinement.typ) |
 | [低温下导波声子的四波混频](https://arxiv.org/abs/2601.12418v1) | [正文](papers/2601.12418/main.typ) | [短评](papers/2601.12418/summary.md) · [详评](papers/2601.12418/summary.typ) | [模态非线性对比](papers/2601.12418/nonlinearity.typ) |
+| [时变介质中的声学时间反演与格林函数提取](https://arxiv.org/abs/2601.18382v1) | [正文](papers/2601.18382/main.typ) | [短评](papers/2601.18382/summary.md) · [详评](papers/2601.18382/summary.typ) | — |
