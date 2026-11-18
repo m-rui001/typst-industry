@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [声表面波磁电传感器的相速度与群速度](https://arxiv.org/abs/2610.11421v1) | [`main.typ`](papers/2610.11421/main.typ)（按 PDF 重建） | [详评](papers/2610.11421/summary.typ) · [短评](papers/2610.11421/summary.md) | [图形](papers/2610.11421/graphics) |
 | [怎样测量便携原子磁力计的电子部件干扰](https://arxiv.org/abs/2609.07270v1) | [`main.typ`](papers/2609.07270/main.typ)（按 PDF 重建） | [详评](papers/2609.07270/summary.typ) · [短评](papers/2609.07270/summary.md) | [图形](papers/2609.07270/graphics) |
 | [用吸附模型解释二硫化钼气体传感器](https://arxiv.org/abs/2609.03108v1) | [`main.typ`](papers/2609.03108/main.typ)（按 PDF 重建） | [详评](papers/2609.03108/summary.typ) · [短评](papers/2609.03108/summary.md) | [图形](papers/2609.03108/graphics) |
 | [铌酸锂薄膜的横向剪切声表面波谐振器](https://arxiv.org/abs/2606.12853v1) | [`main.typ`](papers/2606.12853/main.typ)（按 PDF 重建，[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)） | [详评](papers/2606.12853/summary.typ) · [短评](papers/2606.12853/summary.md) | [图形](papers/2606.12853/graphics) |
