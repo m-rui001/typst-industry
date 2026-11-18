@@ -218,3 +218,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [相干四波混频用于量子互连](https://arxiv.org/abs/2512.04312v1) | [正文](papers/2512.04312/main.typ)（按 PDF 重建） | [短评](papers/2512.04312/summary.md) · [详评](papers/2512.04312/summary.typ) | — |
 | [仿生液态金属单元](https://arxiv.org/abs/2512.04455v1) | [正文](papers/2512.04455/main.typ)（按 PDF 重建） | [短评](papers/2512.04455/summary.md) · [详评](papers/2512.04455/summary.typ) | — |
 | [风电与光伏主导系统中的卡诺电池](https://arxiv.org/abs/2512.04636v1) | [正文](papers/2512.04636/main.typ)（按 PDF 重建） | [短评](papers/2512.04636/summary.md) · [详评](papers/2512.04636/summary.typ) | — |
+| [双铁电层栅堆栈中的保持损失](https://arxiv.org/abs/2512.04658v1) | [正文](papers/2512.04658/main.typ)（按 PDF 重建） | [短评](papers/2512.04658/summary.md) · [详评](papers/2512.04658/summary.typ) | — |
