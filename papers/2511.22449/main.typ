@@ -6,7 +6,7 @@
 
 // arXiv source page 1
 #original-page(595.32pt, 841.92pt, none)[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(294.84pt, 785.28pt, "1 ")
   #set text(font: "Times New Roman", size: 14.04pt, weight: "bold", style: "normal", fill: rgb("#000000"))
   #line-at(54pt, 85.32pt, "Photoionization current spectroscopy of individual silicon vacancies in silicon ")
@@ -90,7 +90,7 @@
 
 // arXiv source page 2
 #original-page(595.32pt, 841.92pt, none)[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(294.84pt, 785.28pt, "2 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(53.998pt, 84.001pt, "The charge degree of freedom of point defects has emerged as a key factor in realizing solid-state quantum ")
@@ -202,7 +202,7 @@
 
 // arXiv source page 3
 #original-page(595.32pt, 841.92pt, (image("graphics/page-03.png", width: 482pt), 56.5pt, 72pt))[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(294.84pt, 785.28pt, "3 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(53.998pt, 414.001pt, "interface applications, and identify the excitation-wavelength ranges that optimize PDMR for both single and ")
@@ -295,7 +295,7 @@
 
 // arXiv source page 4
 #original-page(595.32pt, 841.92pt, (image("graphics/page-04.png", width: 482pt), 56.5pt, 72pt))[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(294.84pt, 785.28pt, "4 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(53.998pt, 380.874pt, "We first characterized the fabricated device. Figure 1a shows the fluorescence image between electrodes, where two ")
@@ -439,7 +439,7 @@
 
 // arXiv source page 5
 #original-page(595.32pt, 841.92pt, (image("graphics/page-05.png", width: 482pt), 56.5pt, 72pt))[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(294.84pt, 785.28pt, "5 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(54pt, 521.04pt, "represents the power at which the quadratic and linear regimes cross over. Considering that silicon vacancies do not ")
@@ -656,7 +656,7 @@
 
 // arXiv source page 6
 #original-page(595.32pt, 841.92pt, none)[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(294.84pt, 785.28pt, "6 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(53.998pt, 84.001pt, "and two-dimensional Gaussian fitting, which also gives background information. The laser spot size was estimated ")
@@ -705,7 +705,7 @@
   #line-at(54.003pt, 395.642pt, "temperatures, this discrepancy likely originates from ionization events accompanied by rapid charge-state recovery ")
   #line-at(54.013pt, 411.957pt, "without a shift in resonance wavelength, which remain undetectable in CRC-based measurements. Also, a recent ")
   #line-at(54.013pt, 427.797pt, "theoretical prediction, assuming the ionization to the doubly negative state")
-  #set text(font: "YuMincho-Regular", size: 5.52pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 5.52pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(366.6pt, 424.8pt, "21")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(372.6pt, 427.8pt, ", suggested an ionization rate about ")
@@ -770,7 +770,7 @@
 
 // arXiv source page 7
 #original-page(595.32pt, 841.92pt, (image("graphics/page-07.png", width: 482pt), 56.5pt, 72pt))[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(294.84pt, 785.28pt, "7 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(53.998pt, 517.563pt, "indicate that carbon vacancies are the primary source of background photocurrent in our device. This interpretation ")
@@ -811,7 +811,7 @@
 
 // arXiv source page 8
 #original-page(595.32pt, 841.92pt, none)[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(294.84pt, 785.28pt, "8 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(53.998pt, 84.001pt, "basis for future studies on selecting repump and off-resonant excitation wavelengths that minimize unwanted ")
@@ -900,7 +900,7 @@
 
 // arXiv source page 9
 #original-page(595.32pt, 841.92pt, none)[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(294.84pt, 785.28pt, "9 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(53.998pt, 100.443pt, "A higher PCF is obtained at longer wavelengths under anti-Stokes conditions for both V1 and V2 centers. Although ")
@@ -942,7 +942,7 @@
 
 // arXiv source page 10
 #original-page(595.32pt, 841.92pt, none)[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(291.96pt, 785.28pt, "10 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "bold", style: "normal", fill: rgb("#000000"))
   #line-at(54.001pt, 84.001pt, "Acknowledgement ")
@@ -958,7 +958,7 @@
   #line-at(475.944pt, 149.644pt, "JPMJAP24C1), ")
   #line-at(54.019pt, 165.959pt, "JST SPRING (Grant Number JPMJSP2110), and the Spintronics Research Network of Japan. This work was ")
   #line-at(54.03pt, 190.564pt, "supported by ")
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(116.788pt, 190.564pt, "“")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(122.184pt, 190.564pt, "Advanced Research Infrastructure for Materials and Nanotechnology in Japan (ARIM)” of the ")
@@ -976,7 +976,7 @@
 
 // arXiv source page 11
 #original-page(595.32pt, 841.92pt, none)[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(291.96pt, 785.28pt, "11 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "bold", style: "normal", fill: rgb("#000000"))
   #line-at(54.001pt, 84.001pt, "References ")
@@ -1170,7 +1170,7 @@
 
 // arXiv source page 12
 #original-page(595.32pt, 841.92pt, none)[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(291.96pt, 785.28pt, "12 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(95.998pt, 84.001pt, "Distinguishable Photons from Silicon Vacancy Centres in Silicon Carbide. ")
@@ -1378,7 +1378,7 @@
 
 // arXiv source page 13
 #original-page(595.32pt, 841.92pt, none)[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(291.96pt, 785.28pt, "13 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(63.959pt, 84.001pt, "(28) ")
@@ -1597,7 +1597,7 @@
 
 // arXiv source page 14
 #original-page(595.32pt, 841.92pt, none)[
-  #set text(font: "YuMincho-Regular", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(291.96pt, 785.28pt, "14 ")
   #set text(font: "Times New Roman", size: 10.56pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(95.998pt, 84.001pt, "Thermal Treatment. ")
