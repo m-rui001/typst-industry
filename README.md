@@ -13,7 +13,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 新增论文的中文详评使用 Typst（篇幅至多为原文的四分之一），短评使用 Markdown。
 
-研究稿正文的原图和参考文献可从表中对应的 arXiv v1 页面下载 TeX 源码包。把源码包解压到 `papers/<编号>/source/`，再从仓库根目录运行 `typst compile papers/<编号>/main.typ`。2512.13267 若只有 EPS 原图，可用 `epstopdf` 生成正文引用的 `*-eps-converted-to.pdf`。2601.00236 的图 10 和图 11 需将 `source/Fig10.pdf` 和 `source/Fig11.pdf` 的第一页栅格化，分别保存为 `original/fig10-flat.png` 和 `original/fig11-flat.png`。 2512.01894 需用 `epstopdf` 将 `source/Figures/` 中的五张 EPS 原图转换为同目录下的同名 PDF，再编译正文。
+研究稿正文的原图和参考文献可从表中对应的 arXiv v1 页面下载 TeX 源码包。把源码包解压到 `papers/<编号>/source/`，再从仓库根目录运行 `typst compile papers/<编号>/main.typ`。2512.13267 若只有 EPS 原图，可用 `epstopdf` 生成正文引用的 `*-eps-converted-to.pdf`。2601.00236 的图 10 和图 11 需将 `source/Fig10.pdf` 和 `source/Fig11.pdf` 的第一页栅格化，分别保存为 `original/fig10-flat.png` 和 `original/fig11-flat.png`。 2512.01894 需用 `epstopdf` 将 `source/Figures/` 中的五张 EPS 原图转换为同目录下的同名 PDF，再编译正文。 2512.00066 需将 `source/xi.eps` 和 `source/w.eps` 转成同目录下的同名 PDF，并把 `source/The.bib` 从 Windows-1251 转码为 UTF-8，另存为 `source/The-utf8.bib`。
 
 标注「按 PDF 重建」的正文保留原页尺寸、分页和图表位置。正文文字可以在 Typst 中编辑，按原页坐标排布。图形及少量无法可靠还原的字形随源码提供。运行 `typst compile --root papers papers/2511.13412/main.typ` 可从仓库根目录编译这类稿件。
 
@@ -103,3 +103,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [自组织自由形状波导](https://arxiv.org/abs/2512.01699v1) | [正文](papers/2512.01699/main.typ) | [短评](papers/2512.01699/summary.md) · [详评](papers/2512.01699/summary.typ) | [设计流程](papers/2512.01699/waveguide-design.typ) |
 | [手性准束缚态增强声学螺旋二色性](https://arxiv.org/abs/2512.01416v1) | [正文](papers/2512.01416/main.typ) | [短评](papers/2512.01416/summary.md) · [详评](papers/2512.01416/summary.typ) | [腔体对照](papers/2512.01416/cavity.typ) |
 | [光子时间晶体的例外点传感](https://arxiv.org/abs/2512.02945v1) | [正文与补充材料](papers/2512.02945/main.typ) | [短评](papers/2512.02945/summary.md) · [详评](papers/2512.02945/summary.typ) | [响应示意](papers/2512.02945/response.typ) |
+| [带介质芯的螺旋波导](https://arxiv.org/abs/2512.00066v1) | [正文](papers/2512.00066/main.typ) | [短评](papers/2512.00066/summary.md) · [详评](papers/2512.00066/summary.typ) | [计算流程](papers/2512.00066/model.typ) |
