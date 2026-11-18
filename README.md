@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [铁电非易失电容存储器的脉冲写入与可靠性](https://arxiv.org/abs/2512.16040v1) | [`main.typ`](papers/2512.16040/main.typ)（按 PDF 重建） | [详评](papers/2512.16040/summary.typ) · [短评](papers/2512.16040/summary.md) | [原图](papers/2512.16040/graphics) |
 | [单层二硫化钼晶体管的阈值调控](https://arxiv.org/abs/2512.20069v1) | [`main.typ`](papers/2512.20069/main.typ)（按 PDF 重建） | [详评](papers/2512.20069/summary.typ) · [短评](papers/2512.20069/summary.md) | [原图](papers/2512.20069/graphics) |
 | [用界面张力成形液态聚合物](https://arxiv.org/abs/2512.19756v1) | [`main.typ`](papers/2512.19756/main.typ)（按 PDF 重建） | [详评](papers/2512.19756/summary.typ) · [短评](papers/2512.19756/summary.md) | [原图](papers/2512.19756/graphics) |
 | [三步原位生长氮化铟镓伪衬底](https://arxiv.org/abs/2512.15565v1) | [`main.typ`](papers/2512.15565/main.typ)（按 PDF 重建） | [详评](papers/2512.15565/summary.typ) · [短评](papers/2512.15565/summary.md) | [原图](papers/2512.15565/graphics) |
