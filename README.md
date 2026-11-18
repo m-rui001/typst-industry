@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [铌酸锂薄膜的横向剪切声表面波谐振器](https://arxiv.org/abs/2606.12853v1) | [`main.typ`](papers/2606.12853/main.typ)（按 PDF 重建，[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)） | [详评](papers/2606.12853/summary.typ) · [短评](papers/2606.12853/summary.md) | [图形](papers/2606.12853/graphics) |
 | [超声怎样用于锂离子电池的无损检测](https://arxiv.org/abs/2601.08075v1) | [`main.typ`](papers/2601.08075/main.typ)（按 PDF 重建） | [详评](papers/2601.08075/summary.typ) · [短评](papers/2601.08075/summary.md) | [图形](papers/2601.08075/graphics) |
 | [社区光伏怎样分配自用电量](https://arxiv.org/abs/2606.30359v1) | [`main.typ`](papers/2606.30359/main.typ)（按 PDF 重建） | [详评](papers/2606.30359/summary.typ) · [短评](papers/2606.30359/summary.md) | [图形](papers/2606.30359/graphics) |
 | [亚带隙反射层能为光伏组件多发多少电](https://arxiv.org/abs/2604.20757v1) | [`main.typ`](papers/2604.20757/main.typ)（按 PDF 重建） | [详评](papers/2604.20757/summary.typ) · [短评](papers/2604.20757/summary.md) | [图形](papers/2604.20757/graphics) |
