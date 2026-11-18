@@ -1,0 +1,1 @@
+Yu He, Xin Wu, and Chang-jun Liu, [arXiv:2601.00699v1](https://arxiv.org/abs/2601.00699v1). The Typst reconstruction and raster graphics use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Substitute typefaces are used for embedded PDF fonts. Some specialized symbols may differ.
