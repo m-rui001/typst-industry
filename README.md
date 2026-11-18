@@ -109,3 +109,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [从稀疏观测重建多尺度物理场](https://arxiv.org/abs/2512.01572v1) | [正文](papers/2512.01572/main.typ) | [短评](papers/2512.01572/summary.md) · [详评](papers/2512.01572/summary.typ) | [重建流程](papers/2512.01572/cascade.typ) |
 | [铁磁钢包层与仿星器线圈优化](https://arxiv.org/abs/2511.17305v1) | [正文](papers/2511.17305/main.typ) | [短评](papers/2511.17305/summary.md) · [详评](papers/2511.17305/summary.typ) | [偶极场计算](papers/2511.17305/dipoles.typ) |
 | [散射介质中的多目标波场操控](https://arxiv.org/abs/2511.22279v1) | [正文与补充材料](papers/2511.22279/main.typ) | [短评](papers/2511.22279/summary.md) · [详评](papers/2511.22279/summary.typ) | [计算流程](papers/2511.22279/objectives.typ) |
+| [VOXES 台式 X 射线谱仪升级](https://arxiv.org/abs/2512.03826v1) | [正文](papers/2512.03826/main.typ) | [短评](papers/2512.03826/summary.md) · [详评](papers/2512.03826/summary.typ) | [双通道示意](papers/2512.03826/channels.typ) |
