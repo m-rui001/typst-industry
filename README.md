@@ -199,3 +199,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [六方氮化硼中锯齿形石墨烯纳米带的边缘磁性](https://arxiv.org/abs/2511.13075v1) | [正文与补充材料](papers/2511.13075/main.typ)（按 PDF 重建） | [短评](papers/2511.13075/summary.md) · [详评](papers/2511.13075/summary.typ) | — |
 | [静水压力反转 Bi₂O₂Se 导热各向异性](https://arxiv.org/abs/2511.15027v1) | [正文](papers/2511.15027/main.typ)（按 PDF 重建） · [CC BY-NC-SA 4.0](papers/2511.15027/LICENSE-NOTICE.md) | [短评](papers/2511.15027/summary.md) · [详评](papers/2511.15027/summary.typ) | — |
 | [用扇形传感器簇定位板结构损伤](https://arxiv.org/abs/2511.16270v1) | [正文](papers/2511.16270/main.typ)（按 PDF 重建） · [CC BY-NC-SA 4.0](papers/2511.16270/LICENSE-NOTICE.md) | [短评](papers/2511.16270/summary.md) · [详评](papers/2511.16270/summary.typ) | — |
+| [太阳能电池与热电发电机的有限时间热机模型](https://arxiv.org/abs/2511.16388v1) | [正文](papers/2511.16388/main.typ)（按 PDF 重建） | [短评](papers/2511.16388/summary.md) · [详评](papers/2511.16388/summary.typ) | — |
