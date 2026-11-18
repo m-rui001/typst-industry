@@ -1,0 +1,1 @@
+Jia-Rui Xu et al., [arXiv:2512.19078v1](https://arxiv.org/abs/2512.19078v1). The editable page-coordinate Typst reconstruction and raster graphics use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
