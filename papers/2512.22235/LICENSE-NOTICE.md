@@ -1,0 +1,1 @@
+Shalender Singh and Santosh Kumar, “Partial Collapse and Ensemble Invariance under Continuous Quantum Measurement,” [arXiv:2512.22235v1](https://arxiv.org/abs/2512.22235v1). The page-coordinate Typst transcription and raster graphics use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
