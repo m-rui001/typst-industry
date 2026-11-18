@@ -100,3 +100,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [高纯锗直拉生长中的杂质偏析](https://arxiv.org/abs/2511.20879v1) | [正文](papers/2511.20879/main.typ) | [短评](papers/2511.20879/summary.md) · [详评](papers/2511.20879/summary.typ) | [有效偏析系数](papers/2511.20879/segregation.typ) |
 | [纯镍的氢助沿晶开裂](https://arxiv.org/abs/2512.02979v1) | [正文](papers/2512.02979/main.typ) | [短评](papers/2512.02979/summary.md) · [详评](papers/2512.02979/summary.typ) | [裂纹分类示意](papers/2512.02979/crack-classification.typ) |
 | [NV 色心的声光扫描磁场成像](https://arxiv.org/abs/2512.01894v1) | [正文](papers/2512.01894/main.typ) | [短评](papers/2512.01894/summary.md) · [详评](papers/2512.01894/summary.typ) | [扫描时序](papers/2512.01894/scan-timing.typ) |
+| [自组织自由形状波导](https://arxiv.org/abs/2512.01699v1) | [正文](papers/2512.01699/main.typ) | [短评](papers/2512.01699/summary.md) · [详评](papers/2512.01699/summary.typ) | [设计流程](papers/2512.01699/waveguide-design.typ) |
