@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用代理模型加速锂离子电池参数反演](https://arxiv.org/abs/2609.10341v1) | [`main.typ`](papers/2609.10341/main.typ)（按 PDF 重建） | [详评](papers/2609.10341/summary.typ) · [短评](papers/2609.10341/summary.md) | [图形](papers/2609.10341/graphics) |
 | [三种热电模块效率测法为何给出不同结果](https://arxiv.org/abs/2605.11440v1) | [`main.typ`](papers/2605.11440/main.typ)（按 PDF 重建） | [详评](papers/2605.11440/summary.typ) · [短评](papers/2605.11440/summary.md) | [图形](papers/2605.11440/graphics) |
 | [铁电存储电容如何实现皮秒级读取](https://arxiv.org/abs/2606.03677v1) | [arXiv 原文](https://arxiv.org/abs/2606.03677v1) | [详评](papers/2606.03677/summary.typ) · [短评](papers/2606.03677/summary.md) | — |
 | [聚合物流体的弹性怎样改变液滴撞击](https://arxiv.org/abs/2608.00274v1) | [`main.typ`](papers/2608.00274/main.typ)（按 PDF 重建） | [详评](papers/2608.00274/summary.typ) · [短评](papers/2608.00274/summary.md) | [图形](papers/2608.00274/graphics) |
