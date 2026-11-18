@@ -206,3 +206,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [射频溅射制备硅基 AlInN 薄膜](https://arxiv.org/abs/2511.17039v1) | [正文](papers/2511.17039/main.typ)（按 PDF 重建） | [短评](papers/2511.17039/summary.md) · [详评](papers/2511.17039/summary.typ) | — |
 | [热化学气相沉积制备大面积二硫化钨薄膜](https://arxiv.org/abs/2511.22063v1) | [正文](papers/2511.22063/main.typ)（按 PDF 重建） | [短评](papers/2511.22063/summary.md) · [详评](papers/2511.22063/summary.typ) | — |
 | [硅基器件的中红外热发射调制](https://arxiv.org/abs/2511.18962v1) | [正文](papers/2511.18962/main.typ)（按 PDF 重建） · [CC BY-NC-SA 4.0](papers/2511.18962/LICENSE-NOTICE.md) | [短评](papers/2511.18962/summary.md) · [详评](papers/2511.18962/summary.typ) | — |
+| [铌酸锂径向模 Rosen 压电变压器](https://arxiv.org/abs/2511.17431v1) | [正文](papers/2511.17431/main.typ)（按 PDF 重建） | [短评](papers/2511.17431/summary.md) · [详评](papers/2511.17431/summary.typ) | — |
