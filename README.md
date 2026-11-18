@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [兼顾隔热与热电转换的碳凝胶](https://arxiv.org/abs/2601.00016v1) | [`main.typ`](papers/2601.00016/main.typ)（按 PDF 重建） | [详评](papers/2601.00016/summary.typ) · [短评](papers/2601.00016/summary.md) | [原图](papers/2601.00016/graphics) |
 | [芳香种子残渣作为固体燃料的热化学筛选](https://arxiv.org/abs/2512.11621v1) | [`main.typ`](papers/2512.11621/main.typ)（按 PDF 重建） | [详评](papers/2512.11621/summary.typ) · [短评](papers/2512.11621/summary.md) | [原图](papers/2512.11621/graphics) |
 | [用微带滤波代替电容的 C 波段整流器](https://arxiv.org/abs/2601.12386v1) | [`main.typ`](papers/2601.12386/main.typ)（按 PDF 重建） | [详评](papers/2601.12386/summary.typ) · [短评](papers/2601.12386/summary.md) | [原图](papers/2601.12386/graphics) |
 | [铑纳米天线的单蛋白紫外拉曼检测](https://arxiv.org/abs/2601.13043v1) | [`main.typ`](papers/2601.13043/main.typ)（按 PDF 重建，含补充材料） | [详评](papers/2601.13043/summary.typ) · [短评](papers/2601.13043/summary.md) | [原图](papers/2601.13043/graphics) |
