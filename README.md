@@ -13,7 +13,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 新增论文的中文详评使用 Typst（篇幅至多为原文的四分之一），短评使用 Markdown。
 
-研究稿正文的原图和参考文献可从表中对应的 arXiv v1 页面下载 TeX 源码包。把源码包解压到 `papers/<编号>/source/`，再从仓库根目录运行 `typst compile papers/<编号>/main.typ`。2512.13267 若只有 EPS 原图，可用 `epstopdf` 生成正文引用的 `*-eps-converted-to.pdf`。2601.00236 的图 10 和图 11 需将 `source/Fig10.pdf` 和 `source/Fig11.pdf` 的第一页栅格化，分别保存为 `original/fig10-flat.png` 和 `original/fig11-flat.png`。 2512.01894 需用 `epstopdf` 将 `source/Figures/` 中的五张 EPS 原图转换为同目录下的同名 PDF，再编译正文。 2512.00066 需将 `source/xi.eps` 和 `source/w.eps` 转成同目录下的同名 PDF，并把 `source/The.bib` 从 Windows-1251 转码为 UTF-8，另存为 `source/The-utf8.bib`。 2512.11497 需把 source/F1.eps 和 source/F2.eps 转成同目录下的同名 PDF。
+研究稿正文的原图和参考文献可从表中对应的 arXiv v1 页面下载 TeX 源码包。把源码包解压到 `papers/<编号>/source/`，再从仓库根目录运行 `typst compile papers/<编号>/main.typ`。2512.13267 若只有 EPS 原图，可用 `epstopdf` 生成正文引用的 `*-eps-converted-to.pdf`。2601.00236 的图 10 和图 11 需将 `source/Fig10.pdf` 和 `source/Fig11.pdf` 的第一页栅格化，分别保存为 `original/fig10-flat.png` 和 `original/fig11-flat.png`。 2512.01894 需用 `epstopdf` 将 `source/Figures/` 中的五张 EPS 原图转换为同目录下的同名 PDF，再编译正文。 2512.00066 需将 `source/xi.eps` 和 `source/w.eps` 转成同目录下的同名 PDF，并把 `source/The.bib` 从 Windows-1251 转码为 UTF-8，另存为 `source/The-utf8.bib`。 2512.11497 需把 source/F1.eps 和 source/F2.eps 转成同目录下的同名 PDF。 2512.13435 需将 source/figures/unicorn_fab_figure_v3.pdf 的第一页栅格化为同目录的同名 PNG，以固定原图的可选图层。
 
 标注「按 PDF 重建」的正文保留原页尺寸、分页和图表位置。正文文字可以在 Typst 中编辑，按原页坐标排布。图形及少量无法可靠还原的字形随源码提供。运行 `typst compile --root papers papers/2511.13412/main.typ` 可从仓库根目录编译这类稿件。
 
@@ -113,3 +113,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [二维光探测器的分布式 RC 限速](https://arxiv.org/abs/2512.11497v1) | [正文](papers/2512.11497/main.typ) | [短评](papers/2512.11497/summary.md) · [详评](papers/2512.11497/summary.typ) | [光敏结位置](papers/2512.11497/junction.typ) |
 | [磷化铟量子阱的实空间转移噪声](https://arxiv.org/abs/2512.10103v1) | [正文](papers/2512.10103/main.typ) | [短评](papers/2512.10103/summary.md) · [详评](papers/2512.10103/summary.typ) | [噪声机制](papers/2512.10103/transfer.typ) |
 | [低 GHz 薄膜磁振子与声子耦合](https://arxiv.org/abs/2512.09348v1) | [正文](papers/2512.09348/main.typ) | [短评](papers/2512.09348/summary.md) · [详评](papers/2512.09348/summary.typ) | [耦合示意](papers/2512.09348/coupling.typ) |
+| [光刻制造的氮化硅扭摆](https://arxiv.org/abs/2512.13435v1) | [正文与附录](papers/2512.13435/main.typ) | [短评](papers/2512.13435/summary.md) · [详评](papers/2512.13435/summary.typ) | [悬挂结构](papers/2512.13435/pendulum.typ) |
