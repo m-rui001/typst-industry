@@ -138,3 +138,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [简单剪切中扁球形颗粒的取向漂移](https://arxiv.org/abs/2512.06822v1) | [正文](papers/2512.06822/main.typ) | [短评](papers/2512.06822/summary.md) · [详评](papers/2512.06822/summary.typ) | — |
 | [射频螺旋偏转器的电容模型](https://arxiv.org/abs/2512.06651v1) | [正文](papers/2512.06651/main.typ) | [短评](papers/2512.06651/summary.md) · [详评](papers/2512.06651/summary.typ) | — |
 | [用扫频和傅里叶变换测量瓶腔共振](https://arxiv.org/abs/2512.12312v1) | [正文](papers/2512.12312/main.typ) | [短评](papers/2512.12312/summary.md) · [详评](papers/2512.12312/summary.typ) | — |
+| [用单天线和可重构智能表面做绕障成像](https://arxiv.org/abs/2512.12359v1) | [正文](papers/2512.12359/main.typ) | [短评](papers/2512.12359/summary.md) · [详评](papers/2512.12359/summary.typ) | — |
