@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用物理约束神经网络求解电路方程](https://arxiv.org/abs/2512.23624v1) | [`main.typ`](papers/2512.23624/main.typ)（按 PDF 重建） | [详评](papers/2512.23624/summary.typ) · [短评](papers/2512.23624/summary.md) | [原图](papers/2512.23624/graphics) |
 | [真空腔外光探测的 X 射线铁磁共振谱仪](https://arxiv.org/abs/2512.15014v1) | [`main.typ`](papers/2512.15014/main.typ)（按 PDF 重建） | [详评](papers/2512.15014/summary.typ) · [短评](papers/2512.15014/summary.md) | [原图](papers/2512.15014/graphics) |
 | [硅 δ 掺杂氧化镓鳍式晶体管](https://arxiv.org/abs/2512.09279v1) | [`main.typ`](papers/2512.09279/main.typ)（按 PDF 重建） | [详评](papers/2512.09279/summary.typ) · [短评](papers/2512.09279/summary.md) | [原图](papers/2512.09279/graphics) |
 | [用巡检图像辅助识别风机叶片故障](https://arxiv.org/abs/2512.16437v1) | [`main.typ`](papers/2512.16437/main.typ)（按 PDF 重建） | [详评](papers/2512.16437/summary.typ) · [短评](papers/2512.16437/summary.md) | [原图](papers/2512.16437/graphics) |
