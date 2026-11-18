@@ -144,3 +144,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [全网反馈下的技术扩散与网络局域化](https://arxiv.org/abs/2512.15371v1) | [正文与附录](papers/2512.15371/main.typ) | [短评](papers/2512.15371/summary.md) · [详评](papers/2512.15371/summary.typ) | — |
 | [增材制造形状记忆合金复合驱动器](https://arxiv.org/abs/2604.14432v1) | [正文](papers/2604.14432/main.typ) | [短评](papers/2604.14432/summary.md) · [详评](papers/2604.14432/summary.typ) | — |
 | [质子交换膜燃料电池的供气控制](https://arxiv.org/abs/2604.11433v1) | [正文](papers/2604.11433/main.typ) | [短评](papers/2604.11433/summary.md) · [详评](papers/2604.11433/summary.typ) | — |
+| [激光道局部几何预测的多模态制造数据集](https://arxiv.org/abs/2607.07965v1) | [正文](papers/2607.07965/main.typ) | [短评](papers/2607.07965/summary.md) · [详评](papers/2607.07965/summary.typ) | — |
