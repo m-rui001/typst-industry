@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [掺铁氧化镓光导开关的波长与电极节距](https://arxiv.org/abs/2512.13983v1) | [`main.typ`](papers/2512.13983/main.typ)（按 PDF 重建） | [详评](papers/2512.13983/summary.typ) · [短评](papers/2512.13983/summary.md) | [图形](papers/2512.13983/graphics) |
 | [用二比特编码超表面改善微波加热均匀性](https://arxiv.org/abs/2512.21912v1) | [arXiv 原文](https://arxiv.org/abs/2512.21912v1) | [详评](papers/2512.21912/summary.typ) · [短评](papers/2512.21912/summary.md) | — |
 | [连续弱测量记录中的贝尔不等式](https://arxiv.org/abs/2512.22229v1) | [`main.typ`](papers/2512.22229/main.typ)（按 PDF 重建） | [详评](papers/2512.22229/summary.typ) · [短评](papers/2512.22229/summary.md) | [图形](papers/2512.22229/graphics) |
 | [连续量子测量中的部分坍缩与稳态不变性](https://arxiv.org/abs/2512.22235v1) | [`main.typ`](papers/2512.22235/main.typ)（按 PDF 重建） | [详评](papers/2512.22235/summary.typ) · [短评](papers/2512.22235/summary.md) | [图形](papers/2512.22235/graphics) |
