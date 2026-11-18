@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用荧光纳米尺探测等离激元纳米孔](https://arxiv.org/abs/2511.15181v1) | [`main.typ`](papers/2511.15181/main.typ)（按 PDF 重建） | [详评](papers/2511.15181/summary.typ) · [短评](papers/2511.15181/summary.md) | [原图](papers/2511.15181/graphics) |
 | [声子晶体中的反手性表面态与铰链态](https://arxiv.org/abs/2512.19078v1) | [`main.typ`](papers/2512.19078/main.typ)（按 PDF 重建） | [详评](papers/2512.19078/summary.typ) · [短评](papers/2512.19078/summary.md) | [原图](papers/2512.19078/graphics) |
 | [九十纳米手性磁体中的斯格明子滑移开关](https://arxiv.org/abs/2512.09225v1) | [`main.typ`](papers/2512.09225/main.typ)（按 PDF 重建） | [详评](papers/2512.09225/summary.typ) · [短评](papers/2512.09225/summary.md) | [原图](papers/2512.09225/graphics) |
 | [用 KAN 矩阵分析非线性关联](https://arxiv.org/abs/2512.15755v1) | [`main.typ`](papers/2512.15755/main.typ)（按 PDF 重建） | [详评](papers/2512.15755/summary.typ) · [短评](papers/2512.15755/summary.md) | [原图](papers/2512.15755/graphics) |
