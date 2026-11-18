@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用柔性应变阵列实时重建贴合曲面](https://arxiv.org/abs/2605.01170v1) | [`main.typ`](papers/2605.01170/main.typ)（按 PDF 重建） | [详评](papers/2605.01170/summary.typ) · [短评](papers/2605.01170/summary.md) | [图形](papers/2605.01170/graphics) |
 | [用变光斑和多频方脉冲区分多层薄膜的热参数](https://arxiv.org/abs/2604.13744v1) | [`main.typ`](papers/2604.13744/main.typ)（按 PDF 重建） | [详评](papers/2604.13744/summary.typ) · [短评](papers/2604.13744/summary.md) | [图形](papers/2604.13744/graphics) |
 | [用室温锗锡热光伏电池收集中红外辐射](https://arxiv.org/abs/2602.21392v1) | [`main.typ`](papers/2602.21392/main.typ)（按 PDF 重建） | [详评](papers/2602.21392/summary.typ) · [短评](papers/2602.21392/summary.md) | [图形](papers/2602.21392/graphics) |
 | [用 1024 单元微加热阵列编排温度图案](https://arxiv.org/abs/2602.22138v1) | [`main.typ`](papers/2602.22138/main.typ)（按 PDF 重建） | [详评](papers/2602.22138/summary.typ) · [短评](papers/2602.22138/summary.md) | [图形](papers/2602.22138/graphics) |
