@@ -193,3 +193,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [水泥厂参与电力市场的鲁棒用电排程](https://arxiv.org/abs/2506.10824v1) | [正文](papers/2506.10824/main.typ) | [短评](papers/2506.10824/summary.md) · [详评](papers/2506.10824/summary-long.md) | — |
 | [海水淡化厂的水电联合调度](https://arxiv.org/abs/2509.19243v1) | [正文](papers/2509.19243/main.typ) | [短评](papers/2509.19243/summary.md) · [详评](papers/2509.19243/summary-long.md) | — |
 | [金刚烷胺改性 PVDF 膜的膜蒸馏性能](https://arxiv.org/abs/2503.15930v1) | [正文](papers/2503.15930/main.typ) | [短评](papers/2503.15930/summary.md) · [详评](papers/2503.15930/summary-long.md) | — |
+| [相邻二元液滴与细液流的蒸发和内部流动](https://arxiv.org/abs/2508.08820v1) | [正文](papers/2508.08820/main.typ) | [短评](papers/2508.08820/summary.md) · [详评](papers/2508.08820/summary-long.md) | — |
