@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [连续弱测量记录中的贝尔不等式](https://arxiv.org/abs/2512.22229v1) | [`main.typ`](papers/2512.22229/main.typ)（按 PDF 重建） | [详评](papers/2512.22229/summary.typ) · [短评](papers/2512.22229/summary.md) | [图形](papers/2512.22229/graphics) |
 | [连续量子测量中的部分坍缩与稳态不变性](https://arxiv.org/abs/2512.22235v1) | [`main.typ`](papers/2512.22235/main.typ)（按 PDF 重建） | [详评](papers/2512.22235/summary.typ) · [短评](papers/2512.22235/summary.md) | [图形](papers/2512.22235/graphics) |
 | [室温集体模式纠缠的判据](https://arxiv.org/abs/2512.22532v1) | [`main.typ`](papers/2512.22532/main.typ)（按 PDF 重建） | [详评](papers/2512.22532/summary.typ) · [短评](papers/2512.22532/summary.md) | [图形](papers/2512.22532/graphics) |
 | [X 波段倍压整流器的阻抗建模与验证](https://arxiv.org/abs/2512.10774v1) | [`main.typ`](papers/2512.10774/main.typ)（按 PDF 重建） | [详评](papers/2512.10774/summary.typ) · [短评](papers/2512.10774/summary.md) | [原图](papers/2512.10774/graphics) |
