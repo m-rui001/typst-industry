@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用双层铌酸锂补偿薄膜残余应力梯度](https://arxiv.org/abs/2604.20694v1) | [`main.typ`](papers/2604.20694/main.typ)（按 PDF 重建） | [详评](papers/2604.20694/summary.typ) · [短评](papers/2604.20694/summary.md) | [图形](papers/2604.20694/graphics) |
 | [用液体界面成形制造极小曲面](https://arxiv.org/abs/2608.21190v1) | [`main.typ`](papers/2608.21190/main.typ)（按 PDF 重建，[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)） | [详评](papers/2608.21190/summary.typ) · [短评](papers/2608.21190/summary.md) | [图形](papers/2608.21190/graphics) |
 | [用光热图案调节形状记忆聚合物的振动](https://arxiv.org/abs/2611.21930v1) | [`main.typ`](papers/2611.21930/main.typ)（按 PDF 重建） | [详评](papers/2611.21930/summary.typ) · [短评](papers/2611.21930/summary.md) | [图形](papers/2611.21930/graphics) |
 | [聚合物填充介孔如何改变胶体的通量与选择性](https://arxiv.org/abs/2608.27995v1) | [`main.typ`](papers/2608.27995/main.typ)（按 PDF 重建） | [详评](papers/2608.27995/summary.typ) · [短评](papers/2608.27995/summary.md) | [图形](papers/2608.27995/graphics) |
