@@ -95,3 +95,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [非局域超表面抑制诺顿波](https://arxiv.org/abs/2512.17361v1) | [正文](papers/2512.17361/main.typ) · [补图](papers/2512.17361/supplement.typ) | [短评](papers/2512.17361/summary.md) · [详评](papers/2512.17361/summary.typ) | [衰减示意](papers/2512.17361/decay.typ) |
 | [磁性布洛赫点的散射读出](https://arxiv.org/abs/2512.16870v1) | [正文](papers/2512.16870/main.typ) | [短评](papers/2512.16870/summary.md) · [详评](papers/2512.16870/summary.typ) | [径向磁纹理示意](papers/2512.16870/texture.typ) |
 | [离子液体羽流撞击薄膜](https://arxiv.org/abs/2512.17122v1) | [正文](papers/2512.17122/main.typ) | [短评](papers/2512.17122/summary.md) · [详评](papers/2512.17122/summary.typ) | [薄膜撞击示意](papers/2512.17122/impact.typ) |
+| [外差干涉仪的高频噪声耦合](https://arxiv.org/abs/2512.17802v1) | [正文](papers/2512.17802/main.typ) | [短评](papers/2512.17802/summary.md) · [详评](papers/2512.17802/summary.typ) | [噪声耦合示意](papers/2512.17802/noise-path.typ) |
