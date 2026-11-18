@@ -124,3 +124,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [移动伽马能谱的贝叶斯活度反演](https://arxiv.org/abs/2512.18769v1) | [正文](papers/2512.18769/main.typ) | [短评](papers/2512.18769/summary.md) · [详评](papers/2512.18769/summary.typ) | [反演流程](papers/2512.18769/workflow.typ) |
 | [65 nm CMOS 像素的辐照与定时](https://arxiv.org/abs/2512.13339v1) | [正文与附录](papers/2512.13339/main.typ) | [短评](papers/2512.13339/summary.md) · [详评](papers/2512.13339/summary.typ) | [时间分辨率](papers/2512.13339/timing.typ) |
 | [千赫兹双光子光片成像](https://arxiv.org/abs/2512.17783v1) | [正文与方法](papers/2512.17783/main.typ) | [短评](papers/2512.17783/summary.md) · [详评](papers/2512.17783/summary.typ) | [轴向分辨率](papers/2512.17783/psf.typ) |
+| [时变声学超表面的束缚波与辐射](https://arxiv.org/abs/2512.17692v1) | [正文与附录](papers/2512.17692/main.typ) | [短评](papers/2512.17692/summary.md) · [详评](papers/2512.17692/summary.typ) | [边带频率示意](papers/2512.17692/sidebands.typ) |
