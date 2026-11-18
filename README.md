@@ -106,3 +106,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [带介质芯的螺旋波导](https://arxiv.org/abs/2512.00066v1) | [正文](papers/2512.00066/main.typ) | [短评](papers/2512.00066/summary.md) · [详评](papers/2512.00066/summary.typ) | [计算流程](papers/2512.00066/model.typ) |
 | [热载流子驱动的硅氢键解离](https://arxiv.org/abs/2512.00634v1) | [正文](papers/2512.00634/main.typ) · [补充图](papers/2512.00634/supplement-figures.typ) | [短评](papers/2512.00634/summary.md) · [详评](papers/2512.00634/summary.typ) | [解离过程](papers/2512.00634/dissociation.typ) |
 | [ASPEN 与 Ginzburg–Landau 动力学](https://arxiv.org/abs/2512.03290v1) | [正文](papers/2512.03290/main.typ) | [短评](papers/2512.03290/summary.md) · [详评](papers/2512.03290/summary.typ) | [网络结构](papers/2512.03290/architecture.typ) |
+| [从稀疏观测重建多尺度物理场](https://arxiv.org/abs/2512.01572v1) | [正文](papers/2512.01572/main.typ) | [短评](papers/2512.01572/summary.md) · [详评](papers/2512.01572/summary.typ) | [重建流程](papers/2512.01572/cascade.typ) |
