@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [铜和金表面的电子发射产额](https://arxiv.org/abs/2512.08693v1) | [`main.typ`](papers/2512.08693/main.typ)（按 PDF 重建） | [详评](papers/2512.08693/summary.typ) · [短评](papers/2512.08693/summary.md) | [原图](papers/2512.08693/graphics) |
 | [声表面波隔离栅极驱动](https://arxiv.org/abs/2511.13412) | [`main.typ`](papers/2511.13412/main.typ)（按 PDF 重建） | [`summary.typ`](papers/2511.13412/summary.typ) · [PDF](papers/2511.13412/summary.pdf) | — |
 | [双磁控管微波功率合成](https://arxiv.org/abs/2511.13516) | [`main.typ`](papers/2511.13516/main.typ)（按 PDF 重建） | [`summary.typ`](papers/2511.13516/summary.typ) · [PDF](papers/2511.13516/summary.pdf) | — |
 | [用振动读出机械结构存储的图案](https://arxiv.org/abs/2511.13543) | [`main.typ`](papers/2511.13543/main.typ)（按 PDF 重建） | [`summary.typ`](papers/2511.13543/summary.typ) · [PDF](papers/2511.13543/summary.pdf) | — |
