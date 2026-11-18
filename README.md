@@ -118,3 +118,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [侧栅调节氧化物界面忆容](https://arxiv.org/abs/2512.11176v1) | [正文与补充材料](papers/2512.11176/main.typ) | [短评](papers/2512.11176/summary.md) · [详评](papers/2512.11176/summary.typ) | [零偏压电容差](papers/2512.11176/gap.typ) |
 | [电机轴承线接触润滑膜的放电](https://arxiv.org/abs/2512.14003v1) | [正文与算法附录](papers/2512.14003/main.typ) | [短评](papers/2512.14003/summary.md) · [详评](papers/2512.14003/summary.typ) | [放电区平均电流密度](papers/2512.14003/roughness.typ) |
 | [冷锻气囊压力筒的几何偏差与应力](https://arxiv.org/abs/2512.13302v1) | [正文](papers/2512.13302/main.typ) | [短评](papers/2512.13302/summary.md) · [详评](papers/2512.13302/summary.typ) | [Sobol 灵敏度](papers/2512.13302/sobol.typ) |
+| [微环四波混频连接色心与光纤](https://arxiv.org/abs/2512.10045v1) | [正文与补充材料](papers/2512.10045/main.typ) | [短评](papers/2512.10045/summary.md) · [详评](papers/2512.10045/summary.typ) | [耦合效率](papers/2512.10045/efficiency.typ) |
