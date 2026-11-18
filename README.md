@@ -232,3 +232,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [毫开尔文温区的单磁通量子电路](https://arxiv.org/abs/2512.06895v1) | [正文](papers/2512.06895/main.typ)（按 PDF 重建） | [短评](papers/2512.06895/summary.md) · [详评](papers/2512.06895/summary.typ) | — |
 | [环境射频能量采集的可重构整流器](https://arxiv.org/abs/2512.07593v1) | [正文](papers/2512.07593/main.typ)（按 PDF 重建） | [短评](papers/2512.07593/summary.md) · [详评](papers/2512.07593/summary.typ) | — |
 | [石墨烯自旋阀读出范德瓦耳斯磁体的自旋织构](https://arxiv.org/abs/2512.07559v1) | [正文](papers/2512.07559/main.typ)（按 PDF 重建） | [短评](papers/2512.07559/summary.md) · [详评](papers/2512.07559/summary.typ) | — |
+| [手性声学超结构中的双半子输运](https://arxiv.org/abs/2512.06891v1) | [正文](papers/2512.06891/main.typ)（按 PDF 重建） | [短评](papers/2512.06891/summary.md) · [详评](papers/2512.06891/summary.typ) | — |
