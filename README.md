@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [波浪驱动海水淡化的联合设计](https://arxiv.org/abs/2604.27152v1) | [`main.typ`](papers/2604.27152/main.typ)（按 PDF 重建） | [详评](papers/2604.27152/summary.typ) · [短评](papers/2604.27152/summary.md) | [图形](papers/2604.27152/graphics) |
 | [复杂混合气体中的激光吸收光谱与机器学习](https://arxiv.org/abs/2605.01306v1) | [`main.typ`](papers/2605.01306/main.typ)（按 PDF 重建） | [详评](papers/2605.01306/summary.typ) · [短评](papers/2605.01306/summary.md) | [图形](papers/2605.01306/graphics) |
 | [κ 相氧化镓薄膜的厚向导热](https://arxiv.org/abs/2611.05647v1) | [`main.typ`](papers/2611.05647/main.typ)（按 PDF 重建） | [详评](papers/2611.05647/summary.typ) · [短评](papers/2611.05647/summary.md) | [图形](papers/2611.05647/graphics) |
 | [用柔性应变阵列实时重建贴合曲面](https://arxiv.org/abs/2605.01170v1) | [`main.typ`](papers/2605.01170/main.typ)（按 PDF 重建） | [详评](papers/2605.01170/summary.typ) · [短评](papers/2605.01170/summary.md) | [图形](papers/2605.01170/graphics) |
