@@ -185,3 +185,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [增材制造紧凑板式换热器的尺寸优化与选材](https://arxiv.org/abs/2504.03372v1) | [正文](papers/2504.03372/main.typ) | [短评](papers/2504.03372/summary.md) · [详评](papers/2504.03372/summary-long.md) | — |
 | [用无序分形表面优化油水分离](https://arxiv.org/abs/2502.02526v1) | [正文](papers/2502.02526/main.typ) | [短评](papers/2502.02526/summary.md) · [详评](papers/2502.02526/summary-long.md) | — |
 | [水合二氧化硅纳米孔中的二氧化碳吸附](https://arxiv.org/abs/2502.07251v1) | [正文](papers/2502.07251/main.typ) | [短评](papers/2502.07251/summary.md) · [详评](papers/2502.07251/summary-long.md) | — |
+| [增材制造变截面 TPMS 晶格换热器的流道优化](https://arxiv.org/abs/2512.10207v1) | [正文](papers/2512.10207/main.typ) | [短评](papers/2512.10207/summary.md) · [详评](papers/2512.10207/summary-long.md) | — |
