@@ -214,3 +214,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [用等离激元纳米孔观察孔内反应](https://arxiv.org/abs/2512.02500v1) | [正文](papers/2512.02500/main.typ)（按 PDF 重建） | [短评](papers/2512.02500/summary.md) · [详评](papers/2512.02500/summary.typ) | — |
 | [卫星太阳电池的辐射能量与电荷沉积](https://arxiv.org/abs/2512.02308v1) | [正文](papers/2512.02308/main.typ)（按 PDF 重建） | [短评](papers/2512.02308/summary.md) · [详评](papers/2512.02308/summary.typ) | — |
 | [千伏级氧化镓沟槽肖特基二极管](https://arxiv.org/abs/2512.04033v1) | [正文](papers/2512.04033/main.typ)（按 PDF 重建） | [短评](papers/2512.04033/summary.md) · [详评](papers/2512.04033/summary.typ) | — |
+| [层状反铁磁隧道结的界面磁阻](https://arxiv.org/abs/2512.03705v1) | [正文](papers/2512.03705/main.typ)（按 PDF 重建） | [短评](papers/2512.03705/summary.md) · [详评](papers/2512.03705/summary.typ) | — |
