@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用 1024 单元微加热阵列编排温度图案](https://arxiv.org/abs/2602.22138v1) | [`main.typ`](papers/2602.22138/main.typ)（按 PDF 重建） | [详评](papers/2602.22138/summary.typ) · [短评](papers/2602.22138/summary.md) | [图形](papers/2602.22138/graphics) |
 | [用多频热反射测量半导体埋藏界面的热阻](https://arxiv.org/abs/2604.12539v1) | [`main.typ`](papers/2604.12539/main.typ)（按 PDF 重建） | [详评](papers/2604.12539/summary.typ) · [短评](papers/2604.12539/summary.md) | [图形](papers/2604.12539/graphics) |
 | [用方脉冲热反射测量聚酰亚胺薄膜的导热各向异性](https://arxiv.org/abs/2604.12532v1) | [`main.typ`](papers/2604.12532/main.typ)（按 PDF 重建） | [详评](papers/2604.12532/summary.typ) · [短评](papers/2604.12532/summary.md) | [图形](papers/2604.12532/graphics) |
 | [用差分方脉冲同时测量液体和固液界面的热性质](https://arxiv.org/abs/2604.13742v1) | [`main.typ`](papers/2604.13742/main.typ)（按 PDF 重建） | [详评](papers/2604.13742/summary.typ) · [短评](papers/2604.13742/summary.md) | [图形](papers/2604.13742/graphics) |
