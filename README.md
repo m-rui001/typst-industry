@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [碳化硅中的预制缺陷与氦损伤](https://arxiv.org/abs/2601.02946v1) | [`main.typ`](papers/2601.02946/main.typ)（按 PDF 重建） | [详评](papers/2601.02946/summary.typ) · [短评](papers/2601.02946/summary.md) | [原图](papers/2601.02946/graphics) |
 | [普通 CMOS 相机上的低剂量深紫外无透镜显微成像](https://arxiv.org/abs/2511.21311v1) | [`main.typ`](papers/2511.21311/main.typ)（按 PDF 重建） | [详评](papers/2511.21311/summary.typ) · [短评](papers/2511.21311/summary.md) | [原图](papers/2511.21311/graphics) |
 | [人工传输线实现微型微带低通滤波器](https://arxiv.org/abs/2601.00699v1) | [`main.typ`](papers/2601.00699/main.typ)（按 PDF 重建） | [详评](papers/2601.00699/summary.typ) · [短评](papers/2601.00699/summary.md) | [原图](papers/2601.00699/graphics) |
 | [用荧光纳米尺探测等离激元纳米孔](https://arxiv.org/abs/2511.15181v1) | [`main.typ`](papers/2511.15181/main.typ)（按 PDF 重建） | [详评](papers/2511.15181/summary.typ) · [短评](papers/2511.15181/summary.md) | [原图](papers/2511.15181/graphics) |

@@ -1,0 +1,1 @@
+Nabil Daghbouj et al., [arXiv:2601.02946v1](https://arxiv.org/abs/2601.02946v1). The editable page-coordinate Typst reconstruction and raster graphics use [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The embedded Courier font name is mapped to Courier New.
