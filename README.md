@@ -165,3 +165,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [自适应辐射涂层用于昼夜热电发电](https://arxiv.org/abs/2609.36983v1) | [正文](papers/2609.36983/main.typ) | [短评](papers/2609.36983/summary.md) · [详评](papers/2609.36983/summary.typ) | — |
 | [材料挤出增材制造的表面粗糙度预测与三维可视化](https://arxiv.org/abs/2603.09353v1) | [正文](papers/2603.09353/main.typ) | [短评](papers/2603.09353/summary.md) · [详评](papers/2603.09353/summary.typ) | — |
 | [金属薄膜的维德曼–弗兰兹关系实验检验](https://arxiv.org/abs/2609.17990v1) | [正文](papers/2609.17990/main.typ) | [短评](papers/2609.17990/summary.md) · [详评](papers/2609.17990/summary.typ) | — |
+| [型材挤出口模优化的几何表示方法](https://arxiv.org/abs/2609.27602v1) | [正文](papers/2609.27602/main.typ) | [短评](papers/2609.27602/summary.md) · [详评](papers/2609.27602/summary.typ) | — |
