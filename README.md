@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用实验室 X 射线吸收谱跟踪固定床催化剂](https://arxiv.org/abs/2601.11298v1) | [`main.typ`](papers/2601.11298/main.typ) · [补充材料 Typst](papers/2601.11298/supplement/main.typ)（按 PDF 重建） | [详评](papers/2601.11298/summary.typ) · [短评](papers/2601.11298/summary.md) | [正文图形](papers/2601.11298/graphics) · [补充图形](papers/2601.11298/supplement/graphics) |
 | [形状记忆合金复合驱动件的三维耦合仿真](https://arxiv.org/abs/2604.15211v1) | [`main.typ`](papers/2604.15211/main.typ)（按 PDF 重建） | [详评](papers/2604.15211/summary.typ) · [短评](papers/2604.15211/summary.md) | [图形](papers/2604.15211/graphics) |
 | [用波导神经算子加速极紫外光刻掩模衍射仿真](https://arxiv.org/abs/2603.15584v1) | [`main.typ`](papers/2603.15584/main.typ)（按 PDF 重建） | [详评](papers/2603.15584/summary.typ) · [短评](papers/2603.15584/summary.md) | [图形](papers/2603.15584/graphics) |
 | [全介质超表面中局域载流子注入与残留磁场](https://arxiv.org/abs/2601.11003v1) | [`main.typ`](papers/2601.11003/main.typ)（按 PDF 重建） | [详评](papers/2601.11003/summary.typ) · [短评](papers/2601.11003/summary.md) | [图形](papers/2601.11003/graphics) |
