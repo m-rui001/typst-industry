@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [摩擦电纳米发电机如何从材料走向器件设计](https://arxiv.org/abs/2611.04008v1) | [`main.typ`](papers/2611.04008/main.typ)（按 PDF 重建） | [详评](papers/2611.04008/summary.typ) · [短评](papers/2611.04008/summary.md) | [图形](papers/2611.04008/graphics) |
 | [绝缘体上钽酸锂如何实现非易失光学调相](https://arxiv.org/abs/2607.23247v1) | [`main.typ`](papers/2607.23247/main.typ)（按 PDF 重建） | [详评](papers/2607.23247/summary.typ) · [短评](papers/2607.23247/summary.md) | [图形](papers/2607.23247/graphics) |
 | [双层反极化铌酸锂怎样激发高阶厚度剪切模](https://arxiv.org/abs/2609.14222v1) | [`main.typ`](papers/2609.14222/main.typ)（按 PDF 重建） | [详评](papers/2609.14222/summary.typ) · [短评](papers/2609.14222/summary.md) | [图形](papers/2609.14222/graphics) |
 | [颗粒接触和堆叠压力怎样改变电池开路电压](https://arxiv.org/abs/2609.02968v1) | [`main.typ`](papers/2609.02968/main.typ)（按 PDF 重建） | [详评](papers/2609.02968/summary.typ) · [短评](papers/2609.02968/summary.md) | [图形](papers/2609.02968/graphics) |
