@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [全钒液流电池放大时的热管理与系统效率](https://arxiv.org/abs/2602.12776v1) | [`main.typ`](papers/2602.12776/main.typ)（按 PDF 重建） | [详评](papers/2602.12776/summary.typ) · [短评](papers/2602.12776/summary.md) | [图形](papers/2602.12776/graphics) |
 | [空间太阳能电站的模块化多旋转关节设计](https://arxiv.org/abs/2512.15541v1) | [`main.typ`](papers/2512.15541/main.typ)（按扫描版 PDF 重建） | [详评](papers/2512.15541/summary.typ) · [短评](papers/2512.15541/summary.md) | [图形](papers/2512.15541/graphics) |
 | [掺铁氧化镓光导开关的波长与电极节距](https://arxiv.org/abs/2512.13983v1) | [`main.typ`](papers/2512.13983/main.typ)（按 PDF 重建） | [详评](papers/2512.13983/summary.typ) · [短评](papers/2512.13983/summary.md) | [图形](papers/2512.13983/graphics) |
 | [用二比特编码超表面改善微波加热均匀性](https://arxiv.org/abs/2512.21912v1) | [arXiv 原文](https://arxiv.org/abs/2512.21912v1) | [详评](papers/2512.21912/summary.typ) · [短评](papers/2512.21912/summary.md) | — |
