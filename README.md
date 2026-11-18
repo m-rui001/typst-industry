@@ -197,3 +197,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [干燥多孔介质自发吸液的孔尺度模拟](https://arxiv.org/abs/2408.02831v1) | [正文](papers/2408.02831/main.typ) | [短评](papers/2408.02831/summary.md) · [详评](papers/2408.02831/summary.typ) | — |
 | [稠密流体导热率的热力学框架](https://arxiv.org/abs/2511.23197v1) | [正文](papers/2511.23197/main.typ) | [短评](papers/2511.23197/summary.md) · [详评](papers/2511.23197/summary.typ) | — |
 | [六方氮化硼中锯齿形石墨烯纳米带的边缘磁性](https://arxiv.org/abs/2511.13075v1) | [正文与补充材料](papers/2511.13075/main.typ)（按 PDF 重建） | [短评](papers/2511.13075/summary.md) · [详评](papers/2511.13075/summary.typ) | — |
+| [静水压力反转 Bi₂O₂Se 导热各向异性](https://arxiv.org/abs/2511.15027v1) | [正文](papers/2511.15027/main.typ)（按 PDF 重建） · [CC BY-NC-SA 4.0](papers/2511.15027/LICENSE-NOTICE.md) | [短评](papers/2511.15027/summary.md) · [详评](papers/2511.15027/summary.typ) | — |
