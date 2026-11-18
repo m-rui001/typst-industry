@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [低成本浸没式液冷台架的散热瓶颈](https://arxiv.org/abs/2611.17361v1) | [arXiv 原文](https://arxiv.org/abs/2611.17361v1)（CC BY-NC-ND 4.0） | [详评](papers/2611.17361/summary.typ) · [短评](papers/2611.17361/summary.md) | [台架文件与数据](https://doi.org/10.17605/OSF.IO/SWZV7) |
 | [工作温度怎样改变纳米颗粒钯网络的氢气响应](https://arxiv.org/abs/2611.22877v1) | [`main.typ`](papers/2611.22877/main.typ)（按 PDF 重建） | [详评](papers/2611.22877/summary.typ) · [短评](papers/2611.22877/summary.md) | [图形](papers/2611.22877/graphics) |
 | [波长怎样改变带隙材料的超快激光加工](https://arxiv.org/abs/2610.32924v1) | [`main.typ`](papers/2610.32924/main.typ)（按 PDF 重建） | [详评](papers/2610.32924/summary.typ) · [短评](papers/2610.32924/summary.md) | [原图见 arXiv](https://arxiv.org/pdf/2610.32924v1) |
 | [用非对称热流路径减少柔性热电器件的热回流](https://arxiv.org/abs/2608.20386v1) | [`main.typ`](papers/2608.20386/main.typ)（按 PDF 重建） | [详评](papers/2608.20386/summary.typ) · [短评](papers/2608.20386/summary.md) | [图形](papers/2608.20386/graphics) |
