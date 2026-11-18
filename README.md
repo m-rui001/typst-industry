@@ -220,3 +220,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [风电与光伏主导系统中的卡诺电池](https://arxiv.org/abs/2512.04636v1) | [正文](papers/2512.04636/main.typ)（按 PDF 重建） | [短评](papers/2512.04636/summary.md) · [详评](papers/2512.04636/summary.typ) | — |
 | [双铁电层栅堆栈中的保持损失](https://arxiv.org/abs/2512.04658v1) | [正文](papers/2512.04658/main.typ)（按 PDF 重建） | [短评](papers/2512.04658/summary.md) · [详评](papers/2512.04658/summary.typ) | — |
 | [高压合成氟掺杂钐基铁砷超导体](https://arxiv.org/abs/2512.05177v1) | [正文](papers/2512.05177/main.typ)（按 PDF 重建） | [短评](papers/2512.05177/summary.md) · [详评](papers/2512.05177/summary.typ) | — |
+| [5.8 GHz 整流天线与 Class-F 整流器](https://arxiv.org/abs/2512.00954v1) | [正文](papers/2512.00954/main.typ)（按 PDF 重建） | [短评](papers/2512.00954/summary.md) · [详评](papers/2512.00954/summary.typ) | — |
