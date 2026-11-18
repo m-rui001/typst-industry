@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用差分方脉冲同时测量液体和固液界面的热性质](https://arxiv.org/abs/2604.13742v1) | [`main.typ`](papers/2604.13742/main.typ)（按 PDF 重建） | [详评](papers/2604.13742/summary.typ) · [短评](papers/2604.13742/summary.md) | [图形](papers/2604.13742/graphics) |
 | [用离散余弦变换压缩颗粒消光光谱](https://arxiv.org/abs/2603.10364v1) | [`main.typ`](papers/2603.10364/main.typ)（按 PDF 重建） | [详评](papers/2603.10364/summary.typ) · [短评](papers/2603.10364/summary.md) | [图形](papers/2603.10364/graphics) |
 | [用表面等离激元在远离光斑处产生二次谐波](https://arxiv.org/abs/2605.00575v1) | [`main.typ`](papers/2605.00575/main.typ)（按 PDF 重建） | [详评](papers/2605.00575/summary.typ) · [短评](papers/2605.00575/summary.md) | [图形](papers/2605.00575/graphics) |
 | [用光电流谱反推氮化铝镓光电二极管的局部电场](https://arxiv.org/abs/2611.19296v1) | [`main.typ`](papers/2611.19296/main.typ)（按 PDF 重建） | [详评](papers/2611.19296/summary.typ) · [短评](papers/2611.19296/summary.md) | [图形](papers/2611.19296/graphics) |
