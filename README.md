@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用微带滤波代替电容的 C 波段整流器](https://arxiv.org/abs/2601.12386v1) | [`main.typ`](papers/2601.12386/main.typ)（按 PDF 重建） | [详评](papers/2601.12386/summary.typ) · [短评](papers/2601.12386/summary.md) | [原图](papers/2601.12386/graphics) |
 | [铑纳米天线的单蛋白紫外拉曼检测](https://arxiv.org/abs/2601.13043v1) | [`main.typ`](papers/2601.13043/main.typ)（按 PDF 重建，含补充材料） | [详评](papers/2601.13043/summary.typ) · [短评](papers/2601.13043/summary.md) | [原图](papers/2601.13043/graphics) |
 | [极紫外脉冲下钼硅多层膜的干涉与传热](https://arxiv.org/abs/2601.10069v1) | [`main.typ`](papers/2601.10069/main.typ)（按 PDF 重建） | [详评](papers/2601.10069/summary.typ) · [短评](papers/2601.10069/summary.md) | [原图](papers/2601.10069/graphics) |
 | [飞秒激光加工单晶压电微型执行器](https://arxiv.org/abs/2601.09476v1) | [`main.typ`](papers/2601.09476/main.typ)（按 PDF 重建） | [详评](papers/2601.09476/summary.typ) · [短评](papers/2601.09476/summary.md) | [原图](papers/2601.09476/graphics) |
