@@ -271,13 +271,13 @@
   #line-at(436.24pt, 709.2pt, "𝑢̅")
   #set text(font: "Times New Roman", size: 10.02pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(442.24pt, 709.2pt, "  m/s and temperature of ")
-  #set text(font: "ComicSansMS", size: 6.733pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Comic Sans MS", size: 6.733pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(224.224pt, 104.427pt, "Top Symm")
   #line-at(250.457pt, 190.579pt, "Right Symm")
   #line-at(144.536pt, 83.583pt, "Left Symm")
-  #set text(font: "ComicSansMS", size: 6.441pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Comic Sans MS", size: 6.441pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(211.406pt, 241.261pt, "Symm")
-  #set text(font: "ComicSansMS", size: 6.895pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Comic Sans MS", size: 6.895pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(351.161pt, 143.253pt, "Buffer", angle: -90deg)
 ]
 
