@@ -1,0 +1,1 @@
+Luis A. De la Fuente, Hernan A. Moreno, Laura V. Alvarez, and Hoshin V. Gupta, [arXiv:2512.15755v1](https://arxiv.org/abs/2512.15755v1). The page-coordinate Typst transcription and raster graphics use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
