@@ -85,3 +85,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [输氢管道的环焊缝哪里先裂](https://arxiv.org/abs/2601.00471v1) | [正文](papers/2601.00471/main.typ) | [短评](papers/2601.00471/summary.md) · [详评 Typst](papers/2601.00471/summary.typ) | [环焊缝边界条件](papers/2601.00471/weld-boundary.typ) |
 | [把聚合物链的流动记忆带进宏观计算](https://arxiv.org/abs/2512.13267v1) | [正文](papers/2512.13267/main.typ) | [短评](papers/2512.13267/summary.md) · [详评 Typst](papers/2512.13267/summary.typ) | [跨尺度耦合流程](papers/2512.13267/coupling-cycle.typ) |
 | [DyCo₅ 的磁化转向能不能做成温控开关](https://arxiv.org/abs/2512.14335v1) | [正文](papers/2512.14335/main.typ) | [短评](papers/2512.14335/summary.md) · [详评 Typst](papers/2512.14335/summary.typ) | [热开关状态图](papers/2512.14335/thermal-switch.typ) |
+| [用磁化翻转计数测光](https://arxiv.org/abs/2512.14968v1) | [正文](papers/2512.14968/main.typ) | [短评](papers/2512.14968/summary.md) · [详评 Typst](papers/2512.14968/summary.typ) | [计数读出链路](papers/2512.14968/counting-path.typ) |
