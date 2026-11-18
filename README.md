@@ -89,3 +89,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [翼型颤振抑制与折点延迟](https://arxiv.org/abs/2512.14943v1) | [正文](papers/2512.14943/main.typ) | [短评](papers/2512.14943/summary.md) · [详评 Typst](papers/2512.14943/summary.typ) | [折点示意](papers/2512.14943/fold-delay.typ) |
 | [稀土铟化物的磁热效应](https://arxiv.org/abs/2512.15589v1) | [正文](papers/2512.15589/main.typ) | [短评](papers/2512.15589/summary.md) · [详评 Typst](papers/2512.15589/summary.typ) | [熵变对比图](papers/2512.15589/entropy-bars.typ) |
 | [Y 形波导的横向自旋波路由](https://arxiv.org/abs/2512.16563v1) | [正文](papers/2512.16563/main.typ) · [补充材料](papers/2512.16563/supplement.typ) | [短评](papers/2512.16563/summary.md) · [详评 Typst](papers/2512.16563/summary.typ) | [路由示意图](papers/2512.16563/y-routing.typ) |
+| [铁电极化与垂直 NAND](https://arxiv.org/abs/2512.15988v1) | [正文](papers/2512.15988/main.typ) | [短评](papers/2512.15988/summary.md) · [详评 Typst](papers/2512.15988/summary.typ) | [栅侧注入机制](papers/2512.15988/gate-feedback.typ) |
