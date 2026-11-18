@@ -1,0 +1,1 @@
+Shalender Singh and Santosh Kumar, [arXiv:2512.22532v1](https://arxiv.org/abs/2512.22532v1). The page-coordinate Typst transcription and raster graphics use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
