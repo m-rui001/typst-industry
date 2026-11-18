@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [复杂混合气体中的激光吸收光谱与机器学习](https://arxiv.org/abs/2605.01306v1) | [`main.typ`](papers/2605.01306/main.typ)（按 PDF 重建） | [详评](papers/2605.01306/summary.typ) · [短评](papers/2605.01306/summary.md) | [图形](papers/2605.01306/graphics) |
 | [κ 相氧化镓薄膜的厚向导热](https://arxiv.org/abs/2611.05647v1) | [`main.typ`](papers/2611.05647/main.typ)（按 PDF 重建） | [详评](papers/2611.05647/summary.typ) · [短评](papers/2611.05647/summary.md) | [图形](papers/2611.05647/graphics) |
 | [用柔性应变阵列实时重建贴合曲面](https://arxiv.org/abs/2605.01170v1) | [`main.typ`](papers/2605.01170/main.typ)（按 PDF 重建） | [详评](papers/2605.01170/summary.typ) · [短评](papers/2605.01170/summary.md) | [图形](papers/2605.01170/graphics) |
 | [用变光斑和多频方脉冲区分多层薄膜的热参数](https://arxiv.org/abs/2604.13744v1) | [`main.typ`](papers/2604.13744/main.typ)（按 PDF 重建） | [详评](papers/2604.13744/summary.typ) · [短评](papers/2604.13744/summary.md) | [图形](papers/2604.13744/graphics) |
@@ -51,7 +52,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [全钒液流电池放大时的热管理与系统效率](https://arxiv.org/abs/2602.12776v1) | [`main.typ`](papers/2602.12776/main.typ)（按 PDF 重建） | [详评](papers/2602.12776/summary.typ) · [短评](papers/2602.12776/summary.md) | [图形](papers/2602.12776/graphics) |
 | [空间太阳能电站的模块化多旋转关节设计](https://arxiv.org/abs/2512.15541v1) | [`main.typ`](papers/2512.15541/main.typ)（按扫描版 PDF 重建） | [详评](papers/2512.15541/summary.typ) · [短评](papers/2512.15541/summary.md) | [图形](papers/2512.15541/graphics) |
 | [掺铁氧化镓光导开关的波长与电极节距](https://arxiv.org/abs/2512.13983v1) | [`main.typ`](papers/2512.13983/main.typ)（按 PDF 重建） | [详评](papers/2512.13983/summary.typ) · [短评](papers/2512.13983/summary.md) | [图形](papers/2512.13983/graphics) |
-| [用二比特编码超表面改善微波加热均匀性](https://arxiv.org/abs/2512.21912v1) | [arXiv 原文](https://arxiv.org/abs/2512.21912v1) | [详评](papers/2512.21912/summary.typ) · [短评](papers/2512.21912/summary.md) | — |
+| [用二比特编码超表面改善微波加热均匀性](https://arxiv.org/abs/2512.21912v1) | [`main.typ`](papers/2512.21912/main.typ)（按 PDF 重建） | [详评](papers/2512.21912/summary.typ) · [短评](papers/2512.21912/summary.md) | [图形](papers/2512.21912/graphics) |
 | [连续弱测量记录中的贝尔不等式](https://arxiv.org/abs/2512.22229v1) | [`main.typ`](papers/2512.22229/main.typ)（按 PDF 重建） | [详评](papers/2512.22229/summary.typ) · [短评](papers/2512.22229/summary.md) | [图形](papers/2512.22229/graphics) |
 | [连续量子测量中的部分坍缩与稳态不变性](https://arxiv.org/abs/2512.22235v1) | [`main.typ`](papers/2512.22235/main.typ)（按 PDF 重建） | [详评](papers/2512.22235/summary.typ) · [短评](papers/2512.22235/summary.md) | [图形](papers/2512.22235/graphics) |
 | [室温集体模式纠缠的判据](https://arxiv.org/abs/2512.22532v1) | [`main.typ`](papers/2512.22532/main.typ)（按 PDF 重建） | [详评](papers/2512.22532/summary.typ) · [短评](papers/2512.22532/summary.md) | [图形](papers/2512.22532/graphics) |
