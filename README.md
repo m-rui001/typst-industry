@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [波长怎样改变带隙材料的超快激光加工](https://arxiv.org/abs/2610.32924v1) | [`main.typ`](papers/2610.32924/main.typ)（按 PDF 重建） | [详评](papers/2610.32924/summary.typ) · [短评](papers/2610.32924/summary.md) | [原图见 arXiv](https://arxiv.org/pdf/2610.32924v1) |
 | [用非对称热流路径减少柔性热电器件的热回流](https://arxiv.org/abs/2608.20386v1) | [`main.typ`](papers/2608.20386/main.typ)（按 PDF 重建） | [详评](papers/2608.20386/summary.typ) · [短评](papers/2608.20386/summary.md) | [图形](papers/2608.20386/graphics) |
 | [用纳米孔限域结晶调节二次谐波响应](https://arxiv.org/abs/2610.22801v1) | [`main.typ`](papers/2610.22801/main.typ)（按 PDF 重建） | [详评](papers/2610.22801/summary.typ) · [短评](papers/2610.22801/summary.md) | [图形](papers/2610.22801/graphics) |
 | [胶结颗粒材料脱黏后怎样失去刚度](https://arxiv.org/abs/2609.21410v1) | [`main.typ`](papers/2609.21410/main.typ)（按 PDF 重建） | [详评](papers/2609.21410/summary.typ) · [短评](papers/2609.21410/summary.md) | [图形](papers/2609.21410/graphics) |
