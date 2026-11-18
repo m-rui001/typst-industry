@@ -227,3 +227,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [相位与频率联合调制改善微波加热均匀性](https://arxiv.org/abs/2512.06482v1) | [正文](papers/2512.06482/main.typ)（按 PDF 重建） | [短评](papers/2512.06482/summary.md) · [详评](papers/2512.06482/summary.typ) | — |
 | [双光梳相关光谱追踪激光动态](https://arxiv.org/abs/2512.06320v1) | [正文](papers/2512.06320/main.typ)（按 PDF 重建） | [短评](papers/2512.06320/summary.md) · [详评](papers/2512.06320/summary.typ) | — |
 | [自支撑 CoTb 薄膜的电写入与双极突触权重](https://arxiv.org/abs/2512.06669v1) | [正文](papers/2512.06669/main.typ)（按 PDF 重建） | [短评](papers/2512.06669/summary.md) · [详评](papers/2512.06669/summary.typ) | — |
+| [自支撑薄膜的释放、转移与界面控制](https://arxiv.org/abs/2512.06637v1) | [正文](papers/2512.06637/main.typ)（按 PDF 重建） | [短评](papers/2512.06637/summary.md) · [详评](papers/2512.06637/summary.typ) | — |
