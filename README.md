@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [怎样用纳米压痕反演二硒化钨涂层的黏弹性](https://arxiv.org/abs/2609.07292v1) | [`main.typ`](papers/2609.07292/main.typ)（按 PDF 重建，[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)） | [详评](papers/2609.07292/summary.typ) · [短评](papers/2609.07292/summary.md) | [图形](papers/2609.07292/graphics) |
 | [锂硫电池聚乙烯隔膜上的 LAGP 薄层](https://arxiv.org/abs/2609.36749v1) | [`main.typ`](papers/2609.36749/main.typ)（按 PDF 重建） | [详评](papers/2609.36749/summary.typ) · [短评](papers/2609.36749/summary.md) | [图形](papers/2609.36749/graphics) |
 | [用动态微流体透镜重构超声声场](https://arxiv.org/abs/2607.05867v1) | [`main.typ`](papers/2607.05867/main.typ)（按 PDF 重建，[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)） | [详评](papers/2607.05867/summary.typ) · [短评](papers/2607.05867/summary.md) | [图形](papers/2607.05867/graphics) |
 | [热浸入率如何影响液体与玻璃界面的热扩散](https://arxiv.org/abs/2606.22508v1) | [`main.typ`](papers/2606.22508/main.typ)（按 PDF 重建，[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)） | [详评](papers/2606.22508/summary.typ) · [短评](papers/2606.22508/summary.md) | [图形](papers/2606.22508/graphics) |
