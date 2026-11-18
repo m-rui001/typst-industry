@@ -182,3 +182,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [增材制造空气换热器的高阶谐波曲面优化](https://arxiv.org/abs/2602.17824v1) | [正文](papers/2602.17824/main.typ) | [短评](papers/2602.17824/summary.md) · [详评](papers/2602.17824/summary.typ) | — |
 | [多翅片布置下相变材料的传热与熔化](https://arxiv.org/abs/2605.08120v1) | [正文](papers/2605.08120/main.typ) | [短评](papers/2605.08120/summary.md) · [详评](papers/2605.08120/summary.typ) | — |
 | [机器学习筛选无机晶体的温度诱导固–固相变](https://arxiv.org/abs/2506.01449v1) | [正文](papers/2506.01449/main.typ) | [短评](papers/2506.01449/summary.md) · [详评](papers/2506.01449/summary.typ) | — |
+| [增材制造紧凑板式换热器的尺寸优化与选材](https://arxiv.org/abs/2504.03372v1) | [正文](papers/2504.03372/main.typ) | [短评](papers/2504.03372/summary.md) · [详评](papers/2504.03372/summary-long.md) | — |
