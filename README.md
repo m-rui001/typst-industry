@@ -162,3 +162,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [微通道散热器热流体预测的双层模型](https://arxiv.org/abs/2610.16716v1) | [正文](papers/2610.16716/main.typ) | [短评](papers/2610.16716/summary.md) · [详评](papers/2610.16716/summary.typ) | — |
 | [共沸混合物在狭缝孔中的选择性吸附](https://arxiv.org/abs/2601.21591v1) | [正文](papers/2601.21591/main.typ) · [补充材料](papers/2601.21591/supplement.typ) | [短评](papers/2601.21591/summary.md) · [详评](papers/2601.21591/summary.typ) | — |
 | [填充床液相色谱的可组合模型](https://arxiv.org/abs/2610.33269v1) | [正文及补充材料](papers/2610.33269/main.typ) | [短评](papers/2610.33269/summary.md) · [详评](papers/2610.33269/summary.typ) | — |
+| [自适应辐射涂层用于昼夜热电发电](https://arxiv.org/abs/2609.36983v1) | [正文](papers/2609.36983/main.typ) | [短评](papers/2609.36983/summary.md) · [详评](papers/2609.36983/summary.typ) | — |
