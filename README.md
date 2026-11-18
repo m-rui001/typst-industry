@@ -133,3 +133,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [低温下导波声子的四波混频](https://arxiv.org/abs/2601.12418v1) | [正文](papers/2601.12418/main.typ) | [短评](papers/2601.12418/summary.md) · [详评](papers/2601.12418/summary.typ) | [模态非线性对比](papers/2601.12418/nonlinearity.typ) |
 | [时变介质中的声学时间反演与格林函数提取](https://arxiv.org/abs/2601.18382v1) | [正文](papers/2601.18382/main.typ) | [短评](papers/2601.18382/summary.md) · [详评](papers/2601.18382/summary.typ) | — |
 | [磁隧道结脉冲神经元的模拟电路学习](https://arxiv.org/abs/2512.03966v1) | [正文](papers/2512.03966/main.typ) | [短评](papers/2512.03966/summary.md) · [详评](papers/2512.03966/summary.typ) | — |
+| [理想磁导体椭圆柱的偏振散射](https://arxiv.org/abs/2512.05384v1) | [正文](papers/2512.05384/main.typ) · [CC BY-NC-SA 4.0](papers/2512.05384/LICENSE-NOTICE.md) | [短评](papers/2512.05384/summary.md) · [详评](papers/2512.05384/summary.typ) | — |
