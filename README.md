@@ -112,3 +112,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [VOXES 台式 X 射线谱仪升级](https://arxiv.org/abs/2512.03826v1) | [正文](papers/2512.03826/main.typ) | [短评](papers/2512.03826/summary.md) · [详评](papers/2512.03826/summary.typ) | [双通道示意](papers/2512.03826/channels.typ) |
 | [二维光探测器的分布式 RC 限速](https://arxiv.org/abs/2512.11497v1) | [正文](papers/2512.11497/main.typ) | [短评](papers/2512.11497/summary.md) · [详评](papers/2512.11497/summary.typ) | [光敏结位置](papers/2512.11497/junction.typ) |
 | [磷化铟量子阱的实空间转移噪声](https://arxiv.org/abs/2512.10103v1) | [正文](papers/2512.10103/main.typ) | [短评](papers/2512.10103/summary.md) · [详评](papers/2512.10103/summary.typ) | [噪声机制](papers/2512.10103/transfer.typ) |
+| [低 GHz 薄膜磁振子与声子耦合](https://arxiv.org/abs/2512.09348v1) | [正文](papers/2512.09348/main.typ) | [短评](papers/2512.09348/summary.md) · [详评](papers/2512.09348/summary.typ) | [耦合示意](papers/2512.09348/coupling.typ) |
