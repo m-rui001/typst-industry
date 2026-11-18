@@ -212,3 +212,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [无线能量传输的双频 Class-F 微波整流器](https://arxiv.org/abs/2512.00965v1) | [正文](papers/2512.00965/main.typ)（按 PDF 重建） | [短评](papers/2512.00965/summary.md) · [详评](papers/2512.00965/summary.typ) | — |
 | [多芯光纤与硅光芯片的玻璃光学中介层](https://arxiv.org/abs/2512.01972v1) | [正文](papers/2512.01972/main.typ)（按 PDF 重建） | [短评](papers/2512.01972/summary.md) · [详评](papers/2512.01972/summary.typ) | — |
 | [用等离激元纳米孔观察孔内反应](https://arxiv.org/abs/2512.02500v1) | [正文](papers/2512.02500/main.typ)（按 PDF 重建） | [短评](papers/2512.02500/summary.md) · [详评](papers/2512.02500/summary.typ) | — |
+| [卫星太阳电池的辐射能量与电荷沉积](https://arxiv.org/abs/2512.02308v1) | [正文](papers/2512.02308/main.typ)（按 PDF 重建） | [短评](papers/2512.02308/summary.md) · [详评](papers/2512.02308/summary.typ) | — |
