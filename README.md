@@ -204,3 +204,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [模式可编程光梳光谱与漫反射气体探测](https://arxiv.org/abs/2511.16365v1) | [正文](papers/2511.16365/main.typ)（按 PDF 重建） | [短评](papers/2511.16365/summary.md) · [详评](papers/2511.16365/summary.typ) | — |
 | [铌酸锂薄膜的残余应力各向异性](https://arxiv.org/abs/2511.17474v1) | [正文](papers/2511.17474/main.typ)（按 PDF 重建） | [短评](papers/2511.17474/summary.md) · [详评](papers/2511.17474/summary.typ) | — |
 | [射频溅射制备硅基 AlInN 薄膜](https://arxiv.org/abs/2511.17039v1) | [正文](papers/2511.17039/main.typ)（按 PDF 重建） | [短评](papers/2511.17039/summary.md) · [详评](papers/2511.17039/summary.typ) | — |
+| [热化学气相沉积制备大面积二硫化钨薄膜](https://arxiv.org/abs/2511.22063v1) | [正文](papers/2511.22063/main.typ)（按 PDF 重建） | [短评](papers/2511.22063/summary.md) · [详评](papers/2511.22063/summary.typ) | — |
