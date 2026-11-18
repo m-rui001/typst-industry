@@ -1,3 +1,52 @@
+#import "solar-orc.typ": solar-orc
+
+#set document(title: "Techno economic feasibility study of solar ORC in India")
+#set page(paper: "a4", margin: (x: 17mm, y: 17mm), columns: 2, numbering: "1")
+#set columns(gutter: 6mm)
+#set text(font: "Libertinus Serif", size: 9.5pt)
+#set par(justify: true, leading: .55em)
+#set heading(numbering: "1.1.")
+#set figure.caption(separator: [. ])
+#set math.equation(numbering: "(1)")
+#set table(inset: (x: 2pt, y: 3pt), stroke: none)
+#show table: set text(size: 7.5pt)
+#show figure.caption: set text(size: 8.5pt)
+#let panel(path, label) = align(center)[#image(path, width: 94%) #linebreak() (#label)]
+
+#figure(placement: top, scope: "parent", kind: "frontmatter", numbering: none)[
+  #align(center)[
+    #text(size: 17pt, weight: "bold")[Techno economic feasibility study of solar ORC in India]
+    #v(4pt)
+    *Ayona Biswas#super[1,2], Arindam Mandal#super[3], Aditya Bandopadhyay#super[4], Sourav Mitra#super[4], and Sandeep Saha#super[3,\*]*
+    #v(3pt)
+    #text(size: 8.5pt)[
+      #super[1] Mechanical Engineering, Indian Institute of Engineering Science and Technology, Shibpur \
+      #super[2] Mechanical Engineering, Imperial College London \
+      #super[3] Aerospace Engineering, Indian Institute of Technology, Kharagpur \
+      #super[4] Mechanical Engineering, Indian Institute of Technology, Kharagpur
+    ]
+  ]
+  *Abstract.* Solar energy has enormous potential because there is a worldwide need to
+meet energy demands. Depleting non-renewable energy resources,
+increasing carbon emissions, and other environmental effects concern the
+scientific community to develop an alternative approach to electricity
+production. In this article, we present the study of a solar-powered
+Organic Rankine cycle considering Indian climatic conditions. Initially,
+we scrutinized seven working fluids and assessed their performance in
+the ORC at an evaporator pressure range of 9--30 bar and a mass flow
+rate range of 0.2 kg/s to 4.5 kg/s. For a fixed sink temperature of 298
+K, we evaluate the system using four different power ratings of 2, 20,
+50, and 100 kW based on four different source temperatures of 423 K, 403
+K, 383 K, and 363 K. We estimate the system cost for each working fluid
+in each scenario separately. Our findings suggest that R 1233zd(E) is
+the optimum performing working fluid based on cost, cost-effectiveness,
+and environmental friendliness. We also notice that the estimated system
+scale cost is very competitive and could be a great alternative to the
+technologies already on the Indian market.
+
+  *Keywords.* Organic Rankine Cycle, solar power, renewable energy, organic fluid, efficiency.
+]
+
 = Introduction
 <introduction>
 Conversion of renewable energy resources into electricity has been a top
@@ -29,13 +78,8 @@ energy production. These restrictions provide us with a chance to
 investigate alternative solar energy harvesting technologies to meet
 both economic and environmental demands.
 
-#figure([],
-  caption: [
-    Country-wise electricity production using solar energy
-    @WinNT1@WinNT2@WinNT3 for the year 2016 (left) and 2021 (right)
-  ]
-)
-<solar_world_map>
+#figure(placement: auto, image("graphics/solar_world_map.svg", width: 100%), caption: [Country-wise electricity production using solar energy
+@WinNT1@WinNT2@WinNT3 for the year 2016 (left) and 2021 (right)]) <solar_world_map>
 
 There are two primary ways of harnessing solar energy into electricity,
 (a) direct conversion of the energy for electricity production by
@@ -50,7 +94,7 @@ created by the solar panels reduces their effectiveness and installing a
 sophisticated cooling system to prevent that enhances the system
 complexity could significantly increase the cost
 @ghadikolaei2021enviroeconomic. Also, the increased toxicity and its
-corresponding environmental impacts @kWak2020potential make thermal
+corresponding environmental impacts @kwak2020potential make thermal
 energy storage devices an appealing alternative for solar power
 harvesting. The organic Rankine Cycle is a promising technology for
 converting heat into electricity which came into existence in 1980. This
@@ -176,15 +220,10 @@ possible way forward in section @conclusion.
 
 = System description
 <system-description>
-#figure([],
-  caption: [
-    Schematic diagram of the solar Organic Rankine Cycle. a. Solar
-    collector, b. Evaporator integrated Thermal energy storage, c. Pump,
-    d. Expander, e. Condenser, f.Generator, g. Water supply, h.
-    Expansion vessel, i. Hot water tank.
-  ]
-)
-<fig2>
+#figure(placement: auto, layout(size => solar-orc(size.width)), caption: [Schematic diagram of the solar Organic Rankine Cycle. a. Solar
+collector, b. Evaporator integrated Thermal energy storage, c. Pump, d.
+Expander, e. Condenser, f.Generator, g. Water supply, h. Expansion
+vessel, i. Hot water tank.]) <fig2>
 
 The S-ORC system we consider for the analysis is shown in figure @fig2.
 Black coloured stream is the working fluid circuit, whereas the red
@@ -227,7 +266,6 @@ refrigeration or chemical industries are shortlisted and examined. The
 shortlisted fluids for the thermo-economic assessment are summarized in
 table @shortlisted_fluids.
 
-#block[
 #figure(
   align(center)[#table(
     columns: 9,
@@ -245,9 +283,7 @@ table @shortlisted_fluids.
   , caption: [Shortlisted working fluids and their properties
   @lemmon2002nist]
   , kind: table
-  )
-
-] <shortlisted_fluids>
+  ) <shortlisted_fluids>
 == Consideration for cycle design
 <consideration_for_cycle_design>
 We consider four situations according to the temperature source,
@@ -264,10 +300,7 @@ expander to be 85% and 70%, respectively. Finally, we model the ORC
 considering the solar irradiance of 0.85 $k W \/ m^2$ and a collector
 efficiency of 75%.
 
-#figure([],
-  caption: [
-  ]
-)
+#figure(placement: auto, image("graphics/TS_paper.svg", width: 80%), caption: [Temperature-entropy diagram of working fluids]) <ts_diagram>
 
 == Governing equations
 <Governing_equation>
@@ -315,20 +348,11 @@ input in the evaporator. $ eta = dot(W)_(N e t) / dot(Q)_i $<eq9>
 <results_and_discussion>
 == Simulation methodology and parametric analysis
 <simulation_methodology>
-#figure([],
-  caption: [
-  ]
-)
+#figure(placement: auto, image("graphics/w_in_all_fluids_inkskape.svg", width: 80%), caption: [Heat addition rate in the evaporator w.r.t $P_E$]) <w_in_all_fluids_inkskape>
 
-#figure([],
-  caption: [
-  ]
-)
+#figure(placement: auto, image("graphics/q_c_all_fluids_inkscape.svg", width: 80%), caption: [Heat rejection rate to the condenser at different $P_E$]) <q_c_all_fluids_inkscape>
 
-#figure([],
-  caption: [
-  ]
-)
+#figure(placement: auto, image("graphics/Eff_all_fluids.svg", width: 80%), caption: [Cycle thermal efficiency at different $P_E$]) <Eff_all_fluids>
 
 After shortlisting seven organic working fluids shown in table
 @shortlisted_fluids, We conduct a series of numerical simulations for
@@ -356,45 +380,11 @@ However, to make the comparison meaningful, we set the desired power
 output so that the available source and sink temperatures are assumed to
 be within the range of 363--423 K and 298 K, respectively.
 
-#figure([#box(image("figures/r_245fa_net_power_v0p2.eps"))
-  #box(image("figures/R11_net_power_v0p2.eps"))
-  #box(image("figures/n_pentane_net_power_v0p2.eps")) \
-  (a) (b) (c) \
-  #box(image("figures/isopentane_net_power_v0p2.eps"))
-  #box(image("figures/R113_net_power_v0p2.eps"))
-  #box(image("figures/R123_net_power_v0p2.eps")) \
-  (d) (e) (f) \
-  #box(image("figures/R1233ZD_E_net_power_v0p2.eps")) \
-  (g) \
-  #box(image("figures/colourbar_power.png", width: 50.0%))
+#figure(placement: auto, scope: "parent", [#grid(columns: (1fr, 1fr, 1fr), gutter: 5pt, panel("graphics/r_245fa_net_power_v0p2.svg", [a]), panel("graphics/R11_net_power_v0p2.svg", [b]), panel("graphics/n_pentane_net_power_v0p2.svg", [c]), panel("graphics/isopentane_net_power_v0p2.svg", [d]), panel("graphics/R113_net_power_v0p2.svg", [e]), panel("graphics/R123_net_power_v0p2.svg", [f]), panel("graphics/R1233ZD_E_net_power_v0p2.svg", [g]), [], []) #v(3pt) #image("graphics/colourbar_power.png", width: 50%)], caption: [Contour of net power output for (a) R 245fa (b) R 11 (c) R 601 (d) R
+601a (e) R 113 (f) R 123 (g) R 1233zd(E).]) <isopower>
 
-  ],
-  caption: [
-    Contour of net power output for (a) R 245fa (b) R 11 (c) R 601 (d) R
-    601a (e) R 113 (f) R 123 (g) R 1233zd(E).
-  ]
-)
-<isopower>
-
-#figure([#box(image("figures/area_R245fa_v0p2.eps"))
-  #box(image("figures/area_R11_v0p2.eps"))
-  #box(image("figures/area_R601_v0p2.eps")) \
-  (a) (b) (c) \
-  #box(image("figures/area_R601a_v0p2.eps"))
-  #box(image("figures/area_R113_v0p2.eps"))
-  #box(image("figures/area_R123_v0p2.eps")) \
-  (d) (e) (f) \
-  #box(image("figures/area_R1233zd_E_v0p2.eps")) \
-  (g) \
-  #box(image("figures/colourbar_area.png", width: 50.0%))
-
-  ],
-  caption: [
-    Contour of collector area requirement for (a) R 245fa (b) R 11 (c) R
-    601 (d) R 601a (e) R 113 (f) R 123 (g) R 1233zd(E).
-  ]
-)
-<isoarea>
+#figure(placement: auto, scope: "parent", [#grid(columns: (1fr, 1fr, 1fr), gutter: 5pt, panel("graphics/area_R245fa_v0p2.svg", [a]), panel("graphics/area_R11_v0p2.svg", [b]), panel("graphics/area_R601_v0p2.svg", [c]), panel("graphics/area_R601a_v0p2.svg", [d]), panel("graphics/area_R113_v0p2.svg", [e]), panel("graphics/area_R123_v0p2.svg", [f]), panel("graphics/area_R1233zd_E_v0p2.svg", [g]), [], []) #v(3pt) #image("graphics/colourbar_area.png", width: 50%)], caption: [Contour of collector area requirement for (a) R 245fa (b) R 11 (c) R 601
+(d) R 601a (e) R 113 (f) R 123 (g) R 1233zd(E).]) <isoarea>
 
 == Operational envelope
 <operational_envelope>
@@ -445,8 +435,75 @@ lowest collecter area for all the scenarios. The output parameters shown
 in table @tab2 - table @tab5 play a significant role in determining the
 cost of the system.
 
-<tab5>
+#figure(placement: auto, scope: "parent",
+  align(center)[#table(
+    columns: 12,
+    align: (center,center,center,center,center,center,center,center,center,center,center,center,),
+    table.header([WF], [$P_E$], [$T_4$], [$P_C$], [$eta$], [$A_(c o l)$], [$dot(m)$], [$dot(q_E)$], [$dot(q_C)$], [$dot(W_t)$], [$dot(W_P)$], [$dot(W_(n e t))$],),
+    table.hline(),
+    [R-245fa], [26.681], [348.84], [1.77], [13.04], [24.05], [.058], [15.33], [13.33], [2.13], [0.13], [2],
+    [R-11], [16.873], [335.49], [1.25], [14.62], [21.22], [.058], [13.53], [11.55], [2.05], [0.07], [2],
+    [R-601], [12.56], [365.98], [0.82], [13.44], [23.45], [.027], [14.94], [12.94], [2.07], [0.07], [2],
+    [R-601a], [14.86], [366.51], [1.09], [13.17], [23.66], [.029], [14.35], [12.35], [2.07], [0.07], [2],
+    [R-113], [9.55], [362.65], [0.54], [13.86], [22.62], [.065], [14.42], [12.42], [2.04], [0.04], [2],
+    [R-123], [16.58], [349.63], [1.09], [13.90], [22.57], [.061], [14.39], [12.39], [2.08], [0.08], [2],
+    [R-1233zd(E)], [21.72], [343.80], [1.54], [14.54], [21.57], [.0525], [13.76], [11.75], [2.10], [0.10], [2],
+  )]
+  , caption: [Calculation table for scenario 1 ($T_3$ = 420 K)]
+  , kind: table
+  ) <tab2>
+#figure(placement: auto, scope: "parent",
+  align(center)[#table(
+    columns: 12,
+    align: (center,center,center,center,center,center,center,center,center,center,center,center,),
+    table.header([WF], [$P_E$], [$T_4$], [$P_C$], [$eta$], [$A_(c o l)$], [$dot(m)$], [$dot(q_E)$], [$dot(q_C)$], [$dot(W_t)$], [$dot(W_P)$], [$dot(W_(n e t))$],),
+    table.hline(),
+    [R-245fa], [18.09], [344.26], [1.77], [11.80], [26.70], [0.07], [17.02], [15.01], [2.10], [0.10], [2],
+    [R-11], [11.63], [331.78], [1.25], [12.98], [24.12], [0.068], [15.38], [13.38], [2.06], [0.06], [2],
+    [R-601], [8.51], [355.80], [0.82], [9.52], [26.05], [0.032], [16.61], [14.61], [2.05], [0.05], [2],
+    [R-601a], [10.22], [356.45], [1.09], [11.85], [26.41], [0.03], [16.84], [14.84], [2.06], [0.06], [2],
+    [R-113], [6.37], [353.32], [0.54], [12.35], [25.42], [0.08], [16.20], [14.20], [2.04], [0.04], [2],
+    [R-123], [11.25], [348.98], [1.09], [10.60], [29.60], [0.08], [18.87], [16.87], [2.07], [0.07], [2],
+    [R-1233zd(E)], [14.81], [342.08], [1.54], [12.14], [25.81], [0.07], [16.46], [14.46], [2.08], [0.08], [2],
+  )]
+  , caption: [Calculation table for scenario 2 ($T_3$ = 400 K)]
+  , kind: table
+  ) <tab3>
+#figure(placement: auto, scope: "parent",
+  align(center)[#table(
+    columns: 12,
+    align: (center,center,center,center,center,center,center,center,center,center,center,center,),
+    table.header([WF], [$P_E$], [$T_4$], [$P_C$], [$eta$], [$A_(c o l)$], [$dot(m)$], [$dot(q_E)$], [$dot(q_C)$], [$dot(W_t)$], [$dot(W_P)$], [$dot(W_(n e t))$],),
+    table.hline(),
+    [R-245fa], [11.78], [337.80], [1.77], [10.15], [30.89], [0.08], [19.70], [17.70], [2.07], [0.07], [2],
+    [R-11], [7.70], [327.34], [1.25], [10.95], [28.72], [0.84], [18.30], [16.30], [2.05], [0.05], [2],
+    [R-601], [5.5183], [345.40], [0.82], [10.29], [30.50], [0.04], [19.44], [17.44], [2.04], [0.04], [2],
+    [R-601a], [6.74], [345.02], [1.09], [10.15], [30.96], [0.04], [19.73], [17.73], [2.05], [0.05], [2],
+    [R-113], [4.0521], [343.70], [0.54], [10.49], [29.89], [0.10], [19.06], [17.06], [2.02], [0.02], [2],
+    [R-123], [7.32], [340.91], [1.09], [9.01], [34.84], [0.10], [22.21], [20.21], [2.05], [0.05], [2],
+    [R-1233zd(E)], [9.73], [335.83], [1.54], [10.37], [30.24], [0.08], [19.28], [17.28], [2.06], [0.06], [2],
+  )]
+  , caption: [Calculation table for scenario 3 ($T_3$ = 380 K)]
+  , kind: table
+  ) <tab4>
 
+#figure(placement: auto, scope: "parent",
+  align(center)[#table(
+    columns: 12,
+    align: (center,center,center,center,center,center,center,center,center,center,center,center,),
+    table.header([WF], [$P_E$], [$T_4$], [$P_C$], [$eta$], [$A_(c o l)$], [$dot(m)$], [$dot(q_E)$], [$dot(q_C)$], [$dot(W_t)$], [$dot(W_P)$], [$dot(W_(n e t))$],),
+    table.hline(),
+    [R-245fa], [7.29], [330.44], [1.77], [7.98], [39.32], [0.11], [25.06], [23.06], [2.05], [0.05], [2],
+    [R-11], [4.85], [322.64], [1.25], [8.46], [37.18], [0.11], [23.70], [21.70], [2.03], [0.03], [2],
+    [R-601], [3.40], [335.11], [0.82], [8.05], [38.86], [0.05], [24.78], [22.79], [2.03], [0.03], [2],
+    [R-601a], [4.24], [335.59], [1.09], [7.97], [39.42], [0.06], [25.13], [23.13], [2.04], [0.04], [2],
+    [R-113], [2.43], [334.06], [0.54], [8.16], [38.40], [0.13], [24.48], [22.48], [2.02], [0.02], [2],
+    [R-123], [7.32], [332.43], [1.09], [7.02], [44.59], [0.14], [28.43], [26.43], [2.04], [0.04], [2],
+    [R-1233zd(E)], [6.09], [328.94], [1.54], [8.11], [38.70], [0.11], [24.68], [22.68], [2.05], [0.05], [2],
+  )]
+  , caption: [Calculation table for scenario 4 ($T_3$ = 360 K)]
+  , kind: table
+  ) <tab5>
 = system scale cost estimation
 <system_scale_cost_estimation>
 The cost of a system depends on several factors e.g., primary and
@@ -474,7 +531,7 @@ scenarios. We divide the cost estimations into four sections.
 
 However, we limit the cost estimation to the component level for
 scenario 1 only. The specific investment cost for each scenario is
-detailed in table @tabcost.
+detailed in table @tab5.
 
 The cost for the expander can be estimated using the correlation
 described by Dumont et al. @dumont2019comparison,
@@ -495,10 +552,7 @@ Figure @cost_main_components describes the cost of the main components
 of an ORC in terms of power output. The expander contributes the most
 whereas the generator's contribution is the least.
 
-#figure([],
-  caption: [
-  ]
-)
+#figure(placement: auto, [#stack(dir: ttb, spacing: 4pt, panel("graphics/cost_exp_gen.svg", [a]), panel("graphics/cost_pump.svg", [b]), panel("graphics/cost_condenser_v0p1.svg", [c]))], caption: [Cost estimation of Main ORC components  (a) Expander and generator (b) Pump (c) Heat exchangers]) <cost_main_components>
 
 The cost of the working fluid can be calculated using the correlation
 described in @freeman2017asmall,
@@ -507,10 +561,7 @@ describes the cost of the working fluid concerning the power
 requirement. The lowest cost estimated here for R 601 whereas R 245fa
 has the maximum cost.
 
-#figure([],
-  caption: [
-  ]
-)
+#figure(placement: auto, image("graphics/cost_working_fluid_v0p1.svg", width: 80%), caption: [Estimated working fluid cost at different power]) <cost_working_fluid>
 
 For the estimation of solar collector cost, we need to have an estimate
 of the required area of the solar collector for targeted power output.
@@ -524,10 +575,7 @@ cost can be an order of magnitude higher if there is a requirement for a
 larger collector area. R 11 and R 1233zd(E) require the least investment
 cost for the solar collector.
 
-#figure([],
-  caption: [
-  ]
-)
+#figure(placement: auto, image("graphics/cost_SC_v0p1.svg", width: 80%), caption: [Estimated cost of Solar collector at different power output]) <cost_sc>
 
 The cost for heat transfer fluid can be estimated using the correlation
 described in @freeman2017asmall.
@@ -535,10 +583,7 @@ $ C o s t_(h t f) = 6.1 times A_(c o l) $<eq21> Figure @cost_htf shows
 the trend for HTF cost at different target power for different fluids.
 The estimated cost can be within the range of 2.5-3 lacs.
 
-#figure([],
-  caption: [
-  ]
-)
+#figure(placement: auto, image("graphics/cost_HTF_v0p1.svg", width: 80%), caption: [Estimated HTF cost at different power output]) <cost_htf>
 
 In the other cost part, thermal energy storage is the component that
 contributes the most and can reach up to six lacs for the assessment. A
@@ -550,20 +595,14 @@ estimated according to the Indian market scenario. The figure
 @cost_other describes the estimated cost for TES, HWT, Expansion valve,
 and Instrumentation at different power.
 
-#figure([],
-  caption: [
-  ]
-)
+#figure(placement: auto, image("graphics/cost_other_v0p1.svg", width: 80%), caption: [Estimated cost of other ancillary components at different power output]) <cost_other>
 
 The specific cost can be expressed as the ratio of the net cost to the
 target power of the system. For our assessment, the specific cost of the
 product is lowest for R 113 or R 11 and highest for R 245fa. Figure
 @sp_cost shows the trend of specific costs for all the working fluids.
 
-#figure([],
-  caption: [
-  ]
-)
+#figure(placement: auto, image("graphics/sp_cost_v0p1.svg", width: 80%), caption: [System specific cost at different power output]) <sp_cost>
 
 == Optimal performing fluid
 <optimal-performing-fluid>
@@ -578,7 +617,6 @@ candidate in table @optimum_fluid. Using a similar procedure, we further
 rank the working fluids for other scenarios presented in table
 @optimum_fluid_other.
 
-#block[
 #figure(
   align(center)[#table(
     columns: 6,
@@ -595,9 +633,7 @@ rank the working fluids for other scenarios presented in table
   )]
   , caption: [Grading table for the working fluids for scenario 1]
   , kind: table
-  )
-
-] <optimum_fluid>
+  ) <optimum_fluid>
 Notably, two working fluids- R 601a and R 601 have ranked $2^(n d)$ in
 the environment friendliness category. Hence, each of them is graded an
 average of the total grade for $2^(n d)$ and $3^(r d)$ rank in that
@@ -605,7 +641,6 @@ respective category. The table @optimum_fluid and table
 @optimum_fluid_other suggest that R 1233zd(E) is the optimum performing
 fluid at the conditions considered in the present work.
 
-#block[
 #figure(
   align(center)[#table(
     columns: 4,
@@ -622,9 +657,7 @@ fluid at the conditions considered in the present work.
   )]
   , caption: [Rank of working fluids in other scenarios]
   , kind: table
-  )
-
-] <optimum_fluid_other>
+  ) <optimum_fluid_other>
 == Comparison of cost with the existing technologies
 <cost_comparison_v0p1>
 The initial scenario-based evaluation gives us an estimation and
@@ -637,7 +670,6 @@ targeted power for each scenario. The cost for S-ORC indicates that this
 technology can be competitive with the existing technologies available
 in the market.
 
-#block[
 #figure(
   align(center)[#table(
     columns: 4,
@@ -656,9 +688,7 @@ in the market.
   , caption: [Comparison of cost reported in the existing technology
   with S-ORC]
   , kind: table
-  )
-
-] <cost_comparison>
+  ) <cost_comparison>
 = Conclusion and further scope
 <conclusion>
 The work aims to identify and assess the viability of a solar-powered
@@ -719,3 +749,5 @@ majorly depends on the solar collector and the expander system.
 Selecting and optimizing the expander and solar collector suitable for
 such applications could reduce the cost and improve conversion
 efficiency, thus leaving a plausible scope for further research.
+
+#bibliography("reference.bib", style: "ieee")
