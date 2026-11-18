@@ -1,4 +1,4 @@
-#import "@preview/cetz:0.4.2": canvas, draw
+#import "@preview/cetz:0.5.3": canvas, draw
 
 // Coordinates follow the reference image with its origin at the upper left.
 #let bubble-geometry(width: 100%) = layout(size => {

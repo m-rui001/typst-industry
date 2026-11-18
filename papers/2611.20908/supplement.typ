@@ -1,3 +1,5 @@
+// Typst adaptation of Di Pietro et al., arXiv:2611.20908v1 (CC BY 4.0).
+// https://arxiv.org/abs/2611.20908v1 | https://creativecommons.org/licenses/by/4.0/
 #import "layout.typ": *
 #show: article.with(supplement: true)
 
@@ -92,7 +94,7 @@ $ Delta f \( k \) = f_S - f_(A S) = frac(gamma_0 D, pi med M_s) k \, $<eq:BLS_DM
 
 where $k$ is the in-plane spin-wave wave vector and $gamma_0$ is the gyromagnetic ratio. The sign of $D$ was assigned using the field, wave-vector, and Stokes/anti-Stokes conventions described below. The BLS measurements probe an area with a lateral dimension of approximately $10$-$40 med mu$m and spin waves with wavelengths of the order of $0.5 med mu$m. The technique therefore provides a spatially averaged measurement that is complementary to domain-wall creep, which is particularly sensitive to disorder and pinning on nanometer length scales.
 
-#figure(image("source/Plots/figura.pdf", width: 80.0%),
+#figure(image("source/Plots/figura.svg", width: 80.0%),
   caption: [
     Schematic diagram of the BLS interaction setup. The bottom panel shows a typical BLS spectrum in the absence of iDMI (dashed line) and with iDMI (solid line) for negative (left) and positive (right) values of $D$, respectively. Here $k_(upright(i))^(upright(l i g h t))$ denotes the incident light wave numbers, while $H$ and $M$ are the applied in-plane field and magnetization, respectively.
   ]
@@ -131,7 +133,7 @@ $ alpha_c / alpha_0 = frac(Gamma_(-) - r_f Gamma_(+), Gamma_(+) - r_f Gamma_(-))
   , kind: table
   ) <tab:BLS_chiral_damping>
 ]
-#figure(image("source/Plots/BLS_linewidths_vs_chiral_ratio.pdf", width: 100.0%),
+#figure(image("source/Plots/BLS_linewidths_vs_chiral_ratio.svg", width: 100.0%),
   caption: [
     (i) Stokes and anti-Stokes BLS linewidths, $Gamma_(upright(S))$ and $Gamma_(upright(A S))$, for samples a1-a5 and a6. (ii) Relative chiral-damping contribution $alpha_c \/ alpha_0$, obtained after removing the DMI-induced frequency contribution from the measured linewidth asymmetry according to Eq.~(#ref(<eq:BLS_relative_chiral_damping>, supplement: none)).
   ]
@@ -154,7 +156,7 @@ where $v_W$ is the characteristic Walker velocity, $gamma$ is the gyromagnetic r
 
 The domain-wall velocity was measured as a function of $mu_0 H_z$ for every sample in the a1-a5 series, allowing the corresponding characteristic velocity $v_W$ to be determined. The complete set of measurements is shown in Fig. #ref(<fig:walker_all_samples>, supplement: none). The DMI constants obtained using Eq.~(#ref(<eq:plateau>, supplement: none)) are listed in Table~@tab:Aex.
 
-#figure([#figure([#box(image("source/Plots/velocity_vs_Bz_all_samples.pdf")) <fig:walker_velocity>
+#figure([#figure([#box(image("source/Plots/velocity_vs_Bz_all_samples.svg")) <fig:walker_velocity>
 
     ],
     caption: [
@@ -162,7 +164,7 @@ The domain-wall velocity was measured as a function of $mu_0 H_z$ for every samp
   )
   <fig:walker_velocity>
 
-  #figure([#box(image("source/Plots/lnv_vs_Bz_minus_quarter_all_samples.pdf")) <fig:creep_scaling_all_samples>
+  #figure([#box(image("source/Plots/lnv_vs_Bz_minus_quarter_all_samples.svg")) <fig:creep_scaling_all_samples>
 
     ],
     caption: [
@@ -170,7 +172,7 @@ The domain-wall velocity was measured as a function of $mu_0 H_z$ for every samp
   )
   <fig:creep_scaling_all_samples>
 
-  #figure([#box(image("source/Plots/depinning_fields.pdf")) <fig:depinning_fields_all_samples>
+  #figure([#box(image("source/Plots/depinning_fields.svg")) <fig:depinning_fields_all_samples>
 
     ],
     caption: [
@@ -191,7 +193,7 @@ The DMI constants obtained from the flow-regime velocity measurements are report
 <creep-characterization-of-the-a6-sample>
 We were not able to measure the a6 sample up to the depinning regime as the same setup used for samples a1-a5 was unavailable. To check the validity of the creep regime, we performed low field bubble expansion measurements to confirm the linear scaling of $ln \( v \)$ #source-ref(9, <bib:Lemerle1998>) $ ln \( v \) = v_0 + chi_0 \( mu_0 H_z \)^(- 1 \/ 4) $<eq:creep_law> The results are shown in Fig. #ref(<fig:MAN60_creep>, supplement: none)
 
-#figure([#box(image("source/Plots/MAN60_creep.pdf", width: 50.0%))
+#figure([#box(image("source/Plots/MAN60_creep.svg", width: 50.0%))
   .
 
   ],
@@ -205,9 +207,9 @@ We were not able to measure the a6 sample up to the depinning regime as the same
 <subsec:DMI-field-from-in-plane-field-compensation>
 For each sample, asymmetric bubble expansion was measured as a function of the applied in-plane field $mu_0 H_x$, while maintaining the out-of-plane driving field within the flow regime (see Table. #ref(<tab:Aex>, supplement: none)). The velocities of the up-down and down-up portions of the expanding bubble were evaluated independently. The velocity curves exhibit a minimum near the compensation condition at which the applied in-plane field balances the DMI effective field #source-ref(2, <bib:ha_pham_very_2016>)#source-ref(10, <bib:krizakova_study_2019>)#source-ref(8, <bib:garcia_magnetic_2021>), $ H_x = - H_(upright(D M I)) . $<eq:flow_compensation> The flow-regime asymmetric bubble-expansion measurements for all samples are shown in Fig. #ref(<fig:flow_parabolas>, supplement: none). The recorded depinning fields $mu_0 H_d$ for the a1-a5 samples and are reported in Table. #ref(<tab:Aex>, supplement: none) alongside the recorded values of the effective DMI field $mu_0 H_(upright(D M I))$.
 
-#figure([#box(image("source/Plots/velocity_vs_Bx_a1.pdf", width: 32.0%)) #box(image("source/Plots/velocity_vs_Bx_a2.pdf", width: 32.0%)) #box(image("source/Plots/velocity_vs_Bx_a3.pdf", width: 32.0%))
+#figure([#box(image("source/Plots/velocity_vs_Bx_a1.svg", width: 32.0%)) #box(image("source/Plots/velocity_vs_Bx_a2.svg", width: 32.0%)) #box(image("source/Plots/velocity_vs_Bx_a3.svg", width: 32.0%))
 
-  #box(image("source/Plots/velocity_vs_Bx_a4.pdf", width: 32.0%)) #box(image("source/Plots/velocity_vs_Bx_a5.pdf", width: 32.0%))
+  #box(image("source/Plots/velocity_vs_Bx_a4.svg", width: 32.0%)) #box(image("source/Plots/velocity_vs_Bx_a5.svg", width: 32.0%))
 
   ],
   caption: [
@@ -254,7 +256,7 @@ We consider the one-dimensional precessional dynamics with an angle-dependent da
  & + frac(3 \( 1 + 2 alpha_0^2 \), 2 alpha_0) eta rho xi^2 + frac(3 \( 1 + alpha_0^2 \), 2) rho^2 xi^2 med + cal(O) (eta^2 \, eta rho^2 \, rho^3 \, xi^4) #scale(x: 300%, y: 300%)[\]] . $ Series division then gives $ chevron.l v chevron.r = gamma Delta H_z frac(alpha_0, 1 + alpha_0^2) #scale(x: 300%, y: 300%)[\[] 1 + frac(xi^2, 2 alpha_0^2) + rho^2 / 2 + rho^2 xi^2 med + frac(alpha_0 \( 1 - alpha_0^2 \), 2 \( 1 + alpha_0^2 \)) eta rho\
 + frac(5 + 5 alpha_0^2 - 2 alpha_0^4, 4 alpha_0 \( 1 + alpha_0^2 \)) eta rho xi^2 med + cal(O) (eta^2 \, eta rho^2 \, rho^3 \, xi^4) #scale(x: 300%, y: 300%)[\]] . $ The position of the extremum is obtained from $ frac(partial chevron.l v chevron.r, partial rho) = 0 . $ Differentiating the expanded velocity gives $ \( 1 + 2 xi^2 \) rho_min + eta [frac(alpha_0 \( 1 - alpha_0^2 \), 2 \( 1 + alpha_0^2 \)) + frac(5 + 5 alpha_0^2 - 2 alpha_0^4, 4 alpha_0 \( 1 + alpha_0^2 \)) xi^2] = 0 . $ which gives $ rho_min = - eta frac(frac(alpha_0 \( 1 - alpha_0^2 \), 2 \( 1 + alpha_0^2 \)) + frac(5 + 5 alpha_0^2 - 2 alpha_0^4, 4 alpha_0 \( 1 + alpha_0^2 \)) xi^2, 1 + 2 xi^2) . $ Since the numerator and denominator have been calculated only up to second order in $xi$, their ratio must be consistently re-expanded to the same order. This yields $ rho_min - eta [frac(alpha_0 \( 1 - alpha_0^2 \), 2 \( 1 + alpha_0^2 \)) + frac(5 + alpha_0^2 + 2 alpha_0^4, 4 alpha_0 \( 1 + alpha_0^2 \)) xi^2] + cal(O) (eta^2 \, eta xi^4) . $ Finally, using $ rho = frac(pi X, 2 H_z) \, #h(2em) xi = frac(alpha_0 H_K^(D W), 2 H_z) \, $ the displacement of the minimum from the DMI compensation field is $ \( H_x^star.op \)_(f l o w) & = - H_(upright(D M I)) + frac(alpha_0 H_z, pi) frac(eta, 1 + alpha_0^2) [1 - alpha_0^2 + frac(5 + alpha_0^2 + 2 alpha_0^4, 8) (H_K^(D W) / H_z)^2] + cal(O) . $ For $alpha_0 lt.double 1$, this simplifies to the expressions used in the main text (Eq.~(17)) $ \( H_x^star.op \)_(f l o w) tilde.eq - H_(upright(D M I)) + frac(eta alpha_0 H_z, pi) [1 + 5 / 8 (H_K^(D W) / H_z)^2] . $<eq:min_shift_flow> In Fig. #ref(<fig:2_1>, supplement: none) we report both the minimum obtained numerically from Eq.(#ref(<eq:prec_vel>, supplement: none)) and the analytical estimate of Eq.(#ref(<eq:min_shift_flow>, supplement: none)).
 
-#figure(image("source/Plots/flow_shifts_2.pdf", width: 100.0%),
+#figure(image("source/Plots/flow_shifts_2.svg", width: 100.0%),
   caption: [
     Difference between the minimum of the domain-wall velocity in the flow regime and the DMI effective field $mu_0 delta H_x^(upright(m i n)) = mu_0 \[ \( H_x^star.op \)_(f l o w) + H_(upright(D M I)) \]$ as computed via the full numerical minimum of Eq.~(#ref(<eq:prec_vel>, supplement: none)) and the analytical estimate Eq.~(#ref(<eq:min_shift_flow>, supplement: none)). The magnetic parameters used in the calculation are from the $upright(P t \/ C o) \/ X$ series. We set Gilbert damping $alpha_0 = 0.05$ and $mu_0 H_z = 120$ mT for all samples. The selected $H_z$ field ensures correspondence with the precessional flow regime in all samples. See Tab. #ref(<tab:Aex>, supplement: none) for the depinning field analysis of the $upright(P t \/ C o) \/ X$ series)
   ]
@@ -290,14 +292,14 @@ The complete three-amplitude fits for all investigated samples are shown in Fig.
 
 A useful check for the model validity is provided by comparing the DMI values discrepancy and the predicted shift of Eq.(11) in the main text. As can be seen in Fig. #ref(<fig:dmi_discrepancy_dual_axis>, supplement: none), there is a clear correlation between the discrepancy of the DMI values $\| Delta D \|$ (see Table. #ref(<tab:DMI_comparison>, supplement: none)) and the factor $nu_2 \/ \( 2 nu_1 H_K^(D W) \)$ which quantifies the displacement of the DMI field from the velocity curve minimum.
 
-#figure(image("source/Plots/full_fits.pdf", width: 90.0%),
+#figure(image("source/Plots/full_fits.svg", width: 90.0%),
   caption: [
     Complete sample series fits with the three amplitude model of Eqs.~(6-7) performed on the normalized velocity $ln \( v \( H_x \) \/ v \( 0 \) \)$. Panels i)-v) show the fits for samples a1-a5 while panel vi) shows the fit of sample a6. The red line represent the full fitted curve, while the blue and orange dashed lines represent the symmetric and antisymmetric components respectively. The vertical dashed line represents the fitted $mu_0 H_(D M I)^(upright(n e w))$ field reported in Table. #ref(<tab:three_amplitude_parameters>, supplement: none). The shaded region displays the mixed Bloch-Néel transition region.
   ]
 )
 <fig:full_fits>
 
-#figure(image("source/Plots/dmi_discrepancy_dual_axis.pdf", width: 70.0%),
+#figure(image("source/Plots/dmi_discrepancy_dual_axis.svg", width: 70.0%),
   caption: [
     Comparison of the DMI discrepancy between BLS and conventional creep-regime measurements (left axis) with the fitted shift scale $nu_2 \/ \( 2 nu_1 H_K^(upright(D W)) \)$ (right axis). Here, $H_K^(upright(D W))$ denotes the crossover field between mixed Bloch--Néel and saturated Néel domain-wall configurations. Error bars represent propagated uncertainties; lines are guides to the eye.
   ]

@@ -1,4 +1,4 @@
-#import "@preview/cetz:0.4.2": canvas, draw
+#import "@preview/cetz:0.5.3": canvas, draw
 
 // Series and error-bar endpoints traced from the vector paths of original Figure 1.
 // Coordinates are PDF positions, in points, with the origin at the upper left.
