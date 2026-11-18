@@ -135,3 +135,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [磁隧道结脉冲神经元的模拟电路学习](https://arxiv.org/abs/2512.03966v1) | [正文](papers/2512.03966/main.typ) | [短评](papers/2512.03966/summary.md) · [详评](papers/2512.03966/summary.typ) | — |
 | [理想磁导体椭圆柱的偏振散射](https://arxiv.org/abs/2512.05384v1) | [正文](papers/2512.05384/main.typ) · [CC BY-NC-SA 4.0](papers/2512.05384/LICENSE-NOTICE.md) | [短评](papers/2512.05384/summary.md) · [详评](papers/2512.05384/summary.typ) | — |
 | [用金刚石磁力计读取零场核磁共振谱](https://arxiv.org/abs/2512.05776v1) | [正文](papers/2512.05776/main.typ) | [短评](papers/2512.05776/summary.md) · [详评](papers/2512.05776/summary.typ) | — |
+| [简单剪切中扁球形颗粒的取向漂移](https://arxiv.org/abs/2512.06822v1) | [正文](papers/2512.06822/main.typ) | [短评](papers/2512.06822/summary.md) · [详评](papers/2512.06822/summary.typ) | — |
