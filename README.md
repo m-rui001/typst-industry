@@ -122,3 +122,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [长腔布里渊激光器的多模噪声](https://arxiv.org/abs/2512.09855v1) | [正文与附录](papers/2512.09855/main.typ) | [短评](papers/2512.09855/summary.md) · [详评](papers/2512.09855/summary.typ) | [起振功率阈值](papers/2512.09855/thresholds.typ) |
 | [固态激光制冷的材料与测量](https://arxiv.org/abs/2512.10162v1) | [正文](papers/2512.10162/main.typ) | [短评](papers/2512.10162/summary.md) · [详评](papers/2512.10162/summary.typ) | [净制冷判据](papers/2512.10162/balance.typ) |
 | [移动伽马能谱的贝叶斯活度反演](https://arxiv.org/abs/2512.18769v1) | [正文](papers/2512.18769/main.typ) | [短评](papers/2512.18769/summary.md) · [详评](papers/2512.18769/summary.typ) | [反演流程](papers/2512.18769/workflow.typ) |
+| [65 nm CMOS 像素的辐照与定时](https://arxiv.org/abs/2512.13339v1) | [正文与附录](papers/2512.13339/main.typ) | [短评](papers/2512.13339/summary.md) · [详评](papers/2512.13339/summary.typ) | [时间分辨率](papers/2512.13339/timing.typ) |
