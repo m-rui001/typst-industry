@@ -13,7 +13,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 新增论文的中文详评使用 Typst（篇幅至多为原文的四分之一），短评使用 Markdown。
 
-研究稿正文的原图和参考文献可从表中对应的 arXiv v1 页面下载 TeX 源码包。把源码包解压到 `papers/<编号>/source/`，再从仓库根目录运行 `typst compile papers/<编号>/main.typ`。2512.13267 若只有 EPS 原图，可用 `epstopdf` 生成正文引用的 `*-eps-converted-to.pdf`。2601.00236 的图 10 和图 11 需将 `source/Fig10.pdf` 和 `source/Fig11.pdf` 的第一页栅格化，分别保存为 `original/fig10-flat.png` 和 `original/fig11-flat.png`。
+研究稿正文的原图和参考文献可从表中对应的 arXiv v1 页面下载 TeX 源码包。把源码包解压到 `papers/<编号>/source/`，再从仓库根目录运行 `typst compile papers/<编号>/main.typ`。2512.13267 若只有 EPS 原图，可用 `epstopdf` 生成正文引用的 `*-eps-converted-to.pdf`。2601.00236 的图 10 和图 11 需将 `source/Fig10.pdf` 和 `source/Fig11.pdf` 的第一页栅格化，分别保存为 `original/fig10-flat.png` 和 `original/fig11-flat.png`。 2512.01894 需用 `epstopdf` 将 `source/Figures/` 中的五张 EPS 原图转换为同目录下的同名 PDF，再编译正文。
 
 标注「按 PDF 重建」的正文保留原页尺寸、分页和图表位置。正文文字可以在 Typst 中编辑，按原页坐标排布。图形及少量无法可靠还原的字形随源码提供。运行 `typst compile --root papers papers/2511.13412/main.typ` 可从仓库根目录编译这类稿件。
 
@@ -99,3 +99,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [液氦温度下的外延 NbN 单光子探测器](https://arxiv.org/abs/2512.18063) | [正文](papers/2512.18063/main.typ) · [补充材料](papers/2512.18063/supplement.typ) | [短评](papers/2512.18063/summary.md) · [详评](papers/2512.18063/summary.typ) | [器件测量示意](papers/2512.18063/readout.typ) |
 | [高纯锗直拉生长中的杂质偏析](https://arxiv.org/abs/2511.20879v1) | [正文](papers/2511.20879/main.typ) | [短评](papers/2511.20879/summary.md) · [详评](papers/2511.20879/summary.typ) | [有效偏析系数](papers/2511.20879/segregation.typ) |
 | [纯镍的氢助沿晶开裂](https://arxiv.org/abs/2512.02979v1) | [正文](papers/2512.02979/main.typ) | [短评](papers/2512.02979/summary.md) · [详评](papers/2512.02979/summary.typ) | [裂纹分类示意](papers/2512.02979/crack-classification.typ) |
+| [NV 色心的声光扫描磁场成像](https://arxiv.org/abs/2512.01894v1) | [正文](papers/2512.01894/main.typ) | [短评](papers/2512.01894/summary.md) · [详评](papers/2512.01894/summary.typ) | [扫描时序](papers/2512.01894/scan-timing.typ) |
