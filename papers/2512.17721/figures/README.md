@@ -1,0 +1,1 @@
+Figures 1 and 3–9 are by David Kolenatý et al. and were converted from the vector figures distributed with [arXiv:2512.17721v1](https://arxiv.org/abs/2512.17721v1) to SVG. They are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
