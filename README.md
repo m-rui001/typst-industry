@@ -92,3 +92,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [铁电极化与垂直 NAND](https://arxiv.org/abs/2512.15988v1) | [正文](papers/2512.15988/main.typ) | [短评](papers/2512.15988/summary.md) · [详评 Typst](papers/2512.15988/summary.typ) | [栅侧注入机制](papers/2512.15988/gate-feedback.typ) |
 | [用狭颈波导调节自旋波相位](https://arxiv.org/abs/2512.16612v1) | [正文](papers/2512.16612/main.typ) · [补充材料](papers/2512.16612/supplement.typ) | [短评](papers/2512.16612/summary.md) · [详评 Typst](papers/2512.16612/summary.typ) | [狭颈波导示意](papers/2512.16612/constriction.typ) |
 | [准连续谱束缚态与窄带吸声](https://arxiv.org/abs/2512.16672v1) | [正文](papers/2512.16672/main.typ) | [短评](papers/2512.16672/summary.md) · [详评 Typst](papers/2512.16672/summary.typ) | [双端口示意](papers/2512.16672/two-port.typ) |
+| [非局域超表面抑制诺顿波](https://arxiv.org/abs/2512.17361v1) | [正文](papers/2512.17361/main.typ) · [补图](papers/2512.17361/supplement.typ) | [短评](papers/2512.17361/summary.md) · [详评](papers/2512.17361/summary.typ) | [衰减示意](papers/2512.17361/decay.typ) |
