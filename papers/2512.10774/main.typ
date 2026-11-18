@@ -647,11 +647,11 @@
   #line-at(249.36pt, 29.716pt, "1")
   #line-at(254.803pt, 29.716pt, "of")
   #line-at(262.457pt, 29.716pt, "10.")
-  #set text(font: "MinionPro-Regular", size: 7pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "Libertinus Serif", size: 7pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(270.689pt, 29.716pt, " 2016     ")
   #set text(font: "Times New Roman", size: 7pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(293.663pt, 29.716pt, "doi:10.1017/S1759078716001197")
-  #set text(font: "NotoSans", size: 6pt, weight: "regular", style: "normal", fill: rgb("#0172cf"))
+  #set text(font: "Arial", size: 6pt, weight: "regular", style: "normal", fill: rgb("#0172cf"))
   #line-at(17.16pt, 777.851pt, "http://dx.doi.org/10.1017/S1759078716001197")
   #line-at(536.682pt, 769.926pt, "r")
 ]
