@@ -209,3 +209,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [铌酸锂径向模 Rosen 压电变压器](https://arxiv.org/abs/2511.17431v1) | [正文](papers/2511.17431/main.typ)（按 PDF 重建） | [短评](papers/2511.17431/summary.md) · [详评](papers/2511.17431/summary.typ) | — |
 | [碳化硅单硅空位的光电离电流光谱](https://arxiv.org/abs/2511.22449v1) | [正文](papers/2511.22449/main.typ)（按 PDF 重建） | [短评](papers/2511.22449/summary.md) · [详评](papers/2511.22449/summary.typ) | — |
 | [纳米磁振子神经元的非线性自旋波散射](https://arxiv.org/abs/2512.00199v1) | [正文](papers/2512.00199/main.typ)（按 PDF 重建） | [短评](papers/2512.00199/summary.md) · [详评](papers/2512.00199/summary.typ) | — |
+| [无线能量传输的双频 Class-F 微波整流器](https://arxiv.org/abs/2512.00965v1) | [正文](papers/2512.00965/main.typ)（按 PDF 重建） | [短评](papers/2512.00965/summary.md) · [详评](papers/2512.00965/summary.typ) | — |
