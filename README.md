@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [液相电镜下纳米受限液晶的相变](https://arxiv.org/abs/2512.23588v1) | [`main.typ`](papers/2512.23588/main.typ)（按 PDF 重建） | [详评](papers/2512.23588/summary.typ) · [短评](papers/2512.23588/summary.md) | [原图](papers/2512.23588/graphics) |
 | [蓝宝石上溅射制备氧化镓伪衬底](https://arxiv.org/abs/2512.09294v1) | [`main.typ`](papers/2512.09294/main.typ)（按 PDF 重建） | [详评](papers/2512.09294/summary.typ) · [短评](papers/2512.09294/summary.md) | [原图](papers/2512.09294/graphics) |
 | [室内照明下钙钛矿光伏的带隙选择](https://arxiv.org/abs/2512.17479v1) | [`main.typ`](papers/2512.17479/main.typ)（按 PDF 重建） | [详评](papers/2512.17479/summary.typ) · [短评](papers/2512.17479/summary.md) | [原图](papers/2512.17479/graphics) |
 | [等离子体调控氧化镍缺陷与析氧活化](https://arxiv.org/abs/2512.12712v1) | [`main.typ`](papers/2512.12712/main.typ)（按 PDF 重建） | [详评](papers/2512.12712/summary.typ) · [短评](papers/2512.12712/summary.md) | [原图](papers/2512.12712/graphics) |
