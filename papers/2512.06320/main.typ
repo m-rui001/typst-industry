@@ -551,7 +551,7 @@
   #line-at(85.104pt, 663.7pt, "and ")
   #set text(font: "Cambria Math", size: 12pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(104.78pt, 663.7pt, "⟨")
-  #set text(font: "MS-Gothic", size: 12pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "MS Gothic", size: 12pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(109.1pt, 663.7pt, "⋅")
   #set text(font: "Cambria Math", size: 12pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(115.1pt, 663.7pt, "⟩")
