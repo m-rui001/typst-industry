@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用强化学习设计亥姆霍兹吸声器](https://arxiv.org/abs/2611.15422v1) | [`main.typ`](papers/2611.15422/main.typ)（按 PDF 重建） | [详评](papers/2611.15422/summary.typ) · [短评](papers/2611.15422/summary.md) | [图形](papers/2611.15422/graphics) |
 | [跨实验室电池表征怎样对齐样品、数据和结论](https://arxiv.org/abs/2602.09771v1) | [`main.typ`](papers/2602.09771/main.typ)（按 PDF 重建） | [详评](papers/2602.09771/summary.typ) · [短评](papers/2602.09771/summary.md) | [图形](papers/2602.09771/graphics) |
 | [用偏振光塑造偶氮聚合物胶体的表面](https://arxiv.org/abs/2603.29310v1) | [`main.typ`](papers/2603.29310/main.typ)（按 PDF 重建） | [详评](papers/2603.29310/summary.typ) · [短评](papers/2603.29310/summary.md) | [图形](papers/2603.29310/graphics) |
 | [用超声减摩在机器人接触面切换抓地与滑移](https://arxiv.org/abs/2602.15608v1) | [`main.typ`](papers/2602.15608/main.typ)（按 PDF 重建） | [详评](papers/2602.15608/summary.typ) · [短评](papers/2602.15608/summary.md) | [图形](papers/2602.15608/graphics) |
