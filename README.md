@@ -97,3 +97,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [离子液体羽流撞击薄膜](https://arxiv.org/abs/2512.17122v1) | [正文](papers/2512.17122/main.typ) | [短评](papers/2512.17122/summary.md) · [详评](papers/2512.17122/summary.typ) | [薄膜撞击示意](papers/2512.17122/impact.typ) |
 | [外差干涉仪的高频噪声耦合](https://arxiv.org/abs/2512.17802v1) | [正文](papers/2512.17802/main.typ) | [短评](papers/2512.17802/summary.md) · [详评](papers/2512.17802/summary.typ) | [噪声耦合示意](papers/2512.17802/noise-path.typ) |
 | [液氦温度下的外延 NbN 单光子探测器](https://arxiv.org/abs/2512.18063) | [正文](papers/2512.18063/main.typ) · [补充材料](papers/2512.18063/supplement.typ) | [短评](papers/2512.18063/summary.md) · [详评](papers/2512.18063/summary.typ) | [器件测量示意](papers/2512.18063/readout.typ) |
+| [高纯锗直拉生长中的杂质偏析](https://arxiv.org/abs/2511.20879v1) | [正文](papers/2511.20879/main.typ) | [短评](papers/2511.20879/summary.md) · [详评](papers/2511.20879/summary.typ) | [有效偏析系数](papers/2511.20879/segregation.typ) |
