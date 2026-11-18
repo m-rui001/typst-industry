@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [等离子体调控氧化镍缺陷与析氧活化](https://arxiv.org/abs/2512.12712v1) | [`main.typ`](papers/2512.12712/main.typ)（按 PDF 重建） | [详评](papers/2512.12712/summary.typ) · [短评](papers/2512.12712/summary.md) | [原图](papers/2512.12712/graphics) |
 | [溶胶–凝胶制备 NiO/ZnO 储能薄膜](https://arxiv.org/abs/2601.01479v1) | [`main.typ`](papers/2601.01479/main.typ)（按 PDF 重建） | [详评](papers/2601.01479/summary.typ) · [短评](papers/2601.01479/summary.md) | [原图](papers/2601.01479/graphics) |
 | [锂离子电池单颗粒模型的物理约束代理](https://arxiv.org/abs/2601.01466v1) | [`main.typ`](papers/2601.01466/main.typ)（按 PDF 重建） | [详评](papers/2601.01466/summary.typ) · [短评](papers/2601.01466/summary.md) | [原图](papers/2601.01466/graphics) |
 | [兼顾隔热与热电转换的碳凝胶](https://arxiv.org/abs/2601.00016v1) | [`main.typ`](papers/2601.00016/main.typ)（按 PDF 重建） | [详评](papers/2601.00016/summary.typ) · [短评](papers/2601.00016/summary.md) | [原图](papers/2601.00016/graphics) |
