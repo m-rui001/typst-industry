@@ -1576,7 +1576,7 @@
   #line-at(67.96pt, 82.08pt, "S. Bonetti, R. Kukreja, Z. Chen, D. Spoddig, K. Ollefs, C. ")
   #line-at(67.96pt, 92.16pt, "Schöppner, R. Meckenstock, A. Ney, J. Pinto, R. Houanche, ")
   #line-at(67.96pt, 101.76pt, "J. Frisch, J. St ")
-  #set text(font: "MS-PGothic", size: 7.92pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "MS PGothic", size: 7.92pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(126.794pt, 101.76pt, "̈")
   #set text(font: "Century", size: 7.92pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(130.465pt, 101.76pt, "ohr, H. A. Dürr, and H. Ohldag: Rev. Sci. ")
