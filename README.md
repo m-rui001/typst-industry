@@ -157,3 +157,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [模塑微流道的复制质量与工具磨损测量](https://arxiv.org/abs/2610.39046v1) | [正文](papers/2610.39046/main.typ) · [补充材料](papers/2610.39046/supplement.typ) | [短评](papers/2610.39046/summary.md) · [详评](papers/2610.39046/summary.typ) | — |
 | [热丝沉积金刚石薄膜的深度分辨导热率](https://arxiv.org/abs/2604.12522v1) | [正文](papers/2604.12522/main.typ) | [短评](papers/2604.12522/summary.md) · [详评](papers/2604.12522/summary.typ) | — |
 | [烧结工艺对二氧化钛陶瓷太赫兹介电性质的影响](https://arxiv.org/abs/2606.25930v1) | [正文](papers/2606.25930/main.typ) | [短评](papers/2606.25930/summary.md) · [详评](papers/2606.25930/summary.typ) | — |
+| [横向磁场中的磁性液滴颈缩与断裂](https://arxiv.org/abs/2512.19459v1) | [正文](papers/2512.19459/main.typ) | [短评](papers/2512.19459/summary.md) · [详评](papers/2512.19459/summary.typ) | — |
