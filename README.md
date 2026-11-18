@@ -167,3 +167,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [金属薄膜的维德曼–弗兰兹关系实验检验](https://arxiv.org/abs/2609.17990v1) | [正文](papers/2609.17990/main.typ) | [短评](papers/2609.17990/summary.md) · [详评](papers/2609.17990/summary.typ) | — |
 | [型材挤出口模优化的几何表示方法](https://arxiv.org/abs/2609.27602v1) | [正文](papers/2609.27602/main.typ) | [短评](papers/2609.27602/summary.md) · [详评](papers/2609.27602/summary.typ) | — |
 | [孔穴几何对成核池沸腾气泡动力学的影响](https://arxiv.org/abs/2408.14907v1) | [正文](papers/2408.14907/main.typ) | [短评](papers/2408.14907/summary.md) · [详评](papers/2408.14907/summary.typ) | — |
+| [液滴撞击加热柱与莱顿弗罗斯特动力学](https://arxiv.org/abs/2209.07784v1) | [正文](papers/2209.07784/main.typ) | [短评](papers/2209.07784/summary.md) · [详评](papers/2209.07784/summary.typ) | — |
