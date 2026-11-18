@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [单面热反射为何测不全三维热导率张量](https://arxiv.org/abs/2609.13536v1) | [`main.typ`](papers/2609.13536/main.typ)（按 PDF 重建） | [详评](papers/2609.13536/summary.typ) · [短评](papers/2609.13536/summary.md) | [图形](papers/2609.13536/graphics) |
 | [声表面波磁电传感器的相速度与群速度](https://arxiv.org/abs/2610.11421v1) | [`main.typ`](papers/2610.11421/main.typ)（按 PDF 重建） | [详评](papers/2610.11421/summary.typ) · [短评](papers/2610.11421/summary.md) | [图形](papers/2610.11421/graphics) |
 | [怎样测量便携原子磁力计的电子部件干扰](https://arxiv.org/abs/2609.07270v1) | [`main.typ`](papers/2609.07270/main.typ)（按 PDF 重建） | [详评](papers/2609.07270/summary.typ) · [短评](papers/2609.07270/summary.md) | [图形](papers/2609.07270/graphics) |
 | [用吸附模型解释二硫化钼气体传感器](https://arxiv.org/abs/2609.03108v1) | [`main.typ`](papers/2609.03108/main.typ)（按 PDF 重建） | [详评](papers/2609.03108/summary.typ) · [短评](papers/2609.03108/summary.md) | [图形](papers/2609.03108/graphics) |
