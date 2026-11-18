@@ -153,3 +153,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [曲面间蒸发液桥的传热、流动与黏附](https://arxiv.org/abs/2607.14322v1) | [正文](papers/2607.14322/main.typ)（按 PDF 重建） | [短评](papers/2607.14322/summary.md) · [详评](papers/2607.14322/summary.typ) | — |
 | [增材制造合金的 EBSD 晶粒尺寸测量](https://arxiv.org/abs/2605.28852v1) | [正文](papers/2605.28852/main.typ)（按 PDF 重建） | [短评](papers/2605.28852/summary.md) · [详评](papers/2605.28852/summary.typ) | — |
 | [偏振敏感的锗锡中红外薄膜探测器](https://arxiv.org/abs/2511.00771v1) | [正文与补充材料](papers/2511.00771/main.typ)（按 PDF 重建） | [短评](papers/2511.00771/summary.md) · [详评](papers/2511.00771/summary.typ) | — |
+| [用于光激发和 X 射线散射的透明微流控芯片](https://arxiv.org/abs/2511.11441v1) | [正文](papers/2511.11441/main.typ)（按 PDF 重建） | [短评](papers/2511.11441/summary.md) · [详评](papers/2511.11441/summary.typ) | — |
