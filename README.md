@@ -129,3 +129,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [薄膜中 Néel 斯格明子对的螺旋运动](https://arxiv.org/abs/2512.21939v1) | [正文](papers/2512.21939/main.typ) | [短评](papers/2512.21939/summary.md) · [详评](papers/2512.21939/summary.typ) | [快慢频率对比](papers/2512.21939/frequencies.typ) |
 | [条纹畴临界区的自旋波放大](https://arxiv.org/abs/2512.07713v1) | [正文](papers/2512.07713/main.typ) | [短评](papers/2512.07713/summary.md) · [详评](papers/2512.07713/summary.typ) | [低场平台时长与增益](papers/2512.07713/plateau-gain.typ) |
 | [三维鳍式铌酸锂声学谐振器](https://arxiv.org/abs/2601.18043v1) | [正文](papers/2601.18043/main.typ) | [短评](papers/2601.18043/summary.md) · [详评](papers/2601.18043/summary.typ) | [机电耦合对比](papers/2601.18043/coupling.typ) |
+| [非球形颗粒在竖管中的沉降与输运](https://arxiv.org/abs/2601.19804v1) | [正文](papers/2601.19804/main.typ) | [短评](papers/2601.19804/summary.md) · [详评](papers/2601.19804/summary.typ) | [管壁约束与曳力波动](papers/2601.19804/confinement.typ) |
