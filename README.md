@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [亚带隙反射层能为光伏组件多发多少电](https://arxiv.org/abs/2604.20757v1) | [`main.typ`](papers/2604.20757/main.typ)（按 PDF 重建） | [详评](papers/2604.20757/summary.typ) · [短评](papers/2604.20757/summary.md) | [图形](papers/2604.20757/graphics) |
 | [晶硅光伏激光接触优化的工艺窗口](https://arxiv.org/abs/2603.23351v1) | [`main.typ`](papers/2603.23351/main.typ)（按 PDF 重建） | [详评](papers/2603.23351/summary.typ) · [短评](papers/2603.23351/summary.md) | [图形](papers/2603.23351/graphics) |
 | [钽酸锂薄膜上的稳定双向微波–光转换](https://arxiv.org/abs/2606.12726v1) | [`main.typ`](papers/2606.12726/main.typ)（按 PDF 重建） | [详评](papers/2606.12726/summary.typ) · [短评](papers/2606.12726/summary.md) | [图形](papers/2606.12726/graphics) |
 | [钽酸锂薄膜发射器怎样复用八个波长](https://arxiv.org/abs/2610.26674v1) | [`main.typ`](papers/2610.26674/main.typ)（按 PDF 重建） | [详评](papers/2610.26674/summary.typ) · [短评](papers/2610.26674/summary.md) | [图形](papers/2610.26674/graphics) |
