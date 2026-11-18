@@ -196,3 +196,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [相邻二元液滴与细液流的蒸发和内部流动](https://arxiv.org/abs/2508.08820v1) | [正文](papers/2508.08820/main.typ) | [短评](papers/2508.08820/summary.md) · [详评](papers/2508.08820/summary.typ) | — |
 | [干燥多孔介质自发吸液的孔尺度模拟](https://arxiv.org/abs/2408.02831v1) | [正文](papers/2408.02831/main.typ) | [短评](papers/2408.02831/summary.md) · [详评](papers/2408.02831/summary.typ) | — |
 | [稠密流体导热率的热力学框架](https://arxiv.org/abs/2511.23197v1) | [正文](papers/2511.23197/main.typ) | [短评](papers/2511.23197/summary.md) · [详评](papers/2511.23197/summary.typ) | — |
+| [六方氮化硼中锯齿形石墨烯纳米带的边缘磁性](https://arxiv.org/abs/2511.13075v1) | [正文与补充材料](papers/2511.13075/main.typ)（按 PDF 重建） | [短评](papers/2511.13075/summary.md) · [详评](papers/2511.13075/summary.typ) | — |
