@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [颗粒接触和堆叠压力怎样改变电池开路电压](https://arxiv.org/abs/2609.02968v1) | [`main.typ`](papers/2609.02968/main.typ)（按 PDF 重建） | [详评](papers/2609.02968/summary.typ) · [短评](papers/2609.02968/summary.md) | [图形](papers/2609.02968/graphics) |
 | [用电场极化制备 200 nm 周期的铌酸锂畴](https://arxiv.org/abs/2611.05009v1) | [`main.typ`](papers/2611.05009/main.typ)（按 PDF 重建） | [详评](papers/2611.05009/summary.typ) · [短评](papers/2611.05009/summary.md) | [图形](papers/2611.05009/graphics) |
 | [用代理模型加速锂离子电池参数反演](https://arxiv.org/abs/2609.10341v1) | [`main.typ`](papers/2609.10341/main.typ)（按 PDF 重建） | [详评](papers/2609.10341/summary.typ) · [短评](papers/2609.10341/summary.md) | [图形](papers/2609.10341/graphics) |
 | [三种热电模块效率测法为何给出不同结果](https://arxiv.org/abs/2605.11440v1) | [`main.typ`](papers/2605.11440/main.typ)（按 PDF 重建） | [详评](papers/2605.11440/summary.typ) · [短评](papers/2605.11440/summary.md) | [图形](papers/2605.11440/graphics) |
