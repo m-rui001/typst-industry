@@ -43,7 +43,7 @@
   #line-at(72pt, 249.36pt, "Electronic Science and Technology of China, Chengdu 610054, China ")
   #line-at(72pt, 266.64pt, "4. Beijing Research Institute of Telemetry,100076, Beijing, China ")
   #line-at(72pt, 298.08pt, "Corresponding author")
-  #set text(font: "DengXian-Regular", size: 10.08pt, weight: "regular", style: "normal", fill: rgb("#000000"))
+  #set text(font: "DengXian", size: 10.08pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(159.485pt, 298.08pt, "：")
   #set text(font: "Times New Roman", size: 10.08pt, weight: "regular", style: "normal", fill: rgb("#0563c1"))
   #line-at(169.485pt, 298.08pt, "ouyangty@foxmail.com")
