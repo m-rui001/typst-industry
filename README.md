@@ -179,3 +179,4 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [反渗透淡化中的流动、传质与膜结垢建模](https://arxiv.org/abs/2301.13160v1) | [正文](papers/2301.13160/main.typ) | [短评](papers/2301.13160/summary.md) · [详评](papers/2301.13160/summary.typ) | — |
 | [膨胀石墨与聚醚酰亚胺复合材料的导热增强](https://arxiv.org/abs/2203.06828v1) | [正文](papers/2203.06828/main.typ) | [短评](papers/2203.06828/summary.md) · [详评](papers/2203.06828/summary.typ) | — |
 | [金属泡沫的孔结构与非傅里叶传热](https://arxiv.org/abs/2508.15340v1) | [正文](papers/2508.15340/main.typ) | [短评](papers/2508.15340/summary.md) · [详评](papers/2508.15340/summary.typ) | — |
+| [增材制造空气换热器的高阶谐波曲面优化](https://arxiv.org/abs/2602.17824v1) | [正文](papers/2602.17824/main.typ) | [短评](papers/2602.17824/summary.md) · [详评](papers/2602.17824/summary.typ) | — |
