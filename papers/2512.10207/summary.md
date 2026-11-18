@@ -2,4 +2,4 @@
 
 Yanagihara 等用 Darcy–Forchheimer 宏观流动模型优化平面 U 形换热器的 Primitive 晶格。通过改变局部等值面阈值，他们重新分配了冷热流道的空间。316L 不锈钢样件经激光粉末床熔融制成。在冷热侧等流量的实验比较中，优化晶格的换热率较均匀晶格平均提高 28.7%。部分窄喉道的实测压降受制造偏差影响。
 
-[中文详评](summary-long.md) · [英文全文](main.typ) · [原论文](https://arxiv.org/abs/2512.10207v1)
+[中文详评](summary.typ) · [英文全文](main.typ) · [原论文](https://arxiv.org/abs/2512.10207v1)

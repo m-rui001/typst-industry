@@ -11,7 +11,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 ## 论文与 Typst 源码
 
-新增论文的中文详评使用 Typst（篇幅至多为原文的四分之一），短评使用 Markdown。
+中文详评使用 Typst（`summary.typ`），按小论文组织，篇幅控制在原文的四分之一以内。短评使用 Markdown（`summary.md`）。
 
 研究稿正文的原图和参考文献可从表中对应的 arXiv v1 页面下载 TeX 源码包。把源码包解压到 `papers/<编号>/source/`，再从仓库根目录运行 `typst compile papers/<编号>/main.typ`。2512.13267 若只有 EPS 原图，可用 `epstopdf` 生成正文引用的 `*-eps-converted-to.pdf`。2601.00236 的图 10 和图 11 需将 `source/Fig10.pdf` 和 `source/Fig11.pdf` 的第一页栅格化，分别保存为 `original/fig10-flat.png` 和 `original/fig11-flat.png`。 2512.01894 需用 `epstopdf` 将 `source/Figures/` 中的五张 EPS 原图转换为同目录下的同名 PDF，再编译正文。 2512.00066 需将 `source/xi.eps` 和 `source/w.eps` 转成同目录下的同名 PDF，并把 `source/The.bib` 从 Windows-1251 转码为 UTF-8，另存为 `source/The-utf8.bib`。 2512.11497 需把 source/F1.eps 和 source/F2.eps 转成同目录下的同名 PDF。 2512.13435 需将 source/figures/unicorn_fab_figure_v3.pdf 的第一页栅格化为同目录的同名 PNG，以固定原图的可选图层。
 
@@ -182,17 +182,17 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 | [增材制造空气换热器的高阶谐波曲面优化](https://arxiv.org/abs/2602.17824v1) | [正文](papers/2602.17824/main.typ) | [短评](papers/2602.17824/summary.md) · [详评](papers/2602.17824/summary.typ) | — |
 | [多翅片布置下相变材料的传热与熔化](https://arxiv.org/abs/2605.08120v1) | [正文](papers/2605.08120/main.typ) | [短评](papers/2605.08120/summary.md) · [详评](papers/2605.08120/summary.typ) | — |
 | [机器学习筛选无机晶体的温度诱导固–固相变](https://arxiv.org/abs/2506.01449v1) | [正文](papers/2506.01449/main.typ) | [短评](papers/2506.01449/summary.md) · [详评](papers/2506.01449/summary.typ) | — |
-| [增材制造紧凑板式换热器的尺寸优化与选材](https://arxiv.org/abs/2504.03372v1) | [正文](papers/2504.03372/main.typ) | [短评](papers/2504.03372/summary.md) · [详评](papers/2504.03372/summary-long.md) | — |
-| [用无序分形表面优化油水分离](https://arxiv.org/abs/2502.02526v1) | [正文](papers/2502.02526/main.typ) | [短评](papers/2502.02526/summary.md) · [详评](papers/2502.02526/summary-long.md) | — |
-| [水合二氧化硅纳米孔中的二氧化碳吸附](https://arxiv.org/abs/2502.07251v1) | [正文](papers/2502.07251/main.typ) | [短评](papers/2502.07251/summary.md) · [详评](papers/2502.07251/summary-long.md) | — |
-| [增材制造变截面 TPMS 晶格换热器的流道优化](https://arxiv.org/abs/2512.10207v1) | [正文](papers/2512.10207/main.typ) | [短评](papers/2512.10207/summary.md) · [详评](papers/2512.10207/summary-long.md) | — |
-| [Lennard–Jones 流体导热率的振动模型](https://arxiv.org/abs/2402.03020v1) | [正文](papers/2402.03020/main.typ) | [短评](papers/2402.03020/summary.md) · [详评](papers/2402.03020/summary-long.md) | — |
-| [激光粉末床熔融的跨材料工艺与性能预测](https://arxiv.org/abs/2503.16667v1) | [正文](papers/2503.16667/main.typ) | [短评](papers/2503.16667/summary.md) · [详评](papers/2503.16667/summary-long.md) | — |
-| [考虑动态电价的批量制造模型预测排程](https://arxiv.org/abs/2506.22923v1) | [正文](papers/2506.22923/main.typ) | [短评](papers/2506.22923/summary.md) · [详评](papers/2506.22923/summary-long.md) | — |
-| [多孔介质中的间歇输运与胶体过滤](https://arxiv.org/abs/2505.02689v1) | [正文及补充材料](papers/2505.02689/main.typ) | [短评](papers/2505.02689/summary.md) · [详评](papers/2505.02689/summary-long.md) | — |
-| [水泥厂参与电力市场的鲁棒用电排程](https://arxiv.org/abs/2506.10824v1) | [正文](papers/2506.10824/main.typ) | [短评](papers/2506.10824/summary.md) · [详评](papers/2506.10824/summary-long.md) | — |
-| [海水淡化厂的水电联合调度](https://arxiv.org/abs/2509.19243v1) | [正文](papers/2509.19243/main.typ) | [短评](papers/2509.19243/summary.md) · [详评](papers/2509.19243/summary-long.md) | — |
-| [金刚烷胺改性 PVDF 膜的膜蒸馏性能](https://arxiv.org/abs/2503.15930v1) | [正文](papers/2503.15930/main.typ) | [短评](papers/2503.15930/summary.md) · [详评](papers/2503.15930/summary-long.md) | — |
-| [相邻二元液滴与细液流的蒸发和内部流动](https://arxiv.org/abs/2508.08820v1) | [正文](papers/2508.08820/main.typ) | [短评](papers/2508.08820/summary.md) · [详评](papers/2508.08820/summary-long.md) | — |
-| [干燥多孔介质自发吸液的孔尺度模拟](https://arxiv.org/abs/2408.02831v1) | [正文](papers/2408.02831/main.typ) | [短评](papers/2408.02831/summary.md) · [详评](papers/2408.02831/summary-long.md) | — |
-| [稠密流体导热率的热力学框架](https://arxiv.org/abs/2511.23197v1) | [正文](papers/2511.23197/main.typ) | [短评](papers/2511.23197/summary.md) · [详评](papers/2511.23197/summary-long.md) | — |
+| [增材制造紧凑板式换热器的尺寸优化与选材](https://arxiv.org/abs/2504.03372v1) | [正文](papers/2504.03372/main.typ) | [短评](papers/2504.03372/summary.md) · [详评](papers/2504.03372/summary.typ) | — |
+| [用无序分形表面优化油水分离](https://arxiv.org/abs/2502.02526v1) | [正文](papers/2502.02526/main.typ) | [短评](papers/2502.02526/summary.md) · [详评](papers/2502.02526/summary.typ) | — |
+| [水合二氧化硅纳米孔中的二氧化碳吸附](https://arxiv.org/abs/2502.07251v1) | [正文](papers/2502.07251/main.typ) | [短评](papers/2502.07251/summary.md) · [详评](papers/2502.07251/summary.typ) | — |
+| [增材制造变截面 TPMS 晶格换热器的流道优化](https://arxiv.org/abs/2512.10207v1) | [正文](papers/2512.10207/main.typ) | [短评](papers/2512.10207/summary.md) · [详评](papers/2512.10207/summary.typ) | — |
+| [Lennard–Jones 流体导热率的振动模型](https://arxiv.org/abs/2402.03020v1) | [正文](papers/2402.03020/main.typ) | [短评](papers/2402.03020/summary.md) · [详评](papers/2402.03020/summary.typ) | — |
+| [激光粉末床熔融的跨材料工艺与性能预测](https://arxiv.org/abs/2503.16667v1) | [正文](papers/2503.16667/main.typ) | [短评](papers/2503.16667/summary.md) · [详评](papers/2503.16667/summary.typ) | — |
+| [考虑动态电价的批量制造模型预测排程](https://arxiv.org/abs/2506.22923v1) | [正文](papers/2506.22923/main.typ) | [短评](papers/2506.22923/summary.md) · [详评](papers/2506.22923/summary.typ) | — |
+| [多孔介质中的间歇输运与胶体过滤](https://arxiv.org/abs/2505.02689v1) | [正文及补充材料](papers/2505.02689/main.typ) | [短评](papers/2505.02689/summary.md) · [详评](papers/2505.02689/summary.typ) | — |
+| [水泥厂参与电力市场的鲁棒用电排程](https://arxiv.org/abs/2506.10824v1) | [正文](papers/2506.10824/main.typ) | [短评](papers/2506.10824/summary.md) · [详评](papers/2506.10824/summary.typ) | — |
+| [海水淡化厂的水电联合调度](https://arxiv.org/abs/2509.19243v1) | [正文](papers/2509.19243/main.typ) | [短评](papers/2509.19243/summary.md) · [详评](papers/2509.19243/summary.typ) | — |
+| [金刚烷胺改性 PVDF 膜的膜蒸馏性能](https://arxiv.org/abs/2503.15930v1) | [正文](papers/2503.15930/main.typ) | [短评](papers/2503.15930/summary.md) · [详评](papers/2503.15930/summary.typ) | — |
+| [相邻二元液滴与细液流的蒸发和内部流动](https://arxiv.org/abs/2508.08820v1) | [正文](papers/2508.08820/main.typ) | [短评](papers/2508.08820/summary.md) · [详评](papers/2508.08820/summary.typ) | — |
+| [干燥多孔介质自发吸液的孔尺度模拟](https://arxiv.org/abs/2408.02831v1) | [正文](papers/2408.02831/main.typ) | [短评](papers/2408.02831/summary.md) · [详评](papers/2408.02831/summary.typ) | — |
+| [稠密流体导热率的热力学框架](https://arxiv.org/abs/2511.23197v1) | [正文](papers/2511.23197/main.typ) | [短评](papers/2511.23197/summary.md) · [详评](papers/2511.23197/summary.typ) | — |
