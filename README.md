@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用线性电感耦合器改善约瑟夫森放大器的动态范围](https://arxiv.org/abs/2611.23188v1) | [`main.typ`](papers/2611.23188/main.typ)（按 PDF 重建） | [详评](papers/2611.23188/summary.typ) · [短评](papers/2611.23188/summary.md) | [图形](papers/2611.23188/graphics) |
 | [从贴片单胞几何预测各向异性超表面色散](https://arxiv.org/abs/2611.20265v1) | [`main.typ`](papers/2611.20265/main.typ)（按 PDF 重建） | [详评](papers/2611.20265/summary.typ) · [短评](papers/2611.20265/summary.md) | [图形](papers/2611.20265/graphics) |
 | [用粗略场解和图网络提取超导电路电容](https://arxiv.org/abs/2611.22057v1) | [`main.typ`](papers/2611.22057/main.typ)（按 PDF 重建） | [详评](papers/2611.22057/summary.typ) · [短评](papers/2611.22057/summary.md) | [图形](papers/2611.22057/graphics) |
 | [用近邻屏蔽调节石墨烯光探测器的热载流子冷却](https://arxiv.org/abs/2605.23646v1) | [arXiv 原文](https://arxiv.org/abs/2605.23646v1)（CC BY-NC-ND 4.0） | [详评](papers/2605.23646/summary.typ) · [短评](papers/2605.23646/summary.md) | — |
