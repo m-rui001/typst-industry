@@ -4,9 +4,17 @@
 // The graphics assets contain the original non-text marks and encoded glyphs.
 #import "../pdf-layout.typ": original-page, line-at
 
-// The optional graphics directory is local. See LICENSE-NOTICE.md.
+// Graphics attribution and optional local assets are described in LICENSE-NOTICE.md.
+#let published-graphics = (
+  "page-01.png", "page-03.png", "page-04.png", "page-06.png",
+  "page-07.png", "page-08.png", "page-09.png", "page-13.png",
+  "page-18.png", "page-27.png", "page-28.png", "page-30.png",
+  "page-31.png", "page-32.png", "page-34.png", "page-37.png",
+  "page-39.png", "page-40.png",
+)
+
 #let page-graphics(file, width, x, y) = {
-  if sys.inputs.at("original-graphics", default: "false") == "true" {
+  if published-graphics.contains(file) or sys.inputs.at("original-graphics", default: "false") == "true" {
     (image("graphics/" + file, width: width), x, y)
   } else {
     none
