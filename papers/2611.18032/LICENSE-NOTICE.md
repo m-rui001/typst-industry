@@ -1,0 +1,1 @@
+*Symmetry-Engineered Moiré Metasurfaces for Multibeam Control* by Yu Chen, Lan Ke, Shaojie Ma, and Shuo Liu, [arXiv:2611.18032v1](https://arxiv.org/abs/2611.18032v1). The original and the Typst adaptation use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The conversion repositions PDF text and extracts the remaining page graphics.

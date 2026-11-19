@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用莫尔超表面控制多波束反射](https://arxiv.org/abs/2611.18032v1) | [`main.typ`](papers/2611.18032/main.typ)（按 PDF 重建） | [详评](papers/2611.18032/summary.typ) · [短评](papers/2611.18032/summary.md) | [图形](papers/2611.18032/graphics) |
 | [受控湍流如何影响太赫兹与红外共路传输](https://arxiv.org/abs/2611.18721v1) | [`main.typ`](papers/2611.18721/main.typ)（按 PDF 重建） | [详评](papers/2611.18721/summary.typ) · [短评](papers/2611.18721/summary.md) | [图形](papers/2611.18721/graphics) |
 | [用钙钛矿包覆调节光子分子的回音壁模式](https://arxiv.org/abs/2611.18426v1) | [`main.typ`](papers/2611.18426/main.typ)（按 PDF 重建） | [详评](papers/2611.18426/summary.typ) · [短评](papers/2611.18426/summary.md) | [图形](papers/2611.18426/graphics) |
 | [从铁电材料的弯曲响应提取二倍频电压](https://arxiv.org/abs/2611.22088v1) | [`main.typ`](papers/2611.22088/main.typ)（按 PDF 重建） | [详评](papers/2611.22088/summary.typ) · [短评](papers/2611.22088/summary.md) | [图形](papers/2611.22088/graphics) |
