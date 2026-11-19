@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [从铁电材料的弯曲响应提取二倍频电压](https://arxiv.org/abs/2611.22088v1) | [`main.typ`](papers/2611.22088/main.typ)（按 PDF 重建） | [详评](papers/2611.22088/summary.typ) · [短评](papers/2611.22088/summary.md) | [图形](papers/2611.22088/graphics) |
 | [用皮秒成像追踪黑磷的方向性扩散](https://arxiv.org/abs/2611.17731v1) | [`main.typ`](papers/2611.17731/main.typ)（按 PDF 重建） | [详评](papers/2611.17731/summary.typ) · [短评](papers/2611.17731/summary.md) | [图形](papers/2611.17731/graphics) |
 | [用代理模型提取低温 CMOS 晶体管参数](https://arxiv.org/abs/2611.21594v1) | [`main.typ`](papers/2611.21594/main.typ)（按 PDF 重建） | [详评](papers/2611.21594/summary.typ) · [短评](papers/2611.21594/summary.md) | [图形](papers/2611.21594/graphics) |
 | [低成本浸没式液冷台架的散热瓶颈](https://arxiv.org/abs/2611.17361v1) | [arXiv 原文](https://arxiv.org/abs/2611.17361v1)（CC BY-NC-ND 4.0） | [详评](papers/2611.17361/summary.typ) · [短评](papers/2611.17361/summary.md) | [台架文件与数据](https://doi.org/10.17605/OSF.IO/SWZV7) |
