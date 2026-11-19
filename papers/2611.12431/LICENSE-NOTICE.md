@@ -1,0 +1,1 @@
+*Mechanisms of Zener diode and ohmic contact resulting from a heavily doped p-n junction* by Jianming Li, [arXiv:2611.12431v1](https://arxiv.org/abs/2611.12431v1). The arXiv record identifies the source as [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). This adaptation repositions PDF text and extracts the remaining page graphics.
