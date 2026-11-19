@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用液体成形直接制造符合镜框轮廓的镜片](https://arxiv.org/abs/2603.27367v1) | [arXiv 原文](https://arxiv.org/abs/2603.27367v1)（CC BY-NC-ND 4.0） | [详评](papers/2603.27367/summary.typ) · [短评](papers/2603.27367/summary.md) | — |
 | [用方波热反射测量固液界面热导](https://arxiv.org/abs/2604.13741v1) | [`main.typ`](papers/2604.13741/main.typ)（按 PDF 重建） | [详评](papers/2604.13741/summary.typ) · [短评](papers/2604.13741/summary.md) | [图形](papers/2604.13741/graphics) |
 | [比较辐射自由能与太阳电池的转换上限](https://arxiv.org/abs/2604.14982v1) | [`main.typ`](papers/2604.14982/main.typ)（按 PDF 重建） | [详评](papers/2604.14982/summary.typ) · [短评](papers/2604.14982/summary.md) | [图形](papers/2604.14982/graphics) |
 | [用激光辅助处理改善硅太阳电池的铜接触](https://arxiv.org/abs/2603.20496v1) | [`main.typ`](papers/2603.20496/main.typ)（按 PDF 重建） | [详评](papers/2603.20496/summary.typ) · [短评](papers/2603.20496/summary.md) | [图形](papers/2603.20496/graphics) |
