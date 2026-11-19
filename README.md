@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用超均匀纳米孔增强钙钛矿电池的宽带吸收](https://arxiv.org/abs/2604.11264v1) | [arXiv 原文](https://arxiv.org/abs/2604.11264v1)（CC BY-NC-ND 4.0） | [详评](papers/2604.11264/summary.typ) · [短评](papers/2604.11264/summary.md) | — |
 | [二维材料太阳电池的载流子倍增和热载流子效率上限](https://arxiv.org/abs/2605.00451v1) | [`main.typ`](papers/2605.00451/main.typ)（按 PDF 重建） | [详评](papers/2605.00451/summary.typ) · [短评](papers/2605.00451/summary.md) | [图形](papers/2605.00451/graphics) |
 | [钙钛矿电池织构对成膜、输运和机械性能的影响](https://arxiv.org/abs/2605.30182v1) | [`main.typ`](papers/2605.30182/main.typ)（按 PDF 重建） | [详评](papers/2605.30182/summary.typ) · [短评](papers/2605.30182/summary.md) | [图形](papers/2605.30182/graphics) · [图 2–5 见原稿](https://arxiv.org/pdf/2605.30182v1) |
 | [用电容频谱预测钙钛矿太阳电池的迟滞](https://arxiv.org/abs/2611.12115v1) | [`main.typ`](papers/2611.12115/main.typ)（按 PDF 重建） | [详评](papers/2611.12115/summary.typ) · [短评](papers/2611.12115/summary.md) | [图形](papers/2611.12115/graphics) |
