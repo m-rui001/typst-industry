@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [诊断钙钛矿–硅叠层电池的填充因子损失](https://arxiv.org/abs/2604.24098v1) | [`main.typ`](papers/2604.24098/main.typ)（按 PDF 重建） | [详评](papers/2604.24098/summary.typ) · [短评](papers/2604.24098/summary.md) | [图形](papers/2604.24098/graphics) |
 | [石墨烯片取向与复合涂层的腐蚀启动](https://arxiv.org/abs/2602.13256v1) | [arXiv 原文](https://arxiv.org/abs/2602.13256v1)（CC BY-NC-ND 4.0） | [详评](papers/2602.13256/summary.typ) · [短评](papers/2602.13256/summary.md) | — |
 | [用保罗阱冷却高速离子束并测量光谱](https://arxiv.org/abs/2611.17367v1) | [`main.typ`](papers/2611.17367/main.typ)（按 PDF 重建，[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)） | [详评](papers/2611.17367/summary.typ) · [短评](papers/2611.17367/summary.md) | [图形](papers/2611.17367/graphics) |
 | [用块预条件器并行求解三维电极电池模型](https://arxiv.org/abs/2602.07225v1) | [arXiv 原文](https://arxiv.org/abs/2602.07225v1) | [详评](papers/2602.07225/summary.typ) · [短评](papers/2602.07225/summary.md) | — |
