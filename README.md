@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用多波长光声法分析薄膜中的多组分传质](https://arxiv.org/abs/2602.20902v1) | [`main.typ`](papers/2602.20902/main.typ)（按 PDF 重建，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)） | [详评](papers/2602.20902/summary.typ) · [短评](papers/2602.20902/summary.md) | [图形](papers/2602.20902/graphics) |
 | [用光声相位测量薄膜中的慢扩散](https://arxiv.org/abs/2604.05647v1) | [`main.typ`](papers/2604.05647/main.typ)（按 PDF 重建，[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)） | [详评](papers/2604.05647/summary.typ) · [短评](papers/2604.05647/summary.md) | [图形](papers/2604.05647/graphics) |
 | [用莫尔超表面控制多波束反射](https://arxiv.org/abs/2611.18032v1) | [`main.typ`](papers/2611.18032/main.typ)（按 PDF 重建） | [详评](papers/2611.18032/summary.typ) · [短评](papers/2611.18032/summary.md) | [图形](papers/2611.18032/graphics) |
 | [受控湍流如何影响太赫兹与红外共路传输](https://arxiv.org/abs/2611.18721v1) | [`main.typ`](papers/2611.18721/main.typ)（按 PDF 重建） | [详评](papers/2611.18721/summary.typ) · [短评](papers/2611.18721/summary.md) | [图形](papers/2611.18721/graphics) |
