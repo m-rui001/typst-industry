@@ -1,6 +1,6 @@
 // Guillermo Martínez-Denegri and Christiane Becker · arXiv:2605.30182v1
 // Source text: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
-// Repositions extracted text. See the original PDF for illustrations.
+// Repositions extracted text and graphics. See the source PDF for Figures 2–5.
 // Editable transcription of the arXiv PDF using its page coordinates.
 // The graphics assets contain the original non-text marks and encoded glyphs.
 #import "../pdf-layout.typ": original-page, line-at
@@ -685,7 +685,7 @@
 ]
 
 // arXiv source page 2
-#original-page(612pt, 792pt, none)[
+#original-page(612pt, 792pt, (image("graphics/page-02.png", width: 518.5pt), 42pt, 42pt))[
   #set text(font: "New Computer Modern", size: 9.963pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(36pt, 368.27pt, "Figure")
   #line-at(67.442pt, 368.27pt, "1:")
@@ -3880,7 +3880,7 @@
 ]
 
 // arXiv source page 9
-#original-page(612pt, 792pt, none)[
+#original-page(612pt, 792pt, (image("graphics/page-09.png", width: 520.5pt), 44pt, 177pt))[
   #set text(font: "New Computer Modern", size: 9.963pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(36pt, 139.712pt, "Table")
   #line-at(63.397pt, 139.712pt, "1:")
@@ -5499,7 +5499,7 @@
 ]
 
 // arXiv source page 12
-#original-page(612pt, 792pt, none)[
+#original-page(612pt, 792pt, (image("graphics/page-12.png", width: 79.5pt), 380pt, 266.5pt))[
   #set text(font: "New Computer Modern", size: 11.955pt, weight: "regular", style: "normal", fill: rgb("#000000"))
   #line-at(36pt, 45.963pt, "[32]")
   #line-at(59.205pt, 45.963pt, "D.")
@@ -6129,7 +6129,7 @@
 ]
 
 // arXiv source page 13
-#original-page(612pt, 792pt, none)[
+#original-page(612pt, 792pt, (image("graphics/page-13.png", width: 144.5pt), 38pt, 305.5pt))[
   #set text(font: "New Computer Modern", size: 9.963pt, weight: "bold", style: "normal", fill: rgb("#000000"))
   #line-at(36pt, 298.744pt, "Table")
   #line-at(67.203pt, 298.744pt, "of")
