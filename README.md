@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [用纳米 CT 观察锂离子电池热失控后的烟炱](https://arxiv.org/abs/2605.16313v1) | [arXiv 原文](https://arxiv.org/abs/2605.16313v1)（CC BY-NC-ND 4.0） | [详评](papers/2605.16313/summary.typ) · [短评](papers/2605.16313/summary.md) | — |
 | [微重力下光固化树脂的温升与起泡](https://arxiv.org/abs/2601.14897v1) | [`main.typ`](papers/2601.14897/main.typ)（按 PDF 重建，[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)） | [详评](papers/2601.14897/summary.typ) · [短评](papers/2601.14897/summary.md) | [图形](papers/2601.14897/graphics) |
 | [怎样制造兼顾低热噪声和低吸收的三材料介质镜](https://arxiv.org/abs/2601.17886v1) | [`main.typ`](papers/2601.17886/main.typ)（按 PDF 重建） | [详评](papers/2601.17886/summary.typ) · [短评](papers/2601.17886/summary.md) | [图形](papers/2601.17886/graphics) |
 | [用线性电感耦合器改善约瑟夫森放大器的动态范围](https://arxiv.org/abs/2611.23188v1) | [`main.typ`](papers/2611.23188/main.typ)（按 PDF 重建） | [详评](papers/2611.23188/summary.typ) · [短评](papers/2611.23188/summary.md) | [图形](papers/2611.23188/graphics) |
