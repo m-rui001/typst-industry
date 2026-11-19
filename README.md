@@ -19,6 +19,7 @@ arXiv 应用物理论文的中文评读和 Typst 排版项目。评读沿着原�
 
 | 论文 | 正文和补充材料 | 中文评读 | 图形与其他源码 |
 | --- | --- | --- | --- |
+| [钙钛矿电池织构对成膜、输运和机械性能的影响](https://arxiv.org/abs/2605.30182v1) | [`main.typ`](papers/2605.30182/main.typ)（按 PDF 重建） | [详评](papers/2605.30182/summary.typ) · [短评](papers/2605.30182/summary.md) | [原图见 arXiv](https://arxiv.org/pdf/2605.30182v1) |
 | [用电容频谱预测钙钛矿太阳电池的迟滞](https://arxiv.org/abs/2611.12115v1) | [`main.typ`](papers/2611.12115/main.typ)（按 PDF 重建） | [详评](papers/2611.12115/summary.typ) · [短评](papers/2611.12115/summary.md) | [图形](papers/2611.12115/graphics) |
 | [诊断钙钛矿–硅叠层电池的填充因子损失](https://arxiv.org/abs/2604.24098v1) | [`main.typ`](papers/2604.24098/main.typ)（按 PDF 重建） | [详评](papers/2604.24098/summary.typ) · [短评](papers/2604.24098/summary.md) | [图形](papers/2604.24098/graphics) |
 | [石墨烯片取向与复合涂层的腐蚀启动](https://arxiv.org/abs/2602.13256v1) | [arXiv 原文](https://arxiv.org/abs/2602.13256v1)（CC BY-NC-ND 4.0） | [详评](papers/2602.13256/summary.typ) · [短评](papers/2602.13256/summary.md) | — |
