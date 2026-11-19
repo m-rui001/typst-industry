@@ -1,0 +1,1 @@
+*Universal thermometry of solid-liquid interfacial thermal conductance* by Tao Chen and Puqing Jiang, [arXiv:2604.13741v1](https://arxiv.org/abs/2604.13741v1). The source and this Typst adaptation with extracted graphics use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The adaptation repositions PDF text and extracts the remaining page graphics.
